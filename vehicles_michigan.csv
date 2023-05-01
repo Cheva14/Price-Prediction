@@ -1,0 +1,4801 @@
+﻿id,price,year,manufacturer,condition,fuel,odometer
+1,22568,2014,ram,excellent,gas,133275
+2,4380,2006,jeep,excellent,gas,160252
+3,7800,2012,chevrolet,excellent,gas,130000
+4,38990,2020,tesla,good,electric,9665
+5,32590,2015,mercedes-benz,good,gas,34811
+6,3906,2011,ford,excellent,gas,230739
+7,9360,2011,nissan,excellent,gas,125475
+8,18990,2020,chevrolet,good,gas,6395
+9,30590,2020,ford,good,gas,10740
+10,21995,2016,toyota,excellent,hybrid,44438
+11,66524,2019,ford,excellent,gas,41468
+12,11667,2016,gmc,excellent,gas,104056
+13,37990,2019,jeep,good,gas,21020
+14,39590,2019,chevrolet,good,gas,21014
+15,8725,2015,chrysler,excellent,diesel,127000
+16,11995,2013,volkswagen,excellent,diesel,74944
+17,9900,2005,toyota,excellent,gas,96000
+18,25000,2016,chevrolet,excellent,gas,108100
+19,25814,2017,ram,excellent,gas,76263
+20,18659,2016,jeep,excellent,gas,72657
+21,3450,2003,nissan,excellent,gas,173612
+22,14200,2015,chevrolet,excellent,gas,91000
+23,12000,2017,volkswagen,excellent,gas,53000
+24,7000,2002,chevrolet,excellent,gas,127000
+25,6000,2011,dodge,excellent,gas,161000
+26,4450,2006,subaru,excellent,gas,159000
+27,6800,2009,chevrolet,excellent,gas,85000
+28,22500,2017,chevrolet,good,gas,40775
+29,28990,2018,jeep,good,gas,23386
+30,8748,2007,ram,excellent,gas,143031
+31,9981,2015,dodge,excellent,gas,71435
+32,25000,2015,ford,like new,gas,170000
+33,4000,2012,fiat,excellent,gas,133500
+34,8100,2013,chevrolet,excellent,gas,67600
+35,8000,2008,buick,new,gas,75000
+36,34990,2018,jeep,good,gas,37509
+37,4891,2007,cadillac,excellent,gas,184192
+38,15990,2017,ford,good,hybrid,48195
+39,14995,2014,chevrolet,excellent,gas,61138
+40,4533,2007,chevrolet,excellent,diesel,129746
+41,9995,2011,buick,excellent,gas,124283
+42,32990,2019,ford,good,gas,35899
+43,4995,2005,gmc,excellent,gas,196522
+44,17900,2017,ford,excellent,electric,15500
+45,3751,2003,chevrolet,excellent,gas,183704
+46,17995,2012,chevrolet,excellent,gas,133890
+47,13444,2015,chevrolet,excellent,gas,124588
+48,30590,2015,bmw,good,gas,30160
+49,30590,2019,mini,good,gas,21246
+50,44900,2013,jeep,excellent,gas,38876
+51,14000,2008,ford,good,gas,72750
+52,8000,2013,chevrolet,good,gas,75221
+53,19500,2001,chevrolet,like new,gas,93000
+54,12879,2011,ford,excellent,gas,106080
+55,9000,2010,cadillac,excellent,gas,94000
+56,13750,2014,ford,good,gas,92609
+57,2250,2004,buick,good,gas,200120
+58,4913,2010,ford,excellent,gas,187470
+59,8375,2013,dodge,excellent,gas,118425
+60,20700,2020,chevrolet,new,gas,12727
+61,14572,2018,chevrolet,excellent,gas,92221
+62,22590,2015,hyundai,good,gas,20346
+63,5995,2010,chevrolet,excellent,gas,186187
+64,13000,2012,chevrolet,good,gas,68000
+65,6938,2013,ford,excellent,gas,152967
+66,37990,2016,chevrolet,good,gas,9704
+67,25990,2014,gmc,good,gas,15575
+68,5811,2009,volkswagen,excellent,gas,98532
+69,10918,2013,ford,excellent,gas,113418
+70,24900,2017,bmw,excellent,gas,42500
+71,35990,2020,dodge,good,gas,6933
+72,9539,2012,ford,excellent,gas,126821
+73,4639,2003,audi,excellent,gas,87332
+74,3500,2009,bmw,good,gas,195483
+75,9995,2006,ford,good,gas,33025
+76,30500,2018,ram,excellent,gas,61800
+77,6200,2006,ford,good,gas,172000
+78,7000,2011,ford,excellent,gas,91555
+79,13995,2016,volkswagen,excellent,gas,37850
+80,8950,2011,toyota,excellent,gas,76000
+81,11439,2007,gmc,excellent,gas,180000
+82,9800,2011,mazda,excellent,gas,96000
+83,14500,2016,jeep,excellent,gas,48200
+84,43941,2020,chevrolet,like new,gas,16108
+85,6750,1992,chrysler,like new,gas,42000
+86,3995,2009,mercury,excellent,gas,125427
+87,39620,2018,gmc,excellent,gas,105546
+88,34990,2010,chevrolet,good,gas,19502
+89,13500,2013,ford,like new,gas,35640
+90,21396,2019,gmc,excellent,gas,21679
+91,14223,2017,chevrolet,excellent,gas,16753
+92,24990,2013,bmw,good,gas,27287
+93,20753,2017,ford,excellent,gas,77452
+94,6500,2012,chevrolet,excellent,gas,78000
+95,14693,2011,ford,excellent,gas,182799
+96,2800,2008,subaru,fair,gas,200500
+97,16000,2017,ford,excellent,gas,52500
+98,4372,2006,gmc,excellent,gas,175857
+99,8387,2015,ford,excellent,gas,73513
+100,5900,2013,ford,excellent,gas,117000
+101,26990,2019,volkswagen,good,gas,13663
+102,27590,2020,volkswagen,good,gas,1309
+103,27990,2018,nissan,good,gas,37332
+104,2250,2006,lincoln,good,gas,202997
+105,4900,2010,ford,fair,gas,138000
+106,13000,2016,ford,like new,gas,99000
+107,16000,2016,lincoln,like new,gas,60000
+108,4500,2006,jeep,good,gas,207670
+109,14971,1988,toyota,excellent,gas,209940
+110,4400,2006,honda,excellent,gas,190000
+111,5500,2007,honda,excellent,gas,147000
+112,3000,2005,pontiac,good,gas,230000
+113,11981,2010,mazda,excellent,gas,89686
+114,8723,2015,nissan,excellent,gas,70340
+115,21971,2018,dodge,excellent,gas,50595
+116,13320,2014,toyota,excellent,gas,63449
+117,31590,2020,mazda,good,gas,2195
+118,17945,2020,ford,excellent,gas,2366
+119,13995,2010,chevrolet,excellent,gas,43600
+120,8400,2012,mercedes-benz,good,gas,110000
+121,26590,2013,infiniti,good,gas,38468
+122,6943,2014,ford,excellent,gas,80555
+123,29990,2018,volvo,good,gas,13859
+124,15736,2013,lexus,excellent,gas,86516
+125,6568,2004,ram,excellent,gas,237583
+126,34590,2016,chevrolet,good,gas,29499
+127,6500,1999,jeep,good,gas,164000
+128,9663,2013,hyundai,excellent,gas,118051
+129,27981,2015,gmc,excellent,gas,105571
+130,5600,2009,chevrolet,like new,gas,122000
+131,11500,2015,chevrolet,excellent,gas,126146
+132,15962,2020,toyota,excellent,gas,22650
+133,39500,2015,chevrolet,like new,gas,75000
+134,46501,2019,gmc,excellent,gas,9707
+135,32990,2019,ford,good,gas,22769
+136,26990,2017,cadillac,good,gas,41147
+137,31590,2018,toyota,good,gas,62496
+138,16590,2015,volkswagen,good,gas,39649
+139,9000,2004,chevrolet,excellent,gas,115000
+140,8000,2004,toyota,excellent,gas,225000
+141,4325,2006,honda,excellent,gas,180000
+142,9640,2016,hyundai,excellent,gas,71072
+143,16500,2013,ford,excellent,gas,89000
+144,2900,2004,bmw,fair,gas,164000
+145,3850,1976,mercedes-benz,good,gas,149000
+146,13424,2013,nissan,excellent,gas,96334
+147,4200,2009,pontiac,good,gas,148737
+148,9523,2009,ford,excellent,gas,230869
+149,6981,2005,lincoln,excellent,gas,64106
+150,15600,2016,nissan,excellent,gas,61000
+151,7317,2006,ford,excellent,gas,160845
+152,5600,2006,honda,excellent,gas,116000
+153,4285,2011,nissan,excellent,gas,181892
+154,9995,2008,mercedes-benz,excellent,diesel,161013
+155,3590,2002,toyota,excellent,gas,183417
+156,11500,2013,chevrolet,excellent,gas,86700
+157,3500,1984,gmc,good,gas,128000
+158,16000,1999,jeep,excellent,gas,100573
+159,18500,2017,buick,excellent,gas,53000
+160,7800,2009,bmw,good,gas,130000
+161,17317,2018,chevrolet,excellent,gas,38972
+162,5800,2010,jeep,excellent,gas,151000
+163,9953,2013,mazda,excellent,gas,101043
+164,4300,2011,hyundai,good,gas,228000
+165,15491,2014,volvo,excellent,gas,118288
+166,18900,2011,ford,excellent,gas,100400
+167,5900,2008,audi,excellent,gas,142000
+168,8550,2005,ram,excellent,gas,180000
+169,20995,2018,gmc,excellent,gas,32715
+170,7280,2009,ford,excellent,gas,204630
+171,18969,2013,ford,excellent,gas,99805
+172,9000,2011,chevrolet,excellent,gas,63000
+173,29990,2018,chevrolet,good,gas,11401
+174,23990,2015,lexus,good,gas,53388
+175,26990,2016,ford,good,gas,14230
+176,18590,2017,mazda,good,gas,34723
+177,8800,2008,nissan,excellent,gas,145000
+178,17990,2018,chevrolet,good,gas,41076
+179,21995,2018,volkswagen,excellent,gas,37434
+180,15400,2016,chevrolet,salvage,gas,125000
+181,16500,2015,mazda,excellent,gas,65000
+182,2933,2007,ford,excellent,gas,182671
+183,3200,2009,ford,good,gas,200200
+184,20340,2017,dodge,excellent,gas,64182
+185,8541,2016,volkswagen,excellent,gas,83683
+186,4533,2008,jeep,excellent,gas,147498
+187,36990,2016,gmc,good,gas,23190
+188,32990,2013,tesla,good,electric,62588
+189,4500,2001,toyota,excellent,gas,150000
+190,13500,2013,bmw,excellent,gas,77000
+191,4200,2010,pontiac,excellent,gas,170000
+192,5450,2010,chevrolet,excellent,gas,147000
+193,20995,2018,chevrolet,excellent,gas,17643
+194,25990,2019,ram,good,gas,12302
+195,36990,2018,jeep,good,gas,30731
+196,6308,2005,lexus,excellent,gas,138300
+197,5250,2000,lexus,excellent,gas,180000
+198,3250,2003,ford,excellent,gas,155000
+199,3500,2012,kia,excellent,gas,130000
+200,14981,2004,nissan,excellent,gas,24367
+201,27990,2020,ford,good,gas,10688
+202,16495,2015,lincoln,excellent,gas,75289
+203,13500,2004,ford,good,diesel,102000
+204,10500,2008,bmw,excellent,gas,79000
+205,10000,2015,ford,good,gas,114000
+206,9900,2012,honda,excellent,gas,114000
+207,5250,2010,volkswagen,excellent,gas,86000
+208,2671,2004,pontiac,excellent,gas,239988
+209,12519,2016,chevrolet,excellent,gas,130412
+210,5500,2010,honda,good,gas,172045
+211,9885,2014,chevrolet,excellent,gas,130913
+212,14713,2016,toyota,like new,gas,98854
+213,8239,2008,toyota,excellent,gas,216032
+214,19481,2011,ford,excellent,gas,108428
+215,19995,2019,buick,excellent,gas,27547
+216,18500,2011,bmw,excellent,gas,69000
+217,21874,2017,dodge,like new,gas,61446
+218,18997,2018,ford,like new,gas,12766
+219,11987,2013,ford,like new,gas,49250
+220,18495,2017,volkswagen,excellent,gas,43406
+221,46741,2012,ram,like new,gas,30716
+222,2300,2002,honda,good,gas,170000
+223,19946,2015,ram,excellent,gas,123339
+224,37990,2016,toyota,good,gas,22870
+225,36590,2019,tesla,good,electric,23057
+226,32990,2016,jeep,good,gas,42344
+227,39990,2019,nissan,good,gas,8373
+228,17958,2015,dodge,excellent,gas,86410
+229,4995,2001,bmw,excellent,gas,206665
+230,2967,2004,pontiac,excellent,gas,192605
+231,2000,2008,mazda,good,gas,139460
+232,17907,2015,ram,excellent,diesel,112908
+233,4000,2004,mercedes-benz,good,gas,121400
+234,6300,2015,chrysler,good,gas,169000
+235,77261,2020,gmc,excellent,diesel,1800
+236,4500,2008,ram,good,gas,212800
+237,25232,2016,ford,excellent,gas,118154
+238,2500,1999,ford,fair,gas,115000
+239,35990,2020,dodge,good,gas,1548
+240,19861,2013,bmw,excellent,gas,52040
+241,7266,2012,gmc,excellent,gas,153553
+242,29990,2019,chevrolet,good,gas,6727
+243,13307,2016,chevrolet,excellent,gas,110284
+244,13500,2014,audi,excellent,gas,120008
+245,7500,2012,volkswagen,excellent,gas,102000
+246,18000,1996,ford,excellent,diesel,188000
+247,27408,2016,ram,excellent,gas,67331
+248,5000,2007,ford,excellent,gas,85000
+249,26701,2013,ford,excellent,gas,54265
+250,24698,2015,ram,excellent,diesel,84279
+251,31399,2018,ram,excellent,gas,30500
+252,26590,2020,honda,good,gas,9954
+253,18750,2014,mercedes-benz,excellent,diesel,112000
+254,22903,2013,ford,excellent,gas,89198
+255,27990,2020,honda,good,gas,7209
+256,19590,2018,honda,good,gas,35931
+257,19990,2019,honda,good,gas,18806
+258,29590,2017,ford,good,gas,70760
+259,43995,2018,gmc,excellent,gas,34056
+260,55500,2017,ford,like new,gas,4500
+261,2300,2004,pontiac,good,gas,173000
+262,3490,2010,hyundai,excellent,gas,220000
+263,12995,2017,chevrolet,excellent,gas,107923
+264,22381,2017,gmc,excellent,gas,123214
+265,18587,2010,ram,excellent,gas,100156
+266,17982,2019,chevrolet,like new,gas,43769
+267,10781,2013,ford,like new,gas,92948
+268,13329,2010,dodge,excellent,gas,93024
+269,23995,2017,buick,excellent,gas,33580
+270,16941,2020,hyundai,like new,gas,23505
+271,27841,2017,lincoln,like new,gas,23798
+272,21990,2011,ford,good,gas,32652
+273,13995,2016,honda,like new,gas,98156
+274,26990,2016,mazda,good,gas,7512
+275,15495,2018,chevrolet,excellent,gas,27317
+276,20995,2018,volkswagen,excellent,gas,41262
+277,5500,2009,subaru,excellent,gas,142000
+278,29433,2018,gmc,excellent,gas,9207
+279,13851,2013,infiniti,excellent,gas,104831
+280,20590,2013,infiniti,good,gas,57181
+281,17144,2009,ford,excellent,gas,63349
+282,15995,2019,chevrolet,excellent,gas,14812
+283,11000,2016,ford,excellent,gas,32000
+284,2791,1998,buick,excellent,gas,124000
+285,4750,2005,honda,good,gas,184000
+286,12925,2013,lincoln,excellent,gas,117779
+287,22490,2017,nissan,excellent,gas,26259
+288,11500,2017,chevrolet,excellent,gas,75000
+289,33987,2018,dodge,like new,gas,18591
+290,23841,2019,acura,like new,gas,28395
+291,17853,2018,nissan,excellent,gas,87197
+292,9500,1989,pontiac,excellent,gas,127400
+293,29590,2015,bmw,good,diesel,30179
+294,52000,2020,ford,like new,gas,26000
+295,19995,2019,buick,excellent,gas,23318
+296,2200,2003,cadillac,fair,gas,147085
+297,30800,2020,jeep,like new,gas,24000
+298,7521,2012,chrysler,excellent,gas,160771
+299,33590,2013,lexus,good,gas,33570
+300,30000,2014,ford,excellent,gas,132000
+301,19995,2017,volkswagen,excellent,gas,54701
+302,29590,2014,lexus,good,gas,60820
+303,19590,2017,acura,good,diesel,29014
+304,13173,2017,ford,excellent,gas,106730
+305,25990,2016,bmw,good,gas,45611
+306,11995,2015,kia,excellent,gas,100016
+307,22711,2018,chevrolet,excellent,gas,35048
+308,23359,2017,dodge,excellent,gas,44003
+309,18000,2011,gmc,good,hybrid,121000
+310,15683,2012,acura,excellent,gas,104335
+311,14156,2013,lincoln,excellent,gas,108740
+312,17500,2016,honda,excellent,gas,45000
+313,6997,2009,gmc,excellent,gas,138161
+314,21420,2017,gmc,excellent,gas,107451
+315,10806,2013,ford,excellent,gas,57048
+316,3700,2010,ford,excellent,gas,135000
+317,16544,2014,honda,excellent,gas,98816
+318,23990,2014,acura,good,gas,62390
+319,26338,2015,ford,excellent,gas,112419
+320,39590,2019,acura,good,gas,8919
+321,20995,2019,gmc,excellent,gas,33973
+322,29874,2016,ram,excellent,diesel,71123
+323,10470,2013,ford,excellent,gas,86617
+324,20695,2013,ram,excellent,gas,103226
+325,18469,2013,cadillac,excellent,gas,47187
+326,16590,2016,hyundai,good,gas,39763
+327,23995,2018,buick,excellent,gas,43323
+328,18995,2018,buick,excellent,gas,22906
+329,21590,2017,jaguar,good,gas,46661
+330,14725,2013,cadillac,excellent,gas,96181
+331,36990,2020,cadillac,good,gas,2120
+332,11552,2012,ford,excellent,gas,193313
+333,10900,2012,chevrolet,excellent,gas,221248
+334,10900,2011,chevrolet,excellent,gas,104200
+335,27482,2015,ram,excellent,gas,112734
+336,9000,2008,ram,good,gas,198000
+337,3530,2007,dodge,excellent,gas,178020
+338,31990,2018,audi,good,gas,19179
+339,35990,2018,audi,good,gas,29157
+340,15834,2013,dodge,excellent,gas,127494
+341,43990,2020,jaguar,good,gas,8157
+342,12181,2013,ford,excellent,gas,192842
+343,12787,2013,ford,excellent,gas,111244
+344,14618,2013,ford,excellent,gas,126599
+345,22747,2012,jeep,excellent,gas,102346
+346,8312,2011,jeep,excellent,gas,66250
+347,43995,2018,dodge,excellent,gas,21073
+348,22000,2015,subaru,excellent,gas,39000
+349,36590,2019,gmc,good,gas,14222
+350,16608,2015,lincoln,excellent,gas,94799
+351,8591,2011,acura,excellent,gas,213067
+352,35590,2011,dodge,good,gas,16796
+353,4616,2003,chevrolet,excellent,gas,120243
+354,17981,2009,ford,excellent,gas,67586
+355,24590,2016,chevrolet,good,gas,100851
+356,15520,2015,lincoln,excellent,gas,110249
+357,19900,1990,mercedes-benz,excellent,gas,46600
+358,14900,2015,jeep,excellent,gas,94712
+359,14993,2008,chevrolet,excellent,gas,94144
+360,22900,2017,ford,like new,gas,39665
+361,5811,2008,jeep,excellent,gas,166849
+362,2600,1994,chevrolet,fair,gas,220000
+363,51990,2020,jeep,good,gas,11100
+364,25990,2017,toyota,good,gas,22820
+365,23990,2017,toyota,good,gas,53783
+366,48990,2018,jeep,good,gas,6093
+367,3354,2009,ford,excellent,gas,187364
+368,38990,2017,jeep,good,gas,20676
+369,18750,2005,pontiac,good,gas,65000
+370,17500,2017,ford,excellent,gas,52000
+371,18280,2012,nissan,excellent,gas,86228
+372,18500,2014,ram,good,gas,144101
+373,7850,2012,volkswagen,like new,gas,89500
+374,13995,2011,acura,excellent,gas,64425
+375,39000,1972,dodge,like new,gas,1000
+376,9500,2012,honda,excellent,gas,85000
+377,25841,2014,ram,excellent,diesel,86564
+378,11304,2012,buick,excellent,gas,129342
+379,21871,2016,lincoln,like new,gas,68926
+380,17383,2010,jeep,like new,gas,128598
+381,21341,2019,jeep,like new,gas,46905
+382,4999,2010,toyota,good,gas,134918
+383,23000,2017,toyota,excellent,hybrid,12600
+384,41785,2016,ford,excellent,diesel,146863
+385,33570,2015,jeep,excellent,gas,19331
+386,12279,2014,ford,like new,gas,11503
+387,17995,2019,nissan,new,gas,28604
+388,34477,2018,lincoln,like new,gas,9567
+389,31470,2020,audi,like new,gas,32975
+390,5400,1996,ram,good,gas,226000
+391,22313,2014,ford,excellent,gas,99640
+392,35000,2017,mercedes-benz,like new,gas,52053
+393,40590,2019,ram,good,gas,16931
+394,36990,2013,mercedes-benz,good,gas,56553
+395,21590,2019,volkswagen,good,gas,7898
+396,75000,2018,audi,like new,gas,19435
+397,35590,2017,ram,good,gas,22401
+398,42590,2015,mercedes-benz,good,gas,24048
+399,15200,2017,jeep,excellent,gas,83000
+400,2900,1999,bmw,fair,gas,136000
+401,25000,2000,ford,like new,diesel,110000
+402,9981,2014,ford,excellent,gas,106700
+403,28990,2019,acura,good,gas,5736
+404,5500,2009,chevrolet,excellent,gas,110000
+405,13679,2015,bmw,excellent,gas,93218
+406,14349,2013,cadillac,excellent,gas,65568
+407,20590,2015,volkswagen,good,gas,43470
+408,7600,2005,mercedes-benz,good,gas,105000
+409,20000,2002,honda,good,gas,124000
+410,12999,2013,ford,excellent,gas,168000
+411,3674,2010,chevrolet,excellent,gas,217077
+412,19873,2011,toyota,like new,gas,91879
+413,30990,2018,acura,good,gas,34605
+414,32990,2017,acura,good,gas,29322
+415,7541,2005,chevrolet,excellent,gas,233010
+416,27590,2016,acura,good,gas,40762
+417,17500,2015,subaru,excellent,gas,101200
+418,3995,2009,kia,excellent,gas,103049
+419,3995,2005,volvo,excellent,gas,142040
+420,22641,2019,gmc,new,gas,44943
+421,30451,2015,gmc,new,gas,88585
+422,5200,2012,ram,excellent,gas,205000
+423,9500,1998,ram,good,gas,75000
+424,16871,2019,chevrolet,like new,gas,45584
+425,20871,2020,mitsubishi,like new,gas,9393
+426,21590,2017,infiniti,good,gas,36926
+427,2000,2002,gmc,fair,gas,145631
+428,18590,2018,hyundai,good,gas,20890
+429,25995,2015,ram,excellent,gas,115489
+430,2000,2005,chevrolet,fair,gas,213596
+431,40990,2018,mercedes-benz,good,gas,54431
+432,13500,2016,jeep,good,gas,77529
+433,37900,2020,toyota,excellent,gas,27500
+434,6500,2004,mercedes-benz,good,gas,114000
+435,18500,1978,mercedes-benz,excellent,gas,55000
+436,11849,2013,ford,excellent,gas,58971
+437,35590,2018,audi,good,gas,28162
+438,33590,2017,audi,good,gas,14318
+439,30990,2018,lexus,good,hybrid,27205
+440,3862,2008,pontiac,excellent,gas,216178
+441,9000,2016,gmc,excellent,gas,144926
+442,19704,2015,gmc,excellent,gas,78179
+443,40990,2014,chevrolet,good,gas,53263
+444,16590,2014,toyota,good,gas,82584
+445,5831,2004,chevrolet,excellent,gas,222884
+446,23990,2015,cadillac,good,gas,62050
+447,33990,2017,dodge,good,gas,11087
+448,25995,2014,chevrolet,excellent,gas,105100
+449,10820,2013,ford,excellent,gas,92319
+450,4800,2011,chevrolet,like new,gas,154000
+451,26990,2017,dodge,good,gas,34039
+452,8500,2013,cadillac,good,gas,152820
+453,33500,2019,buick,like new,gas,15000
+454,14410,2013,lincoln,excellent,gas,65481
+455,15160,2015,chrysler,excellent,gas,88785
+456,23590,2018,ford,good,gas,24957
+457,20900,2015,lincoln,excellent,gas,96000
+458,9838,2015,ford,excellent,gas,103917
+459,38590,2012,chevrolet,good,gas,32086
+460,29990,2017,jeep,good,gas,26965
+461,19177,2015,ram,excellent,diesel,112821
+462,11760,2012,dodge,excellent,gas,43031
+463,19389,2013,ford,excellent,gas,105941
+464,12839,2010,toyota,excellent,gas,230990
+465,26990,2017,infiniti,good,gas,40529
+466,30990,2019,lincoln,good,gas,25786
+467,3915,2008,jeep,excellent,gas,209256
+468,15800,2000,pontiac,excellent,gas,56000
+469,34990,2020,cadillac,good,gas,12666
+470,14990,2015,honda,good,gas,77726
+471,6931,2010,chrysler,excellent,gas,112098
+472,14966,2013,ram,excellent,gas,135680
+473,6700,2010,gmc,good,gas,86000
+474,27841,2017,lexus,like new,gas,34591
+475,12486,2014,honda,like new,gas,156171
+476,19871,2019,honda,like new,gas,36682
+477,21321,2020,ford,like new,gas,1203
+478,24768,2016,ram,excellent,diesel,120242
+479,15990,2018,volkswagen,good,gas,42060
+480,39995,2019,lincoln,like new,gas,13078
+481,41590,2019,ram,good,gas,44925
+482,15590,2018,volkswagen,good,gas,51500
+483,20995,2019,volkswagen,excellent,gas,3097
+484,13092,2017,ford,like new,gas,91471
+485,10749,2010,ram,excellent,gas,161293
+486,38590,2019,ram,good,gas,28556
+487,43990,2019,ram,good,gas,17352
+488,30990,2011,mercedes-benz,good,hybrid,51086
+489,40990,2020,ram,good,gas,12272
+490,7373,2014,chevrolet,excellent,gas,100098
+491,7995,2011,subaru,excellent,gas,140167
+492,13871,2014,ford,like new,gas,54361
+493,25939,2015,chevrolet,like new,gas,93009
+494,28841,2015,chevrolet,like new,gas,38906
+495,11271,2014,chevrolet,like new,gas,124001
+496,28941,2017,bmw,like new,gas,45741
+497,32654,2018,acura,like new,gas,36483
+498,24995,2012,ram,excellent,gas,65568
+499,14394,2017,ford,excellent,gas,77000
+500,10983,2014,ford,excellent,hybrid,100632
+501,19990,2013,volkswagen,good,gas,24294
+502,39990,2020,lincoln,good,gas,7469
+503,25990,2016,bmw,good,gas,41785
+504,17590,2020,kia,good,gas,40166
+505,36990,2020,bmw,good,gas,35938
+506,5900,1994,ford,good,gas,136000
+507,29990,2017,lincoln,good,gas,23545
+508,3000,1996,jaguar,good,gas,157000
+509,7500,2007,mercedes-benz,excellent,gas,86391
+510,43990,2020,acura,good,gas,1944
+511,32000,2017,dodge,excellent,gas,54000
+512,22000,2018,jeep,like new,gas,30671
+513,43590,2020,acura,good,gas,12012
+514,41590,2020,acura,good,gas,20003
+515,26981,2014,toyota,excellent,gas,98071
+516,12563,2013,gmc,excellent,gas,126806
+517,39590,2020,acura,good,gas,2835
+518,5000,2011,ford,good,gas,176000
+519,39990,2020,acura,good,gas,1237
+520,13500,2018,chevrolet,like new,gas,45000
+521,29715,2014,ford,excellent,gas,58060
+522,8300,2013,chevrolet,good,gas,67400
+523,26990,2020,hyundai,good,gas,2769
+524,40990,2017,mercedes-benz,good,gas,43451
+525,30990,2018,mercedes-benz,good,gas,7896
+526,34590,2020,cadillac,good,gas,9624
+527,4600,2008,kia,excellent,gas,147600
+528,7800,2004,ford,excellent,gas,119600
+529,22990,2017,volkswagen,good,gas,34443
+530,4000,2007,bmw,good,gas,121000
+531,28990,2017,bmw,good,gas,49355
+532,5850,2007,honda,excellent,gas,136000
+533,4550,2006,ford,excellent,gas,199000
+534,5250,2004,honda,excellent,gas,163000
+535,6995,2010,honda,excellent,gas,149000
+536,4650,2007,chevrolet,excellent,gas,177000
+537,4550,2005,mercedes-benz,good,gas,149000
+538,29990,2017,jeep,good,gas,22947
+539,9900,2013,ford,good,gas,165000
+540,32990,2018,ram,good,gas,29979
+541,26590,2019,ram,good,gas,15807
+542,33990,2011,chevrolet,good,gas,70976
+543,31990,2017,gmc,good,gas,31496
+544,19500,2000,ford,good,diesel,237000
+545,9995,1986,chevrolet,excellent,gas,61713
+546,6500,2008,dodge,good,gas,100000
+547,5750,2009,toyota,excellent,gas,123000
+548,12750,2011,honda,excellent,gas,120000
+549,7995,2003,ford,excellent,gas,131000
+550,6250,2009,ford,excellent,gas,87000
+551,24590,2017,chevrolet,good,gas,40784
+552,39590,2020,ford,good,gas,1419
+553,36990,2019,chevrolet,good,gas,14508
+554,7250,2007,honda,excellent,gas,108000
+555,4450,2008,ford,excellent,gas,155000
+556,7950,2012,honda,excellent,gas,131000
+557,29990,2012,toyota,good,gas,43182
+558,30990,2019,ford,good,gas,5468
+559,2000,2002,honda,good,gas,199000
+560,18997,2018,kia,excellent,gas,24956
+561,12997,2010,ford,good,gas,138154
+562,11997,2011,ford,excellent,gas,160349
+563,14997,2012,ford,good,gas,117250
+564,29997,1998,chevrolet,good,diesel,104735
+565,12997,2016,chevrolet,good,gas,87225
+566,11997,2005,lincoln,good,gas,76286
+567,7997,2004,mazda,excellent,gas,129641
+568,14997,2009,chevrolet,good,gas,143923
+569,11997,2008,ford,good,gas,103052
+570,9497,2010,toyota,excellent,gas,80079
+571,14999,2016,dodge,good,gas,112124
+572,14999,2015,dodge,good,gas,103603
+573,2500,2005,honda,good,gas,217083
+574,15999,2016,ford,good,gas,27797
+575,2000,1996,chevrolet,fair,diesel,160000
+576,5550,2002,chevrolet,excellent,gas,84000
+577,7850,2014,chrysler,excellent,gas,129000
+578,6950,2011,ford,excellent,gas,130000
+579,6250,2011,chevrolet,excellent,gas,179000
+580,8775,2014,ford,excellent,gas,59000
+581,3000,2007,honda,fair,gas,200000
+582,7999,2014,dodge,good,gas,154191
+583,6900,2010,ford,good,gas,212000
+584,27990,2017,chevrolet,good,gas,22120
+585,6900,2001,chevrolet,good,diesel,178000
+586,19300,2017,ford,excellent,gas,13500
+587,17000,2007,jeep,excellent,gas,80800
+588,22990,2012,toyota,good,gas,37725
+589,28590,2010,chevrolet,good,gas,16903
+590,30990,2019,mazda,good,gas,4936
+591,9300,2012,chevrolet,good,gas,59900
+592,7850,2010,toyota,excellent,gas,152000
+593,7997,2006,gmc,excellent,gas,146000
+594,7995,2012,chevrolet,excellent,gas,109000
+595,27590,2019,jeep,good,gas,6955
+596,15999,2014,dodge,good,gas,24484
+597,6900,2011,chevrolet,good,gas,172000
+598,5400,2011,ford,good,gas,155000
+599,5400,2012,ford,good,gas,171000
+600,13500,2012,honda,excellent,gas,90900
+601,6750,2008,chevrolet,excellent,gas,124000
+602,13500,2013,ford,excellent,gas,165619
+603,11997,2011,ford,good,gas,163341
+604,32990,2018,audi,good,gas,41131
+605,30590,2017,audi,good,gas,24238
+606,18590,2020,kia,good,gas,16300
+607,17990,2020,kia,good,gas,13444
+608,32590,2013,lexus,good,gas,60271
+609,5750,2010,chevrolet,excellent,gas,87000
+610,7250,2009,chevrolet,excellent,gas,125000
+611,6788,2009,mercury,excellent,gas,128000
+612,9999,2018,kia,good,gas,39808
+613,22590,2019,mitsubishi,good,gas,8577
+614,9800,2012,honda,good,gas,85000
+615,5900,2008,saturn,good,gas,78000
+616,5400,2010,nissan,good,gas,104000
+617,8900,2014,ford,good,gas,124000
+618,36590,2019,volvo,good,gas,7618
+619,7999,2013,hyundai,good,gas,89381
+620,8499,2014,chevrolet,good,gas,116251
+621,6900,2007,ford,good,gas,126000
+622,7400,2013,chevrolet,good,gas,135000
+623,47590,2020,lexus,good,gas,6616
+624,33590,2018,acura,good,gas,20168
+625,6900,2009,volkswagen,excellent,gas,3500
+626,18590,2011,audi,good,gas,39200
+627,32590,2020,cadillac,good,gas,14913
+628,33990,2017,ram,good,gas,17033
+629,52590,2015,chevrolet,good,gas,9740
+630,44999,2015,cadillac,excellent,gas,50149
+631,22000,2019,hyundai,like new,gas,51000
+632,21590,2011,mazda,good,gas,23483
+633,15999,2016,subaru,good,gas,102000
+634,39990,2018,bmw,good,gas,45789
+635,54590,2020,bmw,good,gas,9401
+636,25590,2017,bmw,good,gas,23089
+637,5995,2009,honda,excellent,gas,149000
+638,6250,2010,chevrolet,excellent,gas,164000
+639,15997,2019,ford,good,gas,12251
+640,42590,2018,jeep,good,gas,49510
+641,34997,2019,ford,good,gas,30649
+642,7997,2014,chevrolet,good,gas,94567
+643,12997,2017,subaru,good,gas,82453
+644,13997,2017,toyota,good,gas,57989
+645,22997,2015,ford,good,gas,102567
+646,34990,2018,jeep,good,gas,19026
+647,12497,2019,chevrolet,good,gas,50003
+648,18997,2015,dodge,good,gas,63375
+649,15997,2018,subaru,good,gas,87168
+650,17997,2017,subaru,good,gas,58069
+651,11997,2015,ford,good,gas,71032
+652,13497,2016,nissan,good,gas,97786
+653,14997,2017,honda,good,gas,29629
+654,12997,2017,chevrolet,good,gas,71151
+655,10995,2010,ford,excellent,gas,120705
+656,29990,2018,audi,good,gas,23559
+657,34590,2018,audi,good,gas,26811
+658,29990,2018,buick,good,gas,34870
+659,19990,2020,kia,good,gas,1997
+660,14990,2016,kia,good,gas,43223
+661,32590,2013,lexus,good,gas,30384
+662,24990,2012,lexus,good,gas,51724
+663,37990,2018,lexus,good,gas,32952
+664,17590,2015,volvo,good,gas,63512
+665,31590,2020,cadillac,good,gas,12458
+666,43990,2013,chevrolet,good,gas,7803
+667,24590,2018,acura,good,gas,30316
+668,11995,2015,chevrolet,good,gas,89011
+669,32590,2018,bmw,good,gas,32757
+670,21500,2015,jeep,like new,gas,108000
+671,31590,2018,bmw,good,gas,35859
+672,37990,2020,bmw,good,gas,25951
+673,8499,2013,ford,good,gas,108248
+674,31590,2017,bmw,good,gas,20652
+675,5000,2010,kia,good,gas,212875
+676,26590,2018,lincoln,good,gas,19506
+677,39590,2020,jeep,good,gas,28240
+678,29990,2018,jeep,good,gas,49762
+679,31590,2017,jeep,good,gas,19141
+680,23590,2017,infiniti,good,gas,36995
+681,41590,2020,buick,good,gas,29010
+682,16990,2018,kia,good,gas,18805
+683,16590,2020,kia,good,gas,24060
+684,30590,2020,volvo,good,gas,12029
+685,21900,2017,toyota,excellent,hybrid,19000
+686,14000,2005,chevrolet,good,diesel,228000
+687,4995,2008,chrysler,excellent,gas,169555
+688,29990,2016,chevrolet,good,gas,17302
+689,29500,2014,gmc,excellent,gas,76648
+690,15000,2016,ford,excellent,gas,121000
+691,9000,1981,jeep,fair,gas,50000
+692,8900,2000,chevrolet,good,gas,125000
+693,32590,2017,jeep,good,gas,34703
+694,3200,1999,gmc,fair,gas,172000
+695,27990,2012,gmc,good,gas,68696
+696,32900,2019,jeep,like new,gas,43211
+697,10300,2008,saturn,excellent,gas,113000
+698,37590,2020,dodge,good,gas,1937
+699,30500,2018,jeep,excellent,gas,59000
+700,3000,2007,ford,good,gas,217435
+701,38590,2019,acura,good,gas,28086
+702,3695,2003,ford,excellent,gas,150000
+703,4500,2009,saturn,good,gas,191190
+704,13750,2008,bmw,excellent,gas,55760
+705,2250,1997,ford,fair,gas,122156
+706,26500,2016,ram,excellent,gas,40000
+707,31990,2018,ram,good,gas,27426
+708,29990,2016,nissan,good,gas,24661
+709,39990,2018,ford,good,gas,32143
+710,36500,2014,chevrolet,excellent,gas,30000
+711,21500,2015,jeep,like new,gas,66000
+712,25900,2020,chevrolet,like new,gas,8600
+713,19995,2002,gmc,excellent,gas,79000
+714,2300,2003,chevrolet,good,gas,173630
+715,3900,2011,kia,excellent,gas,136000
+716,26000,2015,ford,like new,gas,135927
+717,34700,2014,chevrolet,excellent,gas,101000
+718,11995,2016,chrysler,good,gas,131000
+719,39590,2018,toyota,good,gas,34199
+720,28500,2016,infiniti,like new,gas,112000
+721,29990,2014,chevrolet,good,gas,26129
+722,7950,2013,chevrolet,excellent,gas,84592
+723,2200,1995,jeep,good,gas,206000
+724,4000,2005,ford,good,gas,164227
+725,14995,2004,ford,excellent,diesel,117000
+726,20590,2019,dodge,good,gas,17213
+727,33590,2018,lexus,good,gas,30814
+728,19590,2013,lexus,good,gas,72857
+729,11900,2014,chevrolet,fair,gas,155000
+730,9500,2015,dodge,good,gas,136000
+731,23590,2018,chrysler,good,gas,42786
+732,24990,2018,chrysler,good,gas,15608
+733,23590,2017,chrysler,good,gas,27382
+734,5500,2000,jeep,good,gas,176310
+735,9000,2013,dodge,excellent,gas,113500
+736,16000,2010,ford,excellent,gas,55900
+737,32990,2017,audi,good,gas,58109
+738,4000,2012,gmc,excellent,gas,154265
+739,16800,2014,gmc,excellent,gas,98000
+740,13800,2008,ford,excellent,gas,115777
+741,40590,2018,lexus,good,gas,9173
+742,9500,1986,mazda,good,gas,138700
+743,49990,2018,bmw,good,gas,17083
+744,27000,2012,jeep,excellent,gas,33000
+745,22990,2015,chevrolet,good,gas,25865
+746,16000,2014,ford,good,gas,67900
+747,2000,1999,chrysler,good,gas,155000
+748,36990,2018,jeep,good,gas,21534
+749,40990,2018,jeep,good,gas,27605
+750,14000,2007,toyota,excellent,gas,222000
+751,25990,2019,honda,good,gas,15674
+752,8590,2012,honda,good,gas,82848
+753,19990,2018,hyundai,good,gas,25519
+754,18500,2012,chevrolet,good,gas,163000
+755,7500,2014,chevrolet,excellent,gas,113000
+756,20590,2019,chevrolet,good,gas,6523
+757,17990,2019,chevrolet,good,gas,21125
+758,15995,2017,dodge,excellent,gas,88000
+759,18995,2013,chevrolet,good,gas,120000
+760,17000,2014,honda,like new,gas,45600
+761,21590,2019,dodge,good,gas,21482
+762,22990,2013,lexus,good,gas,54357
+763,26990,2018,alfa-romeo,good,gas,14017
+764,29590,2017,lexus,good,gas,40565
+765,6500,2010,gmc,good,gas,133000
+766,21990,2016,chrysler,good,gas,51348
+767,17300,2017,ford,like new,gas,54005
+768,9900,2009,gmc,excellent,gas,90000
+769,26990,2017,buick,good,gas,50595
+770,41590,2020,audi,good,gas,27160
+771,17500,2015,chevrolet,excellent,gas,157000
+772,8500,2010,gmc,fair,gas,173000
+773,20995,2013,ford,good,gas,124000
+774,18500,2013,ram,excellent,gas,139000
+775,20990,2018,hyundai,good,gas,37767
+776,16990,2017,hyundai,good,gas,68426
+777,3500,2001,chevrolet,good,gas,150000
+778,30990,2017,jeep,good,gas,43039
+779,24500,2006,ford,excellent,diesel,147000
+780,9950,2010,ford,excellent,gas,177000
+781,10500,2010,chevrolet,good,gas,192458
+782,17990,2019,chevrolet,good,gas,17677
+783,26000,2015,ford,excellent,gas,135926
+784,27399,2016,chevrolet,good,gas,159750
+785,42999,2015,ford,good,gas,143783
+786,22999,2013,cadillac,good,gas,114357
+787,65999,2020,chevrolet,good,gas,49380
+788,13999,2013,honda,good,gas,157096
+789,8999,2011,ford,good,gas,160483
+790,11699,2013,gmc,good,gas,99218
+791,25999,2016,ram,good,gas,125266
+792,26999,2008,chevrolet,good,gas,73477
+793,19999,2012,chevrolet,good,gas,135897
+794,9999,2007,ram,good,gas,145686
+795,7500,2004,toyota,good,gas,162782
+796,16990,2015,dodge,good,gas,77833
+797,22990,2014,lexus,good,gas,53050
+798,35900,2010,ford,like new,diesel,60000
+799,6995,2014,ford,excellent,gas,105000
+800,6995,2013,ford,excellent,gas,93000
+801,8500,2016,ford,excellent,gas,109000
+802,28590,2014,lexus,good,gas,87126
+803,19590,2017,chrysler,good,gas,70310
+804,43990,2020,buick,good,gas,5217
+805,25000,2015,bmw,excellent,gas,89000
+806,34500,2016,dodge,excellent,gas,40800
+807,2400,2007,dodge,excellent,gas,140000
+808,13900,2017,ford,excellent,gas,55999
+809,18500,2020,chevrolet,excellent,gas,10500
+810,4000,2007,chevrolet,good,gas,95000
+811,7000,2003,ram,excellent,gas,123000
+812,15995,2018,chevrolet,excellent,gas,98539
+813,17990,2015,honda,good,gas,28680
+814,18900,2017,lincoln,excellent,gas,25000
+815,7995,2014,chevrolet,excellent,gas,81453
+816,20590,2016,toyota,good,hybrid,26808
+817,11000,2007,chevrolet,good,gas,165336
+818,6500,2010,toyota,good,gas,99045
+819,21500,1999,chevrolet,excellent,gas,117527
+820,11500,2012,ford,excellent,gas,60000
+821,4800,2008,buick,excellent,gas,120000
+822,7500,2007,chevrolet,good,gas,241356
+823,17900,2017,buick,excellent,gas,57250
+824,6995,2012,ford,like new,gas,110466
+825,5995,2009,chrysler,excellent,gas,139684
+826,6500,2003,chevrolet,excellent,gas,212330
+827,9950,2008,dodge,like new,gas,154391
+828,3000,2010,ford,good,gas,182000
+829,8995,2014,chevrolet,like new,gas,97069
+830,3200,2010,ford,fair,gas,140000
+831,9995,2015,buick,like new,gas,98859
+832,8995,2012,chevrolet,like new,gas,88807
+833,5900,2008,pontiac,excellent,gas,148135
+834,21990,2009,saturn,good,gas,11327
+835,10995,2016,ford,like new,gas,108625
+836,5995,2008,saturn,excellent,gas,69625
+837,7250,2011,ford,excellent,gas,184101
+838,15950,2015,jeep,like new,gas,60461
+839,7950,2012,buick,like new,gas,136206
+840,30900,2019,ram,excellent,gas,8750
+841,12000,2011,ram,good,gas,138500
+842,2900,2005,gmc,fair,gas,120000
+843,34990,2019,honda,good,gas,13500
+844,7800,2008,bmw,excellent,gas,104000
+845,7000,2013,dodge,good,gas,95000
+846,13500,2014,ford,like new,gas,36300
+847,30590,2018,subaru,good,gas,9489
+848,3995,2008,chevrolet,excellent,gas,166327
+849,14000,2011,ford,excellent,gas,72000
+850,6700,1999,chevrolet,good,gas,178500
+851,12995,2013,chevrolet,like new,gas,49000
+852,5995,2014,nissan,excellent,gas,121194
+853,22600,2017,chevrolet,excellent,gas,101500
+854,5800,2007,toyota,good,gas,140000
+855,6800,2012,dodge,excellent,gas,129000
+856,16995,2017,ford,like new,gas,79000
+857,4900,2009,jeep,good,gas,132000
+858,16990,2019,hyundai,good,gas,11884
+859,8999,2012,ford,good,gas,101189
+860,10995,2011,ford,like new,gas,186000
+861,9995,2011,chevrolet,like new,gas,150000
+862,13995,2014,honda,like new,gas,72000
+863,11995,2014,chevrolet,like new,gas,156000
+864,29999,2017,gmc,excellent,gas,65610
+865,4799,1999,chevrolet,like new,gas,175000
+866,21000,2011,infiniti,excellent,gas,105175
+867,15500,2013,chevrolet,good,gas,199000
+868,14900,2015,cadillac,good,gas,115000
+869,31990,2017,acura,good,hybrid,72478
+870,34590,2010,chevrolet,good,gas,20182
+871,32990,2020,gmc,good,gas,8885
+872,14500,2015,jeep,like new,gas,94449
+873,3200,2009,chrysler,good,gas,223000
+874,5999,2013,ford,good,gas,113203
+875,5500,2008,ford,good,gas,215766
+876,6500,2006,lexus,excellent,gas,155000
+877,3500,2007,honda,good,gas,6487
+878,8500,2015,ford,like new,gas,57953
+879,28990,2020,volkswagen,good,gas,4771
+880,30990,2015,toyota,good,gas,34375
+881,23800,2014,ford,excellent,gas,131900
+882,34500,2017,mercedes-benz,excellent,gas,52053
+883,51400,2020,ford,excellent,gas,7215
+884,28895,2019,buick,excellent,gas,26013
+885,31995,2015,chevrolet,excellent,gas,128131
+886,8500,2007,toyota,excellent,gas,129700
+887,5999,2014,chevrolet,good,gas,91503
+888,33995,2015,chevrolet,excellent,gas,105751
+889,21995,2016,nissan,excellent,gas,28901
+890,3995,2019,ram,like new,gas,33000
+891,26995,2017,bmw,excellent,gas,51143
+892,84995,2018,jeep,excellent,gas,21972
+893,3700,2011,chevrolet,excellent,gas,140000
+894,4800,2010,chevrolet,excellent,gas,117952
+895,16590,2019,hyundai,good,gas,31919
+896,10500,2016,chevrolet,good,gas,68968
+897,16990,2016,kia,good,gas,17631
+898,28590,2019,volkswagen,good,gas,2907
+899,31590,2019,gmc,good,gas,5128
+900,29590,2018,dodge,good,gas,21738
+901,19990,2016,ford,good,gas,39044
+902,38900,2020,ford,excellent,gas,42400
+903,2500,2005,buick,good,gas,207000
+904,16995,2019,volkswagen,excellent,gas,9354
+905,32000,2011,ford,excellent,diesel,155616
+906,36000,2018,ford,excellent,gas,38212
+907,19000,2019,mitsubishi,excellent,gas,22301
+908,38000,2008,ford,fair,diesel,215000
+909,9495,2015,chevrolet,excellent,gas,70864
+910,12000,2019,mitsubishi,excellent,gas,33351
+911,26000,2019,jeep,like new,gas,41000
+912,24000,2019,chevrolet,like new,gas,23000
+913,15500,2019,chevrolet,excellent,gas,32750
+914,20995,2018,chevrolet,excellent,gas,70908
+915,28900,2015,audi,like new,gas,102890
+916,4495,2001,chevrolet,good,gas,233000
+917,5500,2010,dodge,good,gas,125130
+918,5900,2011,ford,good,gas,154000
+919,4500,2004,chevrolet,excellent,gas,100000
+920,4600,2005,ford,good,gas,238000
+921,4900,2011,chevrolet,good,gas,152000
+922,15800,2015,ford,excellent,gas,156100
+923,22000,2017,jeep,like new,gas,50000
+924,28223,2021,ford,excellent,gas,2022
+925,5500,2001,ford,good,gas,179000
+926,3900,2006,saturn,good,gas,135000
+927,4500,2004,ford,good,gas,190000
+928,18590,2017,ford,good,gas,38545
+929,39990,2019,chevrolet,good,gas,9802
+930,16995,2019,volkswagen,excellent,gas,14705
+931,20000,1998,ram,excellent,gas,79900
+932,5900,2011,gmc,good,gas,174000
+933,16500,2006,gmc,excellent,diesel,211000
+934,4495,2008,saturn,excellent,diesel,160234
+935,20900,2011,chevrolet,good,diesel,196000
+936,4895,2009,gmc,excellent,gas,140000
+937,2995,2004,mitsubishi,excellent,gas,120000
+938,4895,2005,lincoln,excellent,gas,150000
+939,3895,2009,ford,good,gas,130000
+940,4500,2008,toyota,excellent,hybrid,199000
+941,22995,2018,gmc,excellent,gas,30160
+942,3999,2008,honda,good,gas,136000
+943,12900,2008,porsche,like new,gas,84000
+944,12900,2015,audi,like new,gas,124000
+945,4900,2006,infiniti,excellent,gas,176000
+946,11900,2011,volkswagen,like new,diesel,61000
+947,38300,2019,ford,excellent,gas,31962
+948,9950,2011,kia,like new,gas,91200
+949,13000,2017,mitsubishi,excellent,gas,95594
+950,6900,2012,chevrolet,excellent,gas,171000
+951,12900,2013,bmw,excellent,gas,174000
+952,7900,2013,volkswagen,excellent,gas,137000
+953,9900,2013,ford,excellent,gas,113000
+954,12900,2011,bmw,like new,gas,87000
+955,9900,2008,audi,excellent,gas,115000
+956,11900,2012,mercedes-benz,excellent,gas,87000
+957,7900,2010,cadillac,excellent,gas,126000
+958,16995,2014,ford,good,gas,112041
+959,6995,2009,chrysler,good,gas,126544
+960,8995,2015,dodge,good,gas,175465
+961,7495,2013,buick,good,gas,118298
+962,19495,2016,lincoln,good,gas,89498
+963,6495,2013,dodge,good,gas,122642
+964,14495,2011,dodge,good,gas,95394
+965,25995,2015,chevrolet,good,gas,76396
+966,3495,2009,kia,good,gas,205378
+967,4495,2010,dodge,excellent,gas,104243
+968,4495,2012,chevrolet,excellent,gas,158520
+969,33990,2018,cadillac,good,gas,27459
+970,4900,2009,chevrolet,good,gas,112000
+971,35590,2018,mercedes-benz,good,gas,17327
+972,4495,2007,chevrolet,excellent,gas,168259
+973,5495,2012,chevrolet,excellent,gas,147534
+974,6000,2012,ford,like new,gas,126340
+975,6995,2011,bmw,excellent,gas,119986
+976,4700,2014,ford,excellent,gas,162000
+977,6800,2013,chevrolet,like new,gas,162100
+978,10000,2010,lexus,good,gas,155500
+979,6900,2009,lincoln,good,gas,150000
+980,22995,2007,ram,good,diesel,223830
+981,22995,2011,ford,good,gas,200800
+982,49995,2014,ram,good,diesel,85404
+983,31995,2012,gmc,good,diesel,189468
+984,34995,2016,ford,good,diesel,120379
+985,29995,2016,gmc,good,gas,140005
+986,21995,2015,jeep,good,gas,64653
+987,75995,2019,mercedes-benz,excellent,gas,44608
+988,8900,2014,chevrolet,good,gas,159000
+989,2995,2010,chrysler,excellent,gas,129000
+990,13600,2007,cadillac,like new,gas,136975
+991,7995,2010,chevrolet,like new,gas,114678
+992,16995,2012,chevrolet,excellent,gas,60609
+993,3250,2006,bmw,fair,gas,149000
+994,5500,2011,ford,excellent,gas,137000
+995,29900,2011,dodge,good,diesel,138613
+996,11900,2016,gmc,like new,gas,180100
+997,5800,2008,chrysler,good,gas,116000
+998,6000,2011,chevrolet,excellent,gas,117255
+999,5995,2010,dodge,excellent,gas,95377
+1000,2500,2009,chrysler,fair,gas,200000
+1001,4495,2006,jeep,excellent,gas,176590
+1002,5995,2003,lincoln,excellent,gas,81799
+1003,11995,2001,porsche,excellent,gas,71000
+1004,5995,2009,pontiac,excellent,gas,131286
+1005,5995,2006,infiniti,excellent,gas,203459
+1006,5995,2009,chevrolet,excellent,gas,133348
+1007,16995,2018,buick,excellent,gas,32043
+1008,4495,2008,chrysler,excellent,gas,141065
+1009,18000,2011,lincoln,excellent,gas,113637
+1010,32000,2017,ram,excellent,gas,40575
+1011,10900,2009,jeep,good,gas,181000
+1012,16995,2017,volkswagen,excellent,gas,35619
+1013,90500,2020,ford,excellent,gas,37800
+1014,2700,2014,dodge,excellent,gas,188000
+1015,24590,2014,lexus,good,gas,60987
+1016,6000,2013,chrysler,excellent,gas,157398
+1017,17750,2017,nissan,excellent,gas,79500
+1018,15900,2009,gmc,excellent,gas,108239
+1019,28999,2012,bmw,excellent,gas,93889
+1020,12999,2016,nissan,excellent,gas,121306
+1021,17900,2011,ram,excellent,gas,116290
+1022,16450,2014,ram,excellent,gas,156627
+1023,22500,2014,dodge,new,gas,33500
+1024,2800,2005,pontiac,good,gas,114000
+1025,6900,2009,jeep,good,gas,144000
+1026,5995,2003,ford,excellent,gas,136060
+1027,3995,2005,toyota,excellent,gas,169445
+1028,2000,2011,chevrolet,excellent,gas,173000
+1029,4000,2008,chevrolet,like new,gas,100000
+1030,13900,2011,lexus,excellent,gas,113500
+1031,49999,2020,chevrolet,new,gas,49999
+1032,5999,2011,mercury,excellent,gas,65130
+1033,4650,2009,ford,excellent,gas,61376
+1034,5595,2012,chrysler,excellent,gas,79772
+1035,23500,2018,ford,like new,gas,48000
+1036,10995,2014,gmc,excellent,gas,131602
+1037,5000,2013,chevrolet,good,gas,136000
+1038,11500,2014,lincoln,good,gas,84000
+1039,15900,2017,ram,good,gas,58000
+1040,25800,2017,jeep,like new,gas,62000
+1041,6900,2013,ford,excellent,gas,128000
+1042,21750,2017,ford,excellent,gas,55531
+1043,6980,2020,buick,excellent,gas,114000
+1044,6495,2013,dodge,excellent,gas,167000
+1045,4000,2009,gmc,good,gas,177300
+1046,8950,2011,ford,excellent,gas,168000
+1047,6500,2002,chevrolet,good,diesel,177000
+1048,3400,2004,ford,good,gas,146400
+1049,54900,2019,gmc,excellent,gas,13500
+1050,17500,2018,ford,like new,gas,38000
+1051,4500,2007,jeep,good,gas,106000
+1052,22990,2018,volkswagen,good,gas,9303
+1053,16900,2012,chevrolet,good,gas,141000
+1054,17500,2019,ford,excellent,gas,27500
+1055,11500,2013,mercedes-benz,excellent,gas,128000
+1056,35990,2019,mini,good,gas,9508
+1057,17900,2020,chevrolet,excellent,gas,17500
+1058,6250,2008,chrysler,excellent,gas,88192
+1059,32990,2020,hyundai,good,gas,1343
+1060,7700,2013,chevrolet,excellent,gas,111000
+1061,22990,2012,acura,good,gas,11878
+1062,41000,2018,bmw,excellent,gas,38000
+1063,4999,2010,chrysler,excellent,gas,225000
+1064,38990,2020,ford,good,gas,5241
+1065,12900,2012,lincoln,good,gas,151000
+1066,4600,2007,dodge,fair,gas,155407
+1067,28990,2019,subaru,good,gas,26034
+1068,4000,2005,gmc,good,gas,200000
+1069,15990,2010,audi,good,gas,75159
+1070,22590,2012,dodge,good,gas,56075
+1071,2200,2004,ford,good,gas,137644
+1072,4000,2000,jeep,fair,gas,115162
+1073,5800,2007,ford,excellent,gas,58100
+1074,11500,2006,ford,excellent,gas,100000
+1075,10000,2015,ford,excellent,gas,44000
+1076,14800,2016,subaru,excellent,gas,37000
+1077,12000,2015,buick,excellent,gas,60000
+1078,14800,2014,chrysler,excellent,gas,83000
+1079,8500,2016,nissan,good,gas,117100
+1080,38990,2018,bmw,good,hybrid,24235
+1081,3800,2004,buick,like new,gas,144000
+1082,11750,1982,chevrolet,excellent,gas,60000
+1083,32990,2019,volkswagen,good,gas,3896
+1084,36800,2020,chevrolet,like new,gas,20500
+1085,75850,2019,lincoln,excellent,gas,12500
+1086,35850,2017,mercedes-benz,excellent,gas,56950
+1087,19850,2015,audi,excellent,gas,81200
+1088,2600,2013,chrysler,excellent,gas,122000
+1089,15995,2013,jeep,excellent,gas,171834
+1090,12995,2013,ford,like new,gas,128061
+1091,29995,2015,ford,excellent,gas,72025
+1092,9995,2012,ford,like new,gas,109329
+1093,9995,2013,chrysler,like new,gas,120316
+1094,21590,2012,jaguar,good,gas,27537
+1095,36995,2019,cadillac,like new,gas,17956
+1096,6900,2012,ford,good,gas,192000
+1097,16995,2012,chrysler,like new,gas,119992
+1098,23590,2016,hyundai,good,gas,43562
+1099,15590,2016,kia,good,gas,53066
+1100,3750,1986,mercedes-benz,excellent,diesel,146000
+1101,8400,2014,ford,excellent,gas,34500
+1102,33995,2019,bmw,excellent,gas,11431
+1103,32995,2020,bmw,like new,gas,17651
+1104,54995,2018,bmw,like new,gas,32911
+1105,51995,2018,bmw,like new,gas,35375
+1106,65995,2019,dodge,excellent,gas,18653
+1107,29995,2019,chevrolet,excellent,gas,15956
+1108,26995,2019,chrysler,excellent,gas,39291
+1109,43900,2015,ford,excellent,diesel,154244
+1110,23590,2017,nissan,good,gas,21232
+1111,29990,2018,dodge,good,gas,18893
+1112,29500,2014,gmc,excellent,gas,76684
+1113,20995,2016,chevrolet,excellent,gas,79036
+1114,24900,2007,chevrolet,like new,gas,80000
+1115,3000,2008,chrysler,good,gas,138000
+1116,36990,2013,ford,good,gas,44726
+1117,32990,2016,toyota,good,gas,49164
+1118,19900,2012,ford,good,gas,140000
+1119,12995,2015,jeep,new,gas,117545
+1120,11000,2014,mercedes-benz,good,gas,89000
+1121,5650,2011,volkswagen,excellent,gas,108118
+1122,33600,2019,ford,excellent,gas,29300
+1123,27900,2016,ram,good,gas,87000
+1124,16900,2011,mercedes-benz,excellent,gas,78000
+1125,17995,2013,ford,excellent,gas,133000
+1126,30990,2013,chevrolet,good,gas,39255
+1127,14495,2017,chevrolet,like new,gas,55000
+1128,5900,2007,honda,excellent,gas,162000
+1129,17995,2017,buick,excellent,gas,8682
+1130,26997,2020,ford,salvage,gas,22000
+1131,11995,2005,chevrolet,excellent,gas,111000
+1132,16000,2017,ford,excellent,gas,69371
+1133,7500,2010,jeep,excellent,gas,97842
+1134,16900,2014,honda,excellent,gas,127200
+1135,7000,2013,chevrolet,excellent,gas,154601
+1136,3900,2008,chevrolet,good,gas,229000
+1137,66700,2020,ford,excellent,gas,12289
+1138,10000,2011,gmc,excellent,gas,137394
+1139,22995,2018,gmc,excellent,gas,36774
+1140,7499,2008,saturn,excellent,gas,105844
+1141,40895,2019,chevrolet,excellent,gas,22616
+1142,3200,1993,ford,good,gas,133000
+1143,20995,2018,chevrolet,excellent,gas,7386
+1144,14800,2014,honda,excellent,gas,142948
+1145,3500,2004,ford,excellent,gas,144174
+1146,20895,2018,ford,excellent,gas,19908
+1147,28499,2015,dodge,excellent,gas,113000
+1148,31990,2020,toyota,good,gas,9261
+1149,34600,2019,ford,like new,gas,29500
+1150,8450,2004,chevrolet,good,gas,245830
+1151,10500,1999,toyota,excellent,gas,143400
+1152,4995,2007,jeep,excellent,gas,132557
+1153,26954,2015,ram,excellent,gas,112996
+1154,35785,2021,dodge,excellent,gas,36867
+1155,5500,2008,cadillac,like new,gas,240000
+1156,8950,2006,honda,excellent,gas,29804
+1157,2400,2006,chevrolet,good,gas,217000
+1158,4600,1983,toyota,good,gas,162121
+1159,53900,2019,chevrolet,excellent,diesel,68073
+1160,13000,2016,honda,excellent,gas,62000
+1161,35590,2020,volkswagen,good,gas,3984
+1162,4600,2007,pontiac,good,gas,137376
+1163,18900,2020,chevrolet,excellent,gas,40500
+1164,20000,2018,infiniti,excellent,gas,58500
+1165,13500,2011,jeep,excellent,gas,171484
+1166,5900,2008,volkswagen,excellent,gas,85942
+1167,7300,2013,chevrolet,excellent,gas,96980
+1168,17590,2015,volkswagen,good,diesel,40502
+1169,19900,2017,buick,excellent,gas,4000
+1170,11000,2007,chevrolet,excellent,gas,165336
+1171,3500,2003,chevrolet,excellent,gas,181753
+1172,21100,2018,gmc,excellent,gas,29964
+1173,23000,2011,dodge,excellent,gas,38000
+1174,24000,2013,gmc,excellent,gas,53013
+1175,9000,2010,ford,excellent,gas,144381
+1176,11800,2015,honda,excellent,gas,68909
+1177,16995,2017,volkswagen,excellent,gas,49236
+1178,21995,2018,gmc,excellent,gas,16722
+1179,11995,2015,ford,excellent,gas,120727
+1180,43900,2015,mercedes-benz,like new,gas,85000
+1181,6900,2008,nissan,good,gas,228000
+1182,5900,2012,chevrolet,good,gas,168000
+1183,35900,2017,ford,excellent,gas,37000
+1184,21800,2013,chevrolet,excellent,gas,25700
+1185,9900,2010,ford,good,gas,188000
+1186,8900,2012,toyota,good,gas,144000
+1187,11999,2015,chrysler,excellent,gas,132000
+1188,11999,2011,ford,excellent,gas,125000
+1189,16500,2015,toyota,like new,gas,68000
+1190,7999,2013,chevrolet,excellent,gas,102000
+1191,7999,2013,dodge,excellent,gas,106000
+1192,7999,2009,gmc,excellent,gas,142000
+1193,18900,2010,jeep,excellent,gas,91528
+1194,6999,2014,chevrolet,excellent,gas,138000
+1195,9999,2015,chrysler,excellent,gas,108000
+1196,7999,2013,ford,excellent,gas,124000
+1197,7500,2007,chevrolet,excellent,gas,241356
+1198,46499,2021,buick,excellent,gas,2189
+1199,4195,2012,jeep,like new,gas,190000
+1200,3300,2012,chevrolet,excellent,gas,169000
+1201,12900,2010,ram,good,gas,160000
+1202,9750,2005,ford,good,gas,204428
+1203,9999,2015,chevrolet,excellent,gas,84000
+1204,11999,2017,ford,excellent,gas,92000
+1205,7900,2004,gmc,good,gas,176000
+1206,8999,2011,jeep,excellent,gas,142000
+1207,12895,2012,ford,good,gas,143837
+1208,5999,2013,chrysler,excellent,gas,163000
+1209,7999,2010,ford,excellent,gas,137000
+1210,26995,2021,gmc,like new,gas,4497
+1211,37995,2018,ford,like new,gas,9527
+1212,69995,2019,dodge,like new,gas,6246
+1213,15500,2003,toyota,excellent,gas,64263
+1214,8950,2009,lexus,excellent,gas,105000
+1215,2795,2003,buick,like new,gas,103000
+1216,2800,2009,chrysler,like new,gas,114824
+1217,3000,2006,chevrolet,excellent,gas,202639
+1218,25000,2013,bmw,excellent,gas,70206
+1219,7500,2006,jeep,excellent,gas,196742
+1220,6900,2008,chevrolet,good,gas,164000
+1221,16000,2013,chevrolet,excellent,gas,147226
+1222,7995,2012,ford,excellent,gas,62473
+1223,4000,2006,honda,excellent,gas,234651
+1224,29895,2018,gmc,excellent,gas,36029
+1225,53900,2017,rover,like new,gas,45000
+1226,4000,2016,dodge,good,gas,81000
+1227,2100,2014,ford,good,gas,110000
+1228,20895,2013,gmc,good,gas,130000
+1229,7395,2013,chevrolet,excellent,gas,149000
+1230,13400,2013,buick,excellent,gas,121000
+1231,12995,2012,gmc,excellent,gas,104615
+1232,11395,2011,ford,good,gas,114000
+1233,23900,2011,ford,excellent,gas,69000
+1234,7495,2010,dodge,excellent,gas,106000
+1235,2995,2011,chevrolet,like new,gas,209000
+1236,5900,2006,jeep,good,gas,145000
+1237,3990,2010,mercury,excellent,gas,182000
+1238,11950,2013,audi,like new,gas,95000
+1239,4495,2008,chevrolet,excellent,gas,155000
+1240,3995,2010,chrysler,like new,gas,130000
+1241,4900,2005,bmw,good,gas,158000
+1242,19000,2018,gmc,excellent,gas,38805
+1243,16500,2017,chevrolet,excellent,gas,112691
+1244,2900,2000,toyota,good,gas,231000
+1245,17500,2016,jeep,excellent,gas,101273
+1246,4395,2005,buick,like new,gas,130000
+1247,4995,2011,jeep,like new,gas,215000
+1248,20590,2020,kia,good,gas,1082
+1249,21590,2018,acura,good,gas,23556
+1250,3495,2008,chevrolet,like new,gas,140000
+1251,31995,2013,ford,good,diesel,183273
+1252,22995,2016,ford,good,gas,121550
+1253,32995,2014,ford,good,diesel,171175
+1254,27995,2011,chevrolet,good,diesel,196615
+1255,26995,2011,ford,good,diesel,185430
+1256,16995,2011,ram,good,gas,123550
+1257,3600,2009,mercury,excellent,gas,103000
+1258,2800,2012,ford,excellent,gas,130000
+1259,7900,2013,honda,excellent,gas,90000
+1260,32900,2018,ford,excellent,gas,31700
+1261,9900,2013,ford,good,gas,101000
+1262,18590,2013,volvo,good,gas,79346
+1263,16590,2015,toyota,good,hybrid,62363
+1264,20590,2018,mini,good,gas,31058
+1265,54900,2019,ram,excellent,diesel,55822
+1266,24900,2012,ram,good,diesel,193000
+1267,5500,2012,ford,good,gas,240300
+1268,4200,2013,dodge,excellent,gas,92985
+1269,7400,2013,chevrolet,like new,gas,87096
+1270,5495,2009,buick,excellent,gas,141728
+1271,4995,2012,ford,excellent,gas,152127
+1272,2995,2009,chevrolet,excellent,gas,190037
+1273,4495,2011,ford,excellent,gas,144514
+1274,7600,2007,ford,good,gas,184000
+1275,4995,2006,toyota,excellent,gas,180706
+1276,12995,2015,mini,excellent,gas,57436
+1277,5995,2013,chevrolet,excellent,gas,118464
+1278,12900,2012,toyota,excellent,gas,112228
+1279,34999,2017,ram,excellent,gas,57492
+1280,10999,2013,ford,excellent,gas,95116
+1281,5995,2012,ford,excellent,gas,107629
+1282,30999,2015,chevrolet,excellent,gas,114055
+1283,15499,2011,ford,excellent,gas,107710
+1284,4995,2010,ford,excellent,gas,173455
+1285,12500,2017,ford,excellent,gas,92129
+1286,4995,2008,ford,excellent,gas,167156
+1287,4495,2010,nissan,excellent,gas,121323
+1288,39900,2017,ford,excellent,diesel,130948
+1289,5400,2013,chrysler,excellent,gas,155000
+1290,5900,2009,mercedes-benz,excellent,gas,170000
+1291,6500,2008,gmc,good,gas,118000
+1292,6999,2013,ford,good,gas,129000
+1293,25000,2012,mercedes-benz,excellent,gas,68000
+1294,6999,2011,buick,good,gas,139000
+1295,4999,2013,dodge,good,gas,129000
+1296,5999,2011,gmc,good,gas,129000
+1297,20500,2015,audi,excellent,gas,57700
+1298,11800,2015,volkswagen,excellent,diesel,42493
+1299,4600,2011,chevrolet,like new,gas,114200
+1300,20000,2015,audi,new,gas,95000
+1301,3500,2008,dodge,good,gas,145000
+1302,13900,2009,pontiac,excellent,gas,31000
+1303,6500,2012,mazda,good,gas,99887
+1304,7000,2007,ford,excellent,gas,135000
+1305,3400,2008,ford,good,gas,181000
+1306,3500,2005,ford,new,gas,150000
+1307,5995,2012,volkswagen,excellent,diesel,184000
+1308,10000,1988,ford,excellent,gas,51000
+1309,11500,2011,jeep,excellent,gas,124700
+1310,3500,2004,infiniti,excellent,gas,152689
+1311,5900,2010,toyota,good,gas,122622
+1312,4995,2012,chevrolet,like new,gas,140000
+1313,7000,2010,audi,good,gas,169000
+1314,6000,1992,jeep,excellent,gas,146000
+1315,2200,2006,saturn,good,gas,176000
+1316,4639,2003,audi,excellent,gas,87253
+1317,10500,2013,ram,good,gas,122193
+1318,3300,2000,dodge,good,gas,112000
+1319,4700,2013,chrysler,like new,gas,104000
+1320,30000,2018,dodge,new,gas,60000
+1321,3500,2008,volvo,good,gas,177500
+1322,24990,2016,mazda,good,gas,6218
+1323,34000,2015,mercedes-benz,excellent,gas,43890
+1324,3300,2007,chevrolet,good,gas,140000
+1325,6000,2010,jeep,good,gas,109200
+1326,34590,2015,ford,good,gas,30970
+1327,5500,1999,mercedes-benz,good,gas,139000
+1328,3700,2003,ford,excellent,gas,173000
+1329,9900,2011,dodge,good,gas,166000
+1330,16990,2014,volkswagen,good,gas,64086
+1331,35990,2020,ford,good,gas,3928
+1332,23590,2016,mini,good,gas,33000
+1333,37590,2018,gmc,good,gas,19547
+1334,33990,2015,chevrolet,good,gas,13542
+1335,33590,2014,gmc,good,gas,57923
+1336,24590,2016,jeep,good,gas,66313
+1337,8000,2016,dodge,like new,gas,82000
+1338,25500,2012,ford,excellent,gas,117000
+1339,3800,2005,chrysler,excellent,gas,160000
+1340,29990,2016,mercedes-benz,good,gas,24230
+1341,25990,2016,gmc,good,gas,24688
+1342,30990,2013,toyota,good,gas,26474
+1343,6200,2009,honda,excellent,gas,144300
+1344,8990,2011,toyota,excellent,gas,103000
+1345,16500,2015,lincoln,like new,gas,50000
+1346,23990,2017,ford,good,gas,18446
+1347,39590,2019,chevrolet,good,gas,23488
+1348,5500,2004,ford,good,gas,109997
+1349,35990,2018,toyota,good,gas,29245
+1350,5900,1991,buick,excellent,gas,99600
+1351,10900,2017,chevrolet,excellent,gas,83350
+1352,15000,2017,nissan,like new,gas,46000
+1353,5200,2009,chevrolet,excellent,gas,132000
+1354,7000,2002,mitsubishi,like new,gas,22944
+1355,26590,2018,nissan,good,gas,40176
+1356,20990,2020,honda,good,gas,1668
+1357,7300,2009,lincoln,excellent,gas,110000
+1358,2800,2008,ford,good,gas,135378
+1359,3595,1998,bmw,excellent,gas,179000
+1360,4800,2002,ford,good,gas,178000
+1361,8900,2018,nissan,like new,gas,19300
+1362,6500,2013,bmw,good,gas,108032
+1363,2500,2004,honda,good,gas,208291
+1364,9000,2012,jeep,excellent,gas,169876
+1365,4700,2007,nissan,good,gas,133013
+1366,6595,2012,chevrolet,excellent,gas,140000
+1367,3500,2002,pontiac,good,gas,163963
+1368,2495,2001,nissan,good,gas,140000
+1369,31590,2019,mazda,good,gas,8789
+1370,38590,2017,nissan,good,gas,26539
+1371,38990,2018,lexus,good,gas,10729
+1372,10500,2012,toyota,excellent,gas,103000
+1373,9980,2011,ford,excellent,gas,108400
+1374,39500,2019,honda,like new,gas,9500
+1375,2800,2003,buick,excellent,gas,130000
+1376,5850,2013,chrysler,excellent,gas,102000
+1377,2500,1992,mazda,good,gas,111000
+1378,2995,2004,ford,good,gas,200000
+1379,32990,2011,chevrolet,good,gas,20190
+1380,18000,2014,hyundai,like new,gas,80000
+1381,2250,2004,ford,good,gas,140000
+1382,6700,1977,chevrolet,good,gas,57000
+1383,18000,2007,chevrolet,new,gas,130000
+1384,9900,2009,ford,good,gas,168000
+1385,23995,2005,jaguar,excellent,gas,40000
+1386,11900,2010,ram,good,gas,154000
+1387,3850,2003,mercedes-benz,good,gas,115320
+1388,4950,2004,ford,good,gas,192000
+1389,2995,2002,ford,good,gas,200000
+1390,4900,1998,cadillac,good,gas,153000
+1391,2250,2004,pontiac,good,gas,200000
+1392,10000,2012,chevrolet,new,gas,100840
+1393,4495,2004,audi,good,gas,200000
+1394,2995,2004,chevrolet,good,gas,150000
+1395,2995,2008,dodge,good,gas,160000
+1396,2400,2008,chevrolet,good,gas,176000
+1397,2795,2006,pontiac,good,gas,190000
+1398,2995,2007,ford,good,gas,220000
+1399,14000,2008,porsche,excellent,gas,107000
+1400,12200,2017,chevrolet,excellent,gas,12600
+1401,12800,2020,chevrolet,excellent,gas,19600
+1402,8500,2014,chevrolet,excellent,gas,42000
+1403,5500,2014,ford,excellent,gas,197000
+1404,5000,2013,ford,excellent,gas,160000
+1405,8495,2012,dodge,excellent,gas,183995
+1406,8500,2018,cadillac,salvage,gas,28000
+1407,6900,2006,chevrolet,excellent,gas,234604
+1408,2700,2007,pontiac,excellent,gas,170000
+1409,7500,2013,chrysler,good,gas,52000
+1410,24500,1994,ford,excellent,gas,132144
+1411,3400,2010,mercury,good,gas,161000
+1412,6995,2013,honda,good,gas,172245
+1413,12000,2010,ram,excellent,diesel,130000
+1414,13000,2014,chrysler,like new,gas,106000
+1415,42000,1994,dodge,excellent,gas,11000
+1416,3900,2005,honda,good,gas,218319
+1417,15500,1996,ford,excellent,gas,163000
+1418,4995,2009,chevrolet,good,gas,78390
+1419,4795,2008,mercury,excellent,gas,92693
+1420,6300,2002,toyota,excellent,gas,235000
+1421,6900,2000,ford,excellent,gas,119625
+1422,7995,2012,buick,excellent,gas,105602
+1423,6200,1994,ford,excellent,diesel,237000
+1424,18500,2017,chrysler,like new,gas,70858
+1425,8995,2009,dodge,excellent,gas,96800
+1426,5000,2007,ford,like new,gas,65147
+1427,22000,2004,ford,good,diesel,124568
+1428,8995,2011,ford,excellent,gas,89959
+1429,8500,2002,ford,good,gas,196000
+1430,5700,2012,chevrolet,excellent,gas,138000
+1431,13700,1978,chevrolet,excellent,gas,72918
+1432,32590,2011,bmw,good,gas,44429
+1433,20990,2018,buick,good,gas,21653
+1434,8500,2015,toyota,excellent,gas,64000
+1435,38900,2020,bmw,excellent,gas,13000
+1436,33900,2019,cadillac,excellent,gas,20500
+1437,53900,2019,ford,excellent,gas,23750
+1438,34590,2017,toyota,good,gas,20097
+1439,5895,2006,ford,excellent,gas,129055
+1440,20500,2017,fiat,excellent,gas,7000
+1441,17990,2014,volkswagen,good,gas,41647
+1442,13995,2014,gmc,excellent,gas,99790
+1443,15999,2011,ford,good,gas,151300
+1444,25000,2017,chrysler,like new,gas,45975
+1445,19990,2017,fiat,good,gas,6054
+1446,25990,2011,nissan,good,gas,17254
+1447,13995,2016,honda,excellent,gas,63343
+1448,4500,2003,ford,excellent,gas,171348
+1449,13495,2015,honda,excellent,gas,105269
+1450,4800,1992,pontiac,excellent,gas,60191
+1451,5200,2003,buick,like new,gas,97000
+1452,5800,2005,honda,excellent,gas,88000
+1453,4595,2004,honda,good,gas,147390
+1454,3495,2003,honda,fair,gas,181424
+1455,22900,2008,ford,excellent,diesel,118000
+1456,11500,2017,chevrolet,like new,gas,54900
+1457,13500,2019,chevrolet,excellent,gas,8291
+1458,6900,2011,chevrolet,excellent,gas,204000
+1459,3300,2005,buick,good,gas,135500
+1460,5000,2010,mitsubishi,excellent,gas,108000
+1461,28590,2017,mazda,good,gas,6958
+1462,21990,2020,volkswagen,good,gas,2515
+1463,34990,2016,gmc,good,gas,34425
+1464,13400,2013,chevrolet,excellent,gas,85000
+1465,16450,2012,ford,excellent,gas,215000
+1466,4850,2014,ford,good,gas,119500
+1467,5200,2006,cadillac,good,gas,96502
+1468,12000,2010,cadillac,excellent,gas,172000
+1469,3500,2005,lexus,good,gas,160000
+1470,7100,2012,chevrolet,like new,gas,48149
+1471,8600,2002,ford,excellent,gas,124000
+1472,4750,1986,pontiac,good,gas,127000
+1473,25995,2015,chevrolet,excellent,gas,169000
+1474,2800,1997,ford,excellent,gas,217000
+1475,2200,2006,nissan,good,gas,237000
+1476,4995,2017,rover,like new,gas,52000
+1477,2600,2008,gmc,fair,gas,127000
+1478,3000,2008,chevrolet,good,gas,105000
+1479,6495,2011,chevrolet,excellent,gas,163000
+1480,7500,2007,nissan,excellent,gas,145014
+1481,5495,2011,ford,excellent,gas,118000
+1482,19990,2013,acura,good,gas,20539
+1483,37590,2018,honda,good,gas,17745
+1484,18900,2014,audi,excellent,gas,18000
+1485,16990,2014,volkswagen,good,gas,71004
+1486,2450,2004,buick,good,gas,159000
+1487,11600,2016,bmw,excellent,gas,38000
+1488,15950,2016,dodge,excellent,gas,57000
+1489,23550,2019,dodge,excellent,gas,32000
+1490,19990,2017,hyundai,good,hybrid,29254
+1491,15990,2020,mitsubishi,good,gas,14668
+1492,17590,2018,ford,good,gas,21294
+1493,4495,2012,chevrolet,excellent,gas,170358
+1494,3995,2008,chevrolet,excellent,gas,201073
+1495,6495,2010,ford,excellent,gas,134831
+1496,5495,2013,chevrolet,excellent,gas,124946
+1497,3495,2008,pontiac,excellent,gas,141953
+1498,30995,2017,gmc,excellent,gas,129754
+1499,28995,2020,nissan,excellent,gas,7532
+1500,27995,2018,ford,excellent,gas,87276
+1501,24995,2019,dodge,like new,gas,17569
+1502,23995,2019,dodge,like new,gas,26959
+1503,36995,2016,ford,excellent,gas,88388
+1504,23995,2019,dodge,like new,gas,25427
+1505,36995,2016,chevrolet,excellent,gas,73788
+1506,2000,2010,dodge,excellent,gas,166000
+1507,17995,2017,buick,excellent,gas,79781
+1508,30600,2019,ford,like new,gas,40600
+1509,5995,2013,chevrolet,like new,gas,130000
+1510,29800,2019,ford,excellent,gas,38700
+1511,9995,2013,nissan,like new,gas,93000
+1512,10995,2017,volkswagen,like new,gas,161000
+1513,3700,2012,dodge,excellent,gas,140000
+1514,40999,2016,gmc,excellent,gas,84746
+1515,24990,2017,cadillac,like new,gas,40790
+1516,14500,2019,chevrolet,like new,gas,28722
+1517,20999,2017,chevrolet,like new,gas,33445
+1518,6999,2014,kia,excellent,gas,124320
+1519,30900,2020,chevrolet,like new,gas,31894
+1520,26990,2015,audi,good,gas,45774
+1521,15590,2016,chevrolet,good,gas,45387
+1522,17500,2017,nissan,like new,gas,36148
+1523,15990,2017,jeep,like new,gas,76997
+1524,10900,2013,buick,excellent,gas,93853
+1525,8999,2013,ford,excellent,gas,126365
+1526,10400,2013,chevrolet,excellent,gas,105196
+1527,21400,2017,subaru,excellent,gas,32860
+1528,8200,2013,ford,excellent,hybrid,85827
+1529,34999,2019,gmc,like new,gas,21554
+1530,3995,2008,subaru,good,gas,224750
+1531,21990,2017,gmc,like new,gas,41883
+1532,15000,2016,lincoln,excellent,gas,97326
+1533,13500,2015,chevrolet,excellent,gas,79477
+1534,14500,2015,gmc,excellent,gas,79430
+1535,3800,2013,chevrolet,excellent,hybrid,154000
+1536,7500,2003,chevrolet,good,gas,110460
+1537,3500,1999,chevrolet,good,gas,118000
+1538,3800,2013,ford,excellent,gas,135000
+1539,30590,2017,rover,good,gas,18342
+1540,8900,2011,jeep,like new,gas,145601
+1541,4500,2013,dodge,like new,gas,71540
+1542,7800,2016,chevrolet,like new,gas,63642
+1543,8900,2004,ford,good,gas,69000
+1544,17900,2013,chevrolet,good,gas,121000
+1545,13900,2010,ford,good,gas,91000
+1546,6900,2000,ram,good,gas,149000
+1547,4500,2011,buick,good,gas,173000
+1548,8700,2013,dodge,excellent,gas,83000
+1549,25999,2014,bmw,excellent,gas,81968
+1550,2900,2003,pontiac,good,gas,141000
+1551,25999,2015,dodge,excellent,gas,100662
+1552,29999,2015,ram,excellent,gas,124087
+1553,10900,2013,ford,excellent,gas,98349
+1554,18499,2011,ram,excellent,gas,113230
+1555,10900,2011,chevrolet,good,gas,206000
+1556,18500,1986,ford,excellent,gas,33947
+1557,14900,2011,ford,good,gas,149000
+1558,8900,2012,cadillac,good,gas,130000
+1559,5900,2002,ford,good,gas,154000
+1560,3900,2009,jeep,good,gas,207000
+1561,7900,2014,mazda,good,gas,138000
+1562,3900,2013,chevrolet,excellent,gas,161000
+1563,8900,2010,chevrolet,good,gas,204000
+1564,3800,2004,ram,fair,gas,172000
+1565,8900,2015,buick,good,gas,84000
+1566,5900,2003,chevrolet,good,gas,224000
+1567,11500,2017,gmc,excellent,gas,56387
+1568,5000,2010,chevrolet,excellent,gas,100000
+1569,14500,2016,cadillac,like new,gas,60000
+1570,57000,2019,ford,like new,diesel,16000
+1571,8500,2015,chevrolet,good,gas,70000
+1572,7500,2010,nissan,like new,gas,117000
+1573,5700,2009,ford,good,gas,92000
+1574,3900,1995,cadillac,excellent,gas,116354
+1575,3950,2011,chevrolet,excellent,gas,3950
+1576,3800,2012,chevrolet,excellent,gas,163032
+1577,8800,2009,acura,good,gas,142110
+1578,3950,2007,lincoln,excellent,gas,162677
+1579,2600,2001,lincoln,excellent,gas,147686
+1580,3350,2005,honda,excellent,gas,177432
+1581,2600,2002,buick,excellent,gas,181351
+1582,4000,2015,dodge,good,gas,126000
+1583,4000,2003,ford,good,gas,191000
+1584,6900,2009,bmw,excellent,gas,119000
+1585,32995,2013,ford,like new,gas,46980
+1586,4900,2004,dodge,good,gas,225000
+1587,4400,1994,ford,excellent,gas,126951
+1588,13500,2019,dodge,like new,gas,48000
+1589,4500,2005,bmw,excellent,gas,155000
+1590,4000,2011,ford,good,gas,190000
+1591,8200,2003,porsche,good,gas,121666
+1592,5000,2011,subaru,good,gas,119711
+1593,7500,2006,mercedes-benz,excellent,diesel,95000
+1594,5350,2010,jeep,good,gas,108000
+1595,6500,2010,toyota,good,gas,134000
+1596,9000,2006,ford,good,diesel,160000
+1597,6555,2011,ford,excellent,gas,199000
+1598,4500,2003,toyota,good,gas,225000
+1599,3000,2009,chevrolet,excellent,gas,168000
+1600,8999,2011,lincoln,like new,gas,137565
+1601,6499,2011,ford,excellent,gas,156712
+1602,34995,2012,ram,good,diesel,169800
+1603,39995,2014,chevrolet,good,diesel,117810
+1604,46995,2017,gmc,good,diesel,189470
+1605,39995,2014,ram,good,diesel,169500
+1606,2950,1994,jeep,good,gas,95000
+1607,11250,2008,subaru,excellent,gas,84000
+1608,4400,2009,ford,excellent,gas,155231
+1609,26000,1972,dodge,new,gas,95123
+1610,34990,2012,toyota,good,gas,46817
+1611,28990,2012,bmw,good,gas,70703
+1612,3850,2008,pontiac,excellent,gas,136104
+1613,28900,2013,jeep,new,gas,48000
+1614,31590,2016,jeep,good,gas,33792
+1615,15600,2013,ford,excellent,gas,108000
+1616,23990,2017,ford,good,gas,20416
+1617,6999,2012,dodge,excellent,gas,80835
+1618,13500,2013,ford,good,gas,102500
+1619,30990,2019,subaru,good,gas,11113
+1620,2000,2002,chevrolet,good,gas,247000
+1621,12000,2006,jeep,excellent,gas,108446
+1622,8450,2010,mazda,excellent,gas,142500
+1623,31590,2017,jeep,good,gas,30577
+1624,28800,2019,ford,excellent,gas,15000
+1625,11000,2011,cadillac,excellent,gas,99000
+1626,27990,2012,toyota,good,gas,67245
+1627,6900,2011,dodge,excellent,gas,129000
+1628,9250,2014,jeep,excellent,gas,130191
+1629,16500,2014,audi,excellent,gas,91964
+1630,8750,2013,ford,excellent,gas,148110
+1631,6500,2012,ford,fair,gas,194000
+1632,16590,2015,toyota,good,gas,83118
+1633,5695,2010,ford,good,gas,155274
+1634,2750,2004,honda,excellent,gas,92760
+1635,31800,2019,ford,excellent,gas,35800
+1636,31995,2014,jeep,excellent,gas,86023
+1637,10800,2015,honda,like new,gas,46256
+1638,8700,2016,dodge,like new,gas,77250
+1639,39000,2011,cadillac,like new,gas,36400
+1640,3250,2011,chevrolet,good,gas,166000
+1641,7995,2008,ford,good,gas,109901
+1642,24990,2017,kia,good,gas,38995
+1643,6500,2000,lexus,good,gas,247900
+1644,5000,2006,ford,excellent,gas,128000
+1645,45000,2018,audi,like new,gas,25177
+1646,62000,2018,porsche,like new,gas,29990
+1647,26990,2017,audi,good,gas,40992
+1648,4500,2005,audi,like new,gas,11123
+1649,15990,2010,acura,good,gas,88542
+1650,6995,2021,chevrolet,like new,gas,14000
+1651,2750,2008,chevrolet,good,gas,114000
+1652,3995,2019,gmc,like new,gas,60000
+1653,11495,2013,gmc,like new,gas,132850
+1654,9495,2013,chevrolet,like new,gas,112297
+1655,14495,2016,jeep,like new,gas,103662
+1656,17995,2014,dodge,excellent,gas,86516
+1657,10995,2012,chevrolet,excellent,gas,132698
+1658,11995,2015,volkswagen,like new,diesel,125000
+1659,4999,2009,kia,good,gas,26763
+1660,15995,2018,hyundai,excellent,gas,42054
+1661,23590,2018,toyota,good,hybrid,80000
+1662,20995,2018,jeep,excellent,gas,43673
+1663,5000,2015,ford,excellent,gas,92139
+1664,26995,2015,jeep,excellent,gas,34145
+1665,18500,2018,jeep,excellent,gas,81900
+1666,5300,1998,chevrolet,excellent,gas,204000
+1667,18995,2013,jeep,good,gas,119896
+1668,48600,2015,ford,excellent,diesel,75600
+1669,9999,2016,kia,good,gas,46296
+1670,30990,2017,dodge,good,gas,38399
+1671,7900,2010,ford,good,gas,175000
+1672,8999,2010,ford,good,gas,141491
+1673,7900,2014,chevrolet,excellent,gas,85000
+1674,33590,2016,lexus,good,gas,55383
+1675,35590,2016,lexus,good,gas,56295
+1676,13800,2008,ford,excellent,gas,137700
+1677,35990,2020,cadillac,good,gas,14215
+1678,6500,2010,toyota,excellent,gas,159000
+1679,5800,2011,chevrolet,fair,gas,220000
+1680,4500,2010,ford,excellent,gas,108000
+1681,4500,2007,toyota,excellent,gas,144000
+1682,2500,2008,gmc,excellent,gas,163000
+1683,15995,2015,toyota,like new,gas,87000
+1684,5500,2014,hyundai,excellent,gas,97000
+1685,6700,2010,lincoln,good,gas,145819
+1686,20900,2011,ford,good,gas,142000
+1687,10995,2011,chevrolet,excellent,hybrid,172000
+1688,22900,2013,ford,good,diesel,177000
+1689,12900,2007,cadillac,excellent,gas,142118
+1690,14900,2011,chevrolet,excellent,gas,108441
+1691,27999,2018,ford,excellent,gas,37363
+1692,12499,2015,jeep,excellent,gas,76582
+1693,11499,2014,nissan,excellent,gas,81177
+1694,3999,2007,saturn,excellent,gas,111100
+1695,34990,2020,cadillac,good,diesel,4174
+1696,26990,2017,infiniti,good,gas,40022
+1697,2400,2000,pontiac,fair,gas,103692
+1698,11000,1986,chevrolet,excellent,gas,110000
+1699,3395,2007,chrysler,good,gas,125000
+1700,2995,2005,hyundai,excellent,gas,99000
+1701,3995,2006,chrysler,excellent,gas,130000
+1702,3395,2004,chrysler,like new,gas,44000
+1703,2595,2002,jeep,good,gas,160000
+1704,3450,2014,nissan,good,gas,109000
+1705,12900,2015,cadillac,good,gas,86000
+1706,12500,2011,bmw,excellent,gas,127000
+1707,18700,2014,bmw,like new,gas,95241
+1708,5500,2009,chevrolet,excellent,gas,143000
+1709,15990,2013,mini,good,gas,36382
+1710,25590,2013,bmw,good,gas,47762
+1711,24990,2017,fiat,good,gas,30075
+1712,16590,2012,acura,good,gas,71294
+1713,32900,2017,dodge,excellent,gas,34014
+1714,20500,2015,infiniti,like new,gas,39200
+1715,12000,1989,ford,good,gas,153114
+1716,7595,2013,subaru,good,gas,91000
+1717,9250,2017,chevrolet,excellent,gas,60000
+1718,4300,2006,ford,good,gas,180000
+1719,17900,2013,gmc,excellent,gas,115000
+1720,4100,2009,ford,good,gas,196000
+1721,12000,2016,kia,like new,gas,64000
+1722,34500,2019,ford,like new,gas,8500
+1723,4400,2009,ford,good,gas,183000
+1724,19000,2003,chevrolet,fair,diesel,110700
+1725,18000,2011,chevrolet,excellent,gas,100000
+1726,79500,2020,rover,excellent,gas,13900
+1727,4500,2012,hyundai,excellent,gas,147000
+1728,19000,2019,mitsubishi,like new,gas,22301
+1729,28590,2019,honda,good,gas,17043
+1730,32990,2014,bmw,good,gas,40405
+1731,21990,2018,toyota,good,hybrid,37604
+1732,38990,2020,toyota,good,hybrid,6751
+1733,28990,2014,lexus,good,diesel,72772
+1734,37990,2020,jeep,good,gas,22244
+1735,22990,2020,honda,good,hybrid,28975
+1736,20990,2016,toyota,good,gas,41070
+1737,31590,2017,bmw,good,gas,34455
+1738,34990,2019,ram,good,gas,34139
+1739,29990,2018,toyota,good,gas,14520
+1740,19990,2019,mitsubishi,good,gas,35313
+1741,27990,2017,lexus,good,gas,19215
+1742,27990,2016,honda,good,gas,27085
+1743,21990,2017,honda,good,gas,33449
+1744,22990,2017,chrysler,good,gas,19687
+1745,28590,2019,mazda,good,gas,16731
+1746,31990,2019,lexus,good,gas,26177
+1747,6500,2010,mercedes-benz,excellent,gas,165000
+1748,4495,2007,pontiac,excellent,gas,117928
+1749,4200,2010,honda,good,gas,90850
+1750,3500,2006,chevrolet,good,gas,100000
+1751,3900,2003,mercedes-benz,good,gas,173000
+1752,6250,2012,ford,excellent,gas,92228
+1753,9750,2011,jeep,excellent,gas,89925
+1754,15000,2010,chevrolet,excellent,gas,152330
+1755,7000,2010,jeep,excellent,gas,135013
+1756,9500,2008,jeep,excellent,gas,151447
+1757,28800,2017,ford,excellent,gas,44800
+1758,4495,2013,ford,excellent,gas,158918
+1759,24100,2018,lincoln,like new,gas,18534
+1760,5400,2006,jeep,good,gas,125000
+1761,10995,2014,lincoln,good,gas,123940
+1762,3700,2008,toyota,excellent,hybrid,177577
+1763,3000,2004,chrysler,good,gas,100000
+1764,17995,2017,mazda,excellent,gas,53868
+1765,14500,2015,cadillac,good,gas,80000
+1766,15999,2018,subaru,excellent,gas,90466
+1767,19800,2016,gmc,excellent,gas,89100
+1768,10000,1997,mercedes-benz,good,gas,73100
+1769,2450,2004,ford,excellent,gas,160580
+1770,16990,2015,hyundai,excellent,gas,37801
+1771,14900,2019,chevrolet,excellent,gas,24000
+1772,4995,2007,pontiac,good,gas,122377
+1773,15995,2017,subaru,excellent,gas,79329
+1774,13995,2018,chevrolet,excellent,gas,69212
+1775,12995,2014,chrysler,excellent,gas,86619
+1776,15995,2017,chevrolet,excellent,gas,72784
+1777,11495,2016,dodge,excellent,gas,92500
+1778,10495,2014,chrysler,excellent,gas,99100
+1779,16800,2012,chevrolet,excellent,gas,82100
+1780,22500,2017,lincoln,excellent,gas,32500
+1781,14400,2017,volkswagen,good,gas,23575
+1782,5995,2005,jeep,good,gas,138797
+1783,3900,2010,jeep,good,gas,157000
+1784,8900,2016,dodge,excellent,gas,50000
+1785,22500,2017,bmw,like new,gas,23705
+1786,23600,2018,subaru,good,gas,21944
+1787,6995,2012,hyundai,like new,gas,99000
+1788,24995,2018,subaru,excellent,gas,14015
+1789,26995,2017,bmw,excellent,gas,20436
+1790,34900,2016,lexus,like new,gas,19231
+1791,25000,2019,cadillac,like new,gas,74000
+1792,5900,1991,lexus,excellent,gas,111114
+1793,3700,2011,ford,excellent,gas,159000
+1794,14990,2017,hyundai,excellent,gas,37415
+1795,17600,2017,ford,excellent,gas,150300
+1796,14900,2016,honda,new,gas,55000
+1797,13900,2014,gmc,good,gas,160000
+1798,6900,2011,ford,good,gas,214000
+1799,8900,2005,toyota,excellent,gas,236000
+1800,6000,2008,jeep,good,gas,150957
+1801,59800,2009,porsche,excellent,gas,45000
+1802,17000,2017,volkswagen,like new,gas,39000
+1803,3995,2007,nissan,excellent,gas,155000
+1804,8900,2010,chevrolet,good,gas,200000
+1805,4400,2009,dodge,excellent,gas,148000
+1806,2900,2004,mercury,good,gas,76000
+1807,3995,2003,honda,excellent,gas,145781
+1808,19995,2019,honda,excellent,gas,14215
+1809,15995,2018,ford,excellent,gas,30013
+1810,14995,2015,ford,excellent,gas,57413
+1811,3600,2011,kia,excellent,gas,126000
+1812,17900,2013,jeep,excellent,gas,130000
+1813,4499,2009,dodge,good,gas,139738
+1814,9988,2012,ford,excellent,gas,160170
+1815,4399,2008,honda,good,gas,146180
+1816,3799,2008,ford,good,gas,111671
+1817,4299,2006,honda,good,gas,161200
+1818,5400,2012,ford,like new,gas,100000
+1819,5000,2008,mitsubishi,fair,gas,142909
+1820,4700,2012,cadillac,excellent,gas,165000
+1821,6500,2010,subaru,good,gas,157000
+1822,4800,2012,ford,excellent,gas,123000
+1823,5000,2012,chevrolet,excellent,gas,91044
+1824,5500,2009,pontiac,excellent,gas,114641
+1825,2500,2006,gmc,fair,gas,121000
+1826,12900,2014,chevrolet,excellent,gas,103442
+1827,34999,2015,gmc,excellent,gas,111189
+1828,24999,2015,mercedes-benz,excellent,gas,67915
+1829,12999,2013,ford,excellent,gas,118896
+1830,16495,2014,jeep,excellent,gas,126315
+1831,3800,2005,cadillac,good,gas,230000
+1832,6900,2010,ford,good,gas,176000
+1833,3500,2007,ford,good,gas,130100
+1834,32500,2019,ram,like new,gas,10700
+1835,8000,2015,chrysler,excellent,gas,93000
+1836,2900,2015,nissan,excellent,gas,129000
+1837,4299,2009,mitsubishi,good,gas,96000
+1838,13900,2017,cadillac,good,gas,106000
+1839,8900,2017,buick,good,gas,56000
+1840,2500,2006,audi,fair,gas,199999
+1841,24000,2017,lincoln,like new,gas,33000
+1842,10500,2016,chevrolet,like new,gas,57106
+1843,40800,2019,ram,like new,gas,13500
+1844,9950,2016,chevrolet,excellent,gas,15000
+1845,12000,2011,bmw,like new,gas,116905
+1846,9950,2013,ford,excellent,gas,202259
+1847,13500,2014,kia,excellent,gas,72000
+1848,4500,2012,chevrolet,good,gas,154720
+1849,8700,2000,jeep,fair,gas,121490
+1850,5000,2004,ford,good,gas,156955
+1851,2300,2003,nissan,good,gas,167000
+1852,2100,2000,gmc,good,gas,148623
+1853,6500,2010,chrysler,like new,gas,117000
+1854,5000,2008,pontiac,excellent,gas,129455
+1855,12900,2013,bmw,excellent,gas,117000
+1856,15000,2002,jeep,excellent,gas,151971
+1857,10995,2017,chevrolet,excellent,gas,157000
+1858,24995,2011,ford,good,gas,135750
+1859,41995,2012,ram,good,diesel,116930
+1860,27995,2011,chevrolet,good,diesel,99653
+1861,38995,2016,ford,good,diesel,154705
+1862,10500,2013,dodge,excellent,gas,151000
+1863,12495,2014,honda,like new,gas,118000
+1864,25000,2007,chevrolet,excellent,gas,62700
+1865,9000,2011,gmc,excellent,gas,140000
+1866,4500,2016,chevrolet,excellent,gas,124000
+1867,2500,2015,ford,fair,gas,93000
+1868,18500,2017,chrysler,excellent,gas,61000
+1869,2500,2012,bmw,fair,gas,120000
+1870,19600,2017,chevrolet,excellent,gas,88800
+1871,4500,2006,volkswagen,good,diesel,123000
+1872,16590,2009,bmw,good,gas,55930
+1873,6900,2010,chevrolet,good,gas,2500
+1874,7000,2004,bmw,good,gas,152000
+1875,38990,2015,chevrolet,good,gas,48774
+1876,32800,2019,ford,excellent,gas,50200
+1877,5800,2009,toyota,excellent,hybrid,163250
+1878,2100,2013,chevrolet,excellent,gas,173000
+1879,17000,2016,dodge,like new,gas,44000
+1880,21000,2017,jeep,excellent,gas,52000
+1881,13995,2016,chevrolet,like new,gas,100002
+1882,6000,2013,ford,excellent,gas,118000
+1883,10900,2010,ford,good,gas,105000
+1884,29895,2018,chevrolet,excellent,gas,61667
+1885,3200,2008,chrysler,good,gas,200000
+1886,8200,1972,ford,excellent,gas,72000
+1887,5000,2008,mitsubishi,excellent,gas,142909
+1888,8200,2010,jeep,excellent,gas,138728
+1889,16995,2018,volkswagen,excellent,gas,23587
+1890,19900,2007,ram,good,diesel,164000
+1891,18900,2009,ford,good,gas,62000
+1892,4995,2010,ford,excellent,gas,135675
+1893,3400,2007,saturn,good,gas,168000
+1894,72900,2019,ram,excellent,diesel,26557
+1895,7900,2009,gmc,good,gas,227000
+1896,2900,2005,chevrolet,good,gas,133000
+1897,7900,2009,ford,good,gas,193000
+1898,16500,2015,subaru,like new,gas,77000
+1899,4999,2007,honda,good,gas,116641
+1900,7900,2012,ford,good,gas,148000
+1901,17300,2015,honda,like new,gas,100000
+1902,19900,2008,chevrolet,good,diesel,213000
+1903,6900,2012,jeep,good,gas,158000
+1904,10900,2015,volkswagen,good,diesel,123000
+1905,5900,2011,subaru,good,gas,154000
+1906,24995,2020,volkswagen,excellent,gas,4510
+1907,10900,2009,ford,good,gas,153000
+1908,28000,2014,ram,excellent,gas,54522
+1909,7900,2004,infiniti,good,gas,145000
+1910,3200,2004,ford,excellent,gas,128287
+1911,12900,2005,ford,good,diesel,152000
+1912,10300,2012,honda,excellent,gas,138965
+1913,10495,2015,ford,excellent,gas,36234
+1914,4900,2009,nissan,good,gas,193000
+1915,6500,2013,chevrolet,excellent,gas,133706
+1916,24995,2019,gmc,excellent,gas,9197
+1917,6900,2006,gmc,good,gas,196000
+1918,4250,2008,nissan,good,gas,116000
+1919,35895,2018,gmc,excellent,gas,27388
+1920,5900,2006,mercedes-benz,good,gas,155000
+1921,7500,2012,dodge,excellent,gas,113893
+1922,6900,2009,rover,good,gas,179000
+1923,4999,2011,ford,good,gas,132720
+1924,10900,2015,ford,good,gas,118000
+1925,5900,2010,nissan,good,gas,128000
+1926,45000,2018,audi,excellent,gas,25177
+1927,2900,2007,pontiac,good,gas,213000
+1928,19990,2017,subaru,good,gas,29926
+1929,22990,2018,honda,good,diesel,47829
+1930,31990,2019,nissan,good,gas,4041
+1931,29990,2019,volkswagen,good,gas,15471
+1932,31990,2016,lexus,good,gas,25804
+1933,38590,2019,ford,good,gas,15266
+1934,27590,2017,bmw,good,gas,41410
+1935,7995,2010,mazda,excellent,gas,203647
+1936,28590,2019,fiat,good,gas,3662
+1937,36900,2019,ford,excellent,gas,42262
+1938,36990,2013,mercedes-benz,good,gas,60708
+1939,8500,1994,pontiac,excellent,gas,102000
+1940,4995,2009,chevrolet,excellent,gas,152695
+1941,21590,2017,buick,good,gas,14934
+1942,18590,2017,volkswagen,good,gas,25248
+1943,25990,2019,ford,good,gas,21480
+1944,4995,2008,saturn,excellent,gas,163602
+1945,5995,2007,gmc,excellent,gas,175774
+1946,6499,2011,buick,excellent,gas,123000
+1947,19800,2014,chevrolet,excellent,gas,118900
+1948,3995,2004,subaru,excellent,gas,222815
+1949,17950,2017,ford,like new,gas,43000
+1950,5995,2008,lexus,excellent,gas,170550
+1951,6900,2013,chevrolet,good,gas,150000
+1952,2400,2006,dodge,excellent,gas,146000
+1953,22995,2012,porsche,excellent,gas,96153
+1954,12995,2013,nissan,excellent,gas,113434
+1955,15995,2017,nissan,excellent,gas,52436
+1956,7995,2013,dodge,excellent,gas,129462
+1957,12495,2017,ford,excellent,gas,138366
+1958,20995,2017,chevrolet,excellent,gas,28347
+1959,19900,2014,chevrolet,excellent,gas,122125
+1960,3995,2007,chevrolet,excellent,gas,186579
+1961,6500,2009,pontiac,good,gas,78870
+1962,4495,2003,toyota,excellent,gas,117338
+1963,15000,1995,ford,like new,diesel,62410
+1964,26500,2017,audi,like new,gas,52786
+1965,20000,2020,ford,excellent,gas,5858
+1966,31590,2015,bmw,good,gas,22406
+1967,69900,2020,jeep,like new,gas,890
+1968,34590,2016,mercedes-benz,good,gas,42973
+1969,18590,2015,mini,good,gas,49499
+1970,18990,2012,acura,good,gas,36309
+1971,31990,2014,audi,good,gas,54687
+1972,18990,2018,mazda,good,gas,18553
+1973,21590,2018,buick,good,gas,13031
+1974,23590,2017,audi,good,gas,25343
+1975,28590,2016,mercedes-benz,good,gas,24531
+1976,22590,2017,ram,good,gas,39508
+1977,34990,2020,nissan,good,gas,13188
+1978,24590,2018,volkswagen,good,gas,39802
+1979,4700,2014,ford,excellent,gas,160000
+1980,4500,2008,ford,excellent,gas,138268
+1981,8000,2011,mitsubishi,excellent,gas,125996
+1982,7500,2014,kia,like new,gas,81376
+1983,34895,2019,gmc,excellent,gas,24833
+1984,5995,2010,ford,excellent,gas,113800
+1985,24995,2017,ford,excellent,gas,29818
+1986,10000,2008,ford,excellent,gas,224807
+1987,13900,2012,chevrolet,excellent,gas,53486
+1988,31000,2013,jeep,excellent,gas,83093
+1989,12999,2013,gmc,excellent,gas,95600
+1990,15999,2014,cadillac,excellent,gas,92680
+1991,11299,2017,ford,excellent,gas,103480
+1992,22500,2017,ford,like new,gas,26757
+1993,8600,1985,pontiac,good,gas,45000
+1994,2500,2012,chrysler,excellent,gas,89000
+1995,14900,2013,ford,good,gas,189000
+1996,7900,2004,infiniti,good,gas,163000
+1997,8900,2009,ford,good,gas,157000
+1998,18900,2010,ford,good,gas,73000
+1999,10900,2009,ram,excellent,gas,155000
+2000,16900,2019,gmc,like new,gas,27000
+2001,19000,2020,gmc,like new,gas,12000
+2002,2500,2009,dodge,good,gas,133000
+2003,18200,2012,volkswagen,excellent,gas,38105
+2004,27500,2011,ford,excellent,diesel,185664
+2005,41000,2018,chevrolet,like new,gas,52800
+2006,3500,2008,mazda,good,gas,178000
+2007,3200,2008,mazda,good,gas,181000
+2008,4950,2007,pontiac,excellent,gas,75226
+2009,24900,2017,ram,like new,gas,43000
+2010,3000,2009,pontiac,fair,gas,165000
+2011,15000,2015,mini,like new,gas,59028
+2012,9999,2012,toyota,excellent,gas,90000
+2013,16000,2004,pontiac,excellent,gas,62000
+2014,12000,1999,ford,good,gas,83900
+2015,5000,2004,chrysler,good,gas,146000
+2016,19500,2016,cadillac,like new,gas,65000
+2017,9500,2008,gmc,good,gas,136800
+2018,3500,2005,mercedes-benz,good,gas,155000
+2019,5800,2010,lincoln,excellent,gas,129650
+2020,6000,2009,dodge,good,gas,116097
+2021,77995,2018,mercedes-benz,like new,gas,20079
+2022,6500,2008,saturn,excellent,gas,64021
+2023,24995,2017,ford,excellent,gas,71136
+2024,3995,2007,saturn,good,gas,102150
+2025,3000,2008,mercury,fair,gas,158411
+2026,22995,2019,gmc,excellent,gas,82212
+2027,4900,2009,ford,good,gas,152000
+2028,22500,1983,chevrolet,excellent,gas,92000
+2029,24995,2020,jeep,like new,gas,10759
+2030,47995,2016,land rover,excellent,gas,57457
+2031,4700,2006,honda,like new,gas,139000
+2032,16995,2017,chevrolet,excellent,gas,65335
+2033,5000,2012,chevrolet,like new,gas,86499
+2034,22995,2017,cadillac,like new,gas,36402
+2035,17995,2012,ford,excellent,gas,117076
+2036,23590,2012,ford,good,gas,53752
+2037,20990,2013,hyundai,good,gas,45720
+2038,27990,2018,acura,good,gas,30791
+2039,4300,2008,dodge,excellent,gas,84000
+2040,12500,2018,chevrolet,excellent,gas,18000
+2041,35000,2015,tesla,fair,electric,87000
+2042,9750,2018,chevrolet,excellent,gas,56000
+2043,6500,2013,ford,excellent,gas,106000
+2044,2000,1981,fiat,fair,gas,78000
+2045,19795,2015,jeep,like new,gas,68000
+2046,16590,2009,infiniti,good,gas,81993
+2047,18900,2018,dodge,excellent,gas,31500
+2048,21590,2018,volkswagen,good,gas,14775
+2049,5995,2010,jeep,like new,gas,77801
+2050,20000,2010,ram,excellent,gas,63000
+2051,7900,2008,ford,excellent,gas,181090
+2052,16000,2007,chevrolet,like new,gas,94000
+2053,7500,2005,pontiac,excellent,gas,95000
+2054,16990,2015,lexus,good,gas,82764
+2055,29990,2016,gmc,good,gas,42031
+2056,35590,2011,porsche,good,gas,8399
+2057,8900,2011,chevrolet,good,gas,149000
+2058,6000,2013,ford,excellent,gas,146000
+2059,24750,2015,chevrolet,excellent,gas,133000
+2060,2100,2008,saturn,excellent,gas,100000
+2061,16990,2015,volkswagen,good,gas,49203
+2062,11800,2014,acura,excellent,gas,96000
+2063,2500,2004,mercury,good,gas,121000
+2064,11800,2012,jaguar,excellent,gas,67000
+2065,28895,2018,gmc,excellent,gas,28110
+2066,22590,2018,subaru,good,gas,17472
+2067,45000,2019,ford,excellent,gas,18926
+2068,20995,2018,gmc,excellent,gas,37338
+2069,4000,2007,saturn,excellent,gas,166379
+2070,27990,2015,audi,good,gas,35035
+2071,3200,2011,jeep,excellent,gas,155000
+2072,10900,2011,gmc,good,gas,162000
+2073,3000,2008,ford,excellent,gas,175670
+2074,31895,2018,gmc,excellent,gas,17017
+2075,31500,2015,ford,excellent,diesel,137370
+2076,19995,2020,volkswagen,excellent,gas,4441
+2077,36900,2020,ford,excellent,gas,9237
+2078,2300,2003,infiniti,excellent,gas,173000
+2079,18295,2018,ford,excellent,gas,19099
+2080,21000,1979,chevrolet,like new,gas,64000
+2081,39995,2017,dodge,excellent,gas,33732
+2082,27590,2012,jeep,good,gas,52172
+2083,36990,2020,bmw,good,gas,3723
+2084,5900,2013,ford,good,gas,164000
+2085,14000,2019,ford,excellent,gas,21750
+2086,39590,2018,audi,good,gas,48640
+2087,19990,2018,honda,good,gas,18020
+2088,7500,2012,toyota,excellent,gas,94000
+2089,14600,1991,jeep,good,gas,133700
+2090,28800,2019,ford,excellent,gas,16182
+2091,4500,2008,chrysler,excellent,gas,140516
+2092,4500,2013,dodge,like new,gas,109000
+2093,3999,2006,toyota,good,gas,176750
+2094,19590,2018,subaru,good,gas,36647
+2095,2600,2005,infiniti,good,gas,233818
+2096,7900,2014,jeep,good,gas,133000
+2097,3700,2012,buick,excellent,gas,138000
+2098,7900,2009,gmc,good,gas,210515
+2099,3500,2008,chevrolet,good,gas,233800
+2100,2950,2004,pontiac,good,diesel,91000
+2101,6800,2009,chevrolet,excellent,gas,89650
+2102,4150,2006,buick,good,gas,135168
+2103,12500,1995,gmc,excellent,gas,184412
+2104,3000,2007,chevrolet,good,gas,194355
+2105,5000,2010,mercury,excellent,gas,184548
+2106,4900,2003,ram,good,gas,59000
+2107,5495,2010,gmc,good,gas,181983
+2108,7000,2010,ford,excellent,gas,159721
+2109,4900,2003,chevrolet,good,gas,141947
+2110,28000,2017,gmc,excellent,gas,67600
+2111,13900,2008,chevrolet,good,gas,181364
+2112,7000,1999,ford,fair,gas,236196
+2113,23900,2016,dodge,like new,gas,30300
+2114,7500,2009,buick,excellent,gas,156022
+2115,4650,2008,chevrolet,fair,gas,239040
+2116,15800,2016,chevrolet,excellent,gas,159600
+2117,3500,2006,chevrolet,excellent,gas,189681
+2118,21800,2013,chevrolet,like new,gas,25700
+2119,16500,2015,toyota,excellent,gas,68000
+2120,8900,2011,toyota,good,gas,144000
+2121,4000,2004,chevrolet,excellent,gas,204001
+2122,12500,2017,ford,excellent,gas,9212
+2123,18900,2015,cadillac,excellent,gas,73200
+2124,4900,2010,ford,good,gas,138000
+2125,2550,2007,mitsubishi,fair,gas,123448
+2126,2000,1994,dodge,good,gas,130695
+2127,25000,2009,ram,good,diesel,150000
+2128,21995,2011,chevrolet,excellent,gas,131080
+2129,3495,2005,mercury,good,gas,216266
+2130,24995,2013,gmc,like new,gas,48566
+2131,23995,2019,ford,like new,gas,17820
+2132,5995,2005,ford,excellent,gas,165753
+2133,32995,2018,ford,like new,gas,17358
+2134,8995,2008,ford,excellent,gas,103102
+2135,13900,2012,ford,like new,gas,60192
+2136,19995,2019,ford,like new,gas,4364
+2137,28995,2017,ford,like new,gas,53419
+2138,3995,2005,chevrolet,good,gas,203556
+2139,6995,2009,chevrolet,excellent,gas,137042
+2140,26995,2012,gmc,excellent,gas,104988
+2141,7900,2015,chevrolet,excellent,gas,115648
+2142,4495,1999,chevrolet,excellent,gas,96709
+2143,30600,2019,ford,excellent,gas,40600
+2144,16800,2007,gmc,excellent,gas,98500
+2145,6700,2011,chevrolet,like new,hybrid,154000
+2146,16800,2019,gmc,excellent,gas,98000
+2147,28590,2017,jeep,good,gas,32918
+2148,8900,2004,ford,good,gas,68000
+2149,7000,2011,ford,excellent,gas,91000
+2150,14500,2014,ford,excellent,gas,108000
+2151,13800,2008,ford,excellent,gas,115700
+2152,2400,2006,buick,fair,gas,191082
+2153,9995,2008,toyota,excellent,gas,180500
+2154,9500,2010,chevrolet,excellent,gas,71000
+2155,31000,2019,buick,like new,gas,12344
+2156,22900,2013,ford,good,gas,177000
+2157,12000,2010,chevrolet,good,gas,83000
+2158,8995,2005,ram,good,gas,138222
+2159,7750,2014,chevrolet,like new,gas,135302
+2160,4500,2010,chrysler,fair,gas,186200
+2161,3950,2008,chrysler,like new,gas,140652
+2162,6950,1990,chevrolet,like new,gas,123353
+2163,9550,2012,gmc,like new,gas,124199
+2164,54975,2020,gmc,excellent,gas,17000
+2165,18400,2009,jeep,good,gas,98000
+2166,48900,2018,chevrolet,like new,diesel,43034
+2167,6500,2006,bmw,good,gas,118122
+2168,2000,2005,pontiac,excellent,gas,215391
+2169,16995,2004,chevrolet,excellent,gas,133166
+2170,69900,2020,jeep,good,gas,890
+2171,9900,2012,honda,excellent,gas,114555
+2172,45300,2018,ram,excellent,diesel,34125
+2173,13900,2002,ford,good,diesel,163000
+2174,6995,2014,hyundai,good,hybrid,145908
+2175,7000,2008,buick,excellent,gas,116019
+2176,9995,2009,buick,like new,gas,105000
+2177,3200,2009,chevrolet,good,gas,140000
+2178,3200,2004,mazda,good,gas,150000
+2179,5995,2009,chevrolet,excellent,gas,171992
+2180,3500,2004,chevrolet,excellent,gas,90945
+2181,3500,2003,ford,excellent,gas,130605
+2182,3500,2007,ford,excellent,gas,194864
+2183,9900,2013,nissan,good,gas,139000
+2184,4900,2013,dodge,good,gas,156000
+2185,8900,2011,ford,good,gas,234000
+2186,3900,2010,chevrolet,good,gas,169000
+2187,6500,2005,chevrolet,excellent,gas,178517
+2188,3900,2009,ford,good,gas,141000
+2189,2600,2010,chevrolet,good,gas,176200
+2190,7950,2013,ford,excellent,gas,73976
+2191,19950,2014,gmc,excellent,gas,167202
+2192,15950,2014,ford,excellent,gas,142392
+2193,11950,2014,ford,excellent,gas,77995
+2194,7950,2016,chevrolet,excellent,gas,84525
+2195,11950,2014,chevrolet,excellent,gas,58611
+2196,8950,2012,honda,excellent,gas,140438
+2197,11950,2010,gmc,excellent,gas,166763
+2198,17450,2015,jeep,excellent,gas,113214
+2199,7950,2014,kia,excellent,gas,100732
+2200,12900,2014,ford,good,gas,208000
+2201,5900,2013,chrysler,good,gas,135000
+2202,7900,2011,jeep,good,gas,177000
+2203,4900,2008,cadillac,good,gas,144000
+2204,8900,2007,ford,good,gas,164000
+2205,5900,2012,chevrolet,good,gas,128000
+2206,6900,2013,honda,good,gas,168000
+2207,2900,2009,ford,good,gas,129000
+2208,17900,2013,jeep,good,gas,164000
+2209,16900,2014,ford,good,gas,137000
+2210,3900,2008,saturn,good,gas,111000
+2211,26990,2017,mazda,good,gas,4068
+2212,6200,2010,ford,good,gas,96370
+2213,7800,2008,chevrolet,good,gas,149000
+2214,12000,1985,chevrolet,like new,gas,64000
+2215,18500,2005,ford,like new,gas,21000
+2216,7995,2009,chevrolet,good,gas,214369
+2217,3500,2007,chevrolet,excellent,gas,220182
+2218,6499,2011,chevrolet,excellent,gas,165314
+2219,29500,2018,chrysler,excellent,gas,16600
+2220,13900,2010,ford,good,gas,79000
+2221,15000,2011,jeep,excellent,gas,121296
+2222,12500,2014,volkswagen,excellent,gas,101098
+2223,3000,2012,ford,excellent,gas,218747
+2224,4000,2003,toyota,excellent,gas,191142
+2225,40000,2015,gmc,like new,gas,60000
+2226,14995,2009,ram,good,gas,121936
+2227,6995,2011,ford,excellent,gas,93000
+2228,39500,2019,ram,like new,gas,31000
+2229,35900,2015,chevrolet,excellent,gas,82500
+2230,30800,2020,jeep,new,gas,23900
+2231,40600,2020,ford,like new,gas,15000
+2232,13800,2013,ford,excellent,gas,189500
+2233,2200,1998,honda,good,gas,200000
+2234,33600,2019,ford,excellent,gas,39800
+2235,9950,2012,jeep,excellent,gas,209626
+2236,4995,2007,pontiac,excellent,gas,146871
+2237,27800,2014,gmc,excellent,gas,34300
+2238,30600,2019,ford,like new,gas,43518
+2239,34800,2020,ford,like new,gas,9500
+2240,5500,2011,chevrolet,excellent,gas,159620
+2241,4300,2011,nissan,good,gas,142838
+2242,38900,2020,ford,like new,gas,45100
+2243,33600,2020,ford,like new,gas,36000
+2244,32600,2019,ford,like new,gas,36400
+2245,19900,2011,bmw,excellent,gas,81397
+2246,5500,2007,chevrolet,excellent,gas,155157
+2247,33800,2019,ford,excellent,gas,31000
+2248,2400,2010,honda,good,gas,230000
+2249,6500,2011,hyundai,like new,gas,140866
+2250,15800,2014,ford,excellent,gas,91800
+2251,9000,2013,nissan,excellent,gas,126304
+2252,10495,2011,lincoln,good,gas,195860
+2253,19500,2011,cadillac,excellent,gas,144600
+2254,28800,2015,chevrolet,excellent,gas,164200
+2255,5500,2006,cadillac,excellent,gas,93354
+2256,7000,2011,buick,excellent,gas,200903
+2257,16800,2007,ford,excellent,gas,98000
+2258,29800,2019,ford,like new,gas,38700
+2259,3700,2005,chrysler,excellent,gas,97000
+2260,15800,2013,ford,excellent,gas,95900
+2261,28800,2019,ford,like new,gas,15000
+2262,5995,2007,buick,excellent,gas,172346
+2263,2900,2001,chevrolet,good,gas,158000
+2264,7250,2006,gmc,excellent,gas,185667
+2265,6900,2003,audi,good,gas,126000
+2266,6900,2015,dodge,excellent,gas,194000
+2267,5900,2003,ram,good,gas,198000
+2268,17945,2007,chevrolet,excellent,gas,138221
+2269,28990,2019,acura,good,gas,8256
+2270,2999,2006,chevrolet,good,gas,211732
+2271,2899,2005,chevrolet,good,gas,161256
+2272,6250,2011,ford,excellent,gas,165040
+2273,4999,2012,chevrolet,good,gas,184597
+2274,36997,2019,chevrolet,like new,gas,14207
+2275,39997,2020,chevrolet,new,gas,14855
+2276,32997,2020,chevrolet,like new,gas,17221
+2277,40000,2007,dodge,like new,gas,3000
+2278,7500,2007,chevrolet,excellent,gas,172000
+2279,10000,1992,pontiac,excellent,gas,114000
+2280,3449,2010,kia,excellent,gas,200200
+2281,7499,2008,dodge,excellent,gas,94585
+2282,32995,2014,ford,like new,gas,62201
+2283,2199,2003,chevrolet,good,gas,194831
+2284,33990,2016,ford,good,gas,18380
+2285,32995,2016,honda,excellent,gas,53962
+2286,13995,2004,chevrolet,excellent,gas,106869
+2287,2500,2008,pontiac,excellent,gas,191161
+2288,4000,1997,ford,good,diesel,206000
+2289,7000,2007,gmc,good,gas,219568
+2290,3500,2008,dodge,excellent,gas,147387
+2291,6900,2005,chevrolet,good,gas,150000
+2292,33600,2019,ford,excellent,gas,44600
+2293,51000,2005,aston-martin,like new,gas,12000
+2294,13800,2016,chevrolet,excellent,gas,185000
+2295,38900,2020,ford,excellent,gas,49500
+2296,40600,2020,ford,excellent,gas,17800
+2297,4000,2009,mercury,excellent,gas,194971
+2298,46800,2018,ford,excellent,gas,87000
+2299,20900,2012,jeep,good,gas,169152
+2300,7000,2012,buick,excellent,gas,198376
+2301,3495,2005,gmc,good,gas,155000
+2302,11495,2013,chevrolet,good,gas,196433
+2303,24990,2017,jaguar,good,diesel,21384
+2304,4000,2008,ford,excellent,gas,182781
+2305,17990,2017,chevrolet,excellent,gas,33000
+2306,7000,2013,ford,excellent,gas,79900
+2307,14800,2013,ford,excellent,gas,169500
+2308,4900,2005,volkswagen,good,diesel,148000
+2309,10000,2007,cadillac,excellent,gas,223106
+2310,6400,2005,honda,excellent,gas,220000
+2311,7000,2014,ford,excellent,gas,93000
+2312,9995,2014,ford,excellent,gas,100400
+2313,17995,2006,gmc,excellent,gas,95000
+2314,4995,2002,chevrolet,excellent,gas,158980
+2315,34995,2010,ram,excellent,diesel,89455
+2316,17995,2008,ram,excellent,gas,60724
+2317,33600,2020,ford,excellent,gas,37300
+2318,4900,2004,buick,good,gas,133000
+2319,3900,2003,buick,good,gas,103000
+2320,4999,2008,dodge,good,gas,166699
+2321,4000,2012,ford,excellent,gas,182804
+2322,33997,2020,chevrolet,like new,gas,13072
+2323,5000,2002,mercedes-benz,good,gas,127000
+2324,26499,2015,ford,excellent,gas,99277
+2325,45000,2016,gmc,like new,gas,33000
+2326,5900,2009,pontiac,excellent,gas,144471
+2327,7900,2010,buick,excellent,gas,55000
+2328,20900,2010,jeep,excellent,gas,86876
+2329,10400,2015,ford,excellent,gas,114000
+2330,8500,2010,ford,excellent,gas,97000
+2331,11995,2012,chevrolet,good,gas,60322
+2332,9000,2005,chrysler,excellent,gas,84553
+2333,34800,2019,ford,like new,gas,31800
+2334,4400,2008,saturn,good,gas,152000
+2335,21800,2014,ford,excellent,gas,67300
+2336,16600,2016,gmc,excellent,gas,143500
+2337,4495,2002,chevrolet,good,gas,207433
+2338,40590,2018,bmw,good,gas,64491
+2339,40600,2020,ford,excellent,gas,17000
+2340,41590,2020,cadillac,good,gas,4060
+2341,2500,1996,chevrolet,excellent,gas,185444
+2342,3500,2001,ram,good,gas,167000
+2343,6500,2004,gmc,excellent,gas,174000
+2344,4900,2006,toyota,good,gas,99000
+2345,6900,2010,chevrolet,good,gas,162000
+2346,33600,2020,ford,excellent,gas,36000
+2347,11900,2006,gmc,good,gas,106100
+2348,39000,2019,gmc,excellent,gas,12500
+2349,13000,1979,chevrolet,good,gas,1234
+2350,28590,2018,audi,good,gas,31033
+2351,29990,2018,audi,good,gas,22574
+2352,5000,2013,chevrolet,excellent,gas,115600
+2353,19800,2015,chevrolet,excellent,gas,128600
+2354,3500,2005,gmc,excellent,gas,221524
+2355,8000,2013,chrysler,good,gas,141130
+2356,44900,2019,ram,like new,gas,39000
+2357,30590,2018,bmw,good,gas,40238
+2358,24990,2012,rover,good,gas,49214
+2359,31800,2019,ford,excellent,gas,3580
+2360,7500,1986,ford,fair,diesel,164780
+2361,9107,2005,ford,excellent,gas,215000
+2362,7238,2011,jeep,excellent,gas,93474
+2363,29500,2014,ram,excellent,gas,63772
+2364,8600,2007,ford,good,gas,215000
+2365,3995,2007,ford,excellent,gas,112800
+2366,14800,2016,chevrolet,excellent,gas,176000
+2367,25997,2019,honda,like new,gas,23609
+2368,4999,2010,ford,good,gas,145225
+2369,5500,2005,chevrolet,good,gas,223560
+2370,16900,2014,lexus,excellent,gas,102300
+2371,16995,2002,ford,excellent,gas,45000
+2372,14900,2015,chrysler,excellent,gas,46000
+2373,14500,2010,mercedes-benz,excellent,gas,69000
+2374,12993,2012,lexus,excellent,gas,236256
+2375,4699,2008,chevrolet,excellent,gas,155575
+2376,7695,2009,hyundai,good,gas,91442
+2377,51000,2020,chevrolet,like new,gas,23300
+2378,5980,2011,chrysler,good,gas,168000
+2379,16995,2014,honda,excellent,gas,60000
+2380,11995,2014,chevrolet,good,gas,92100
+2381,5000,2010,ford,good,gas,78000
+2382,6995,2013,subaru,excellent,gas,206000
+2383,11995,2010,toyota,excellent,gas,149000
+2384,5495,2010,dodge,good,gas,158977
+2385,5495,2007,saturn,good,gas,176661
+2386,4495,2006,jeep,good,gas,145258
+2387,6295,2009,chevrolet,good,gas,120857
+2388,7495,2011,ford,good,gas,188525
+2389,5995,2010,ford,good,gas,162601
+2390,5495,2008,jeep,good,gas,185258
+2391,6995,2011,subaru,excellent,gas,195000
+2392,5000,2010,hyundai,good,gas,157000
+2393,2000,2003,toyota,fair,gas,209000
+2394,5995,2013,chrysler,good,gas,93010
+2395,3495,2006,pontiac,good,gas,102000
+2396,15995,2010,lexus,excellent,gas,47253
+2397,30995,2017,ford,excellent,gas,69072
+2398,12855,2002,ford,excellent,gas,176946
+2399,14945,2001,porsche,excellent,gas,67651
+2400,13965,2012,lincoln,excellent,gas,37565
+2401,8995,2014,chevrolet,good,gas,70200
+2402,6995,2013,chevrolet,excellent,gas,168900
+2403,26990,2017,nissan,good,gas,41335
+2404,7495,2013,dodge,good,gas,138187
+2405,34900,2017,ford,excellent,gas,62100
+2406,72499,2018,lincoln,excellent,gas,44932
+2407,3295,2004,buick,good,gas,127000
+2408,39950,2013,chevrolet,excellent,diesel,89540
+2409,4700,2013,volkswagen,good,gas,114000
+2410,3995,2004,chevrolet,good,gas,130600
+2411,9800,2006,ram,good,gas,153000
+2412,4500,2002,ford,good,gas,226800
+2413,6400,2006,toyota,good,gas,230100
+2414,11995,2017,chevrolet,excellent,gas,67243
+2415,6000,2012,ford,good,gas,126000
+2416,5650,2000,gmc,excellent,gas,215487
+2417,8950,2005,ford,excellent,gas,150356
+2418,7950,2003,chevrolet,excellent,gas,153221
+2419,9450,2010,ram,excellent,gas,217179
+2420,15900,2013,subaru,excellent,gas,69185
+2421,6600,2001,bmw,good,gas,160000
+2422,5500,2003,bmw,good,gas,170000
+2423,14999,2002,jeep,excellent,gas,87700
+2424,20900,2018,toyota,excellent,gas,64000
+2425,12900,2014,chevrolet,excellent,hybrid,110000
+2426,21900,2017,hyundai,excellent,gas,70000
+2427,13900,2013,honda,excellent,gas,89600
+2428,6300,2008,chevrolet,excellent,gas,101028
+2429,8950,1997,gmc,excellent,gas,114950
+2430,5488,2004,buick,excellent,gas,129000
+2431,2300,1998,ford,good,gas,137832
+2432,2000,2004,ford,fair,gas,1234
+2433,7200,2009,ford,good,gas,229545
+2434,7800,2010,honda,excellent,gas,148916
+2435,10800,2018,dodge,excellent,gas,100740
+2436,12800,2012,honda,excellent,gas,134025
+2437,4700,2013,chevrolet,good,gas,159000
+2438,3950,2005,bmw,good,gas,120000
+2439,15995,2016,mazda,excellent,gas,73058
+2440,6700,2009,chevrolet,like new,gas,62000
+2441,5800,2009,saturn,good,gas,193000
+2442,5000,2008,honda,good,gas,199115
+2443,7995,2012,jeep,good,gas,135800
+2444,23995,2019,chevrolet,excellent,gas,100334
+2445,3800,2001,gmc,good,gas,178000
+2446,26995,2019,jeep,excellent,gas,31524
+2447,51945,2019,chevrolet,excellent,gas,7061
+2448,21945,2018,ford,excellent,gas,91666
+2449,10965,2016,ford,excellent,gas,156925
+2450,4395,2008,chevrolet,good,gas,185300
+2451,14500,2015,ford,excellent,gas,156000
+2452,5900,2003,honda,good,gas,174000
+2453,34600,2019,ford,excellent,gas,29500
+2454,29000,2013,toyota,excellent,gas,102000
+2455,10995,2013,ford,excellent,gas,101000
+2456,5498,2007,chevrolet,like new,gas,186683
+2457,24000,2018,subaru,excellent,gas,46000
+2458,18950,2011,toyota,excellent,gas,159000
+2459,14500,2010,ford,excellent,gas,72000
+2460,11950,2016,dodge,excellent,gas,88000
+2461,4900,2008,honda,excellent,gas,173000
+2462,29900,2018,jeep,excellent,gas,35700
+2463,8495,2013,subaru,good,gas,120145
+2464,9495,2012,chevrolet,good,gas,120498
+2465,10200,2010,honda,excellent,gas,95000
+2466,9500,2008,jeep,good,gas,100000
+2467,2500,2005,saturn,fair,gas,221000
+2468,19000,2013,buick,excellent,gas,74000
+2469,39995,2014,gmc,excellent,diesel,181089
+2470,37995,2019,jaguar,excellent,gas,30961
+2471,33765,2016,ford,excellent,gas,140814
+2472,28955,2018,mercedes-benz,excellent,gas,59184
+2473,39900,2018,ford,excellent,gas,79000
+2474,8750,2011,chevrolet,excellent,gas,74000
+2475,14200,2011,ram,good,gas,160193
+2476,12999,2013,jeep,excellent,gas,159900
+2477,6800,2006,subaru,like new,gas,121000
+2478,8900,2010,subaru,like new,gas,173000
+2479,8900,2013,mini,like new,gas,144000
+2480,15900,2014,buick,excellent,gas,94700
+2481,6999,1999,mazda,excellent,gas,135000
+2482,3400,2001,ford,fair,gas,179522
+2483,7000,2008,honda,like new,gas,203697
+2484,3495,2006,ford,good,gas,206780
+2485,13900,2014,ford,like new,gas,73642
+2486,4500,2007,pontiac,excellent,gas,172575
+2487,36500,2018,mercedes-benz,like new,gas,9100
+2488,33590,2019,ford,good,gas,33424
+2489,4500,1994,dodge,good,gas,140000
+2490,9800,2009,toyota,good,gas,171402
+2491,10800,2014,subaru,good,gas,118202
+2492,8900,2011,subaru,good,gas,126311
+2493,9400,2009,subaru,good,gas,108434
+2494,6800,2006,subaru,good,gas,121650
+2495,6450,2016,ford,excellent,gas,240000
+2496,8900,2009,rover,good,gas,103769
+2497,9600,2008,volvo,excellent,gas,87450
+2498,12999,2004,chevrolet,excellent,gas,172500
+2499,15000,1973,chevrolet,good,gas,88511
+2500,24500,2015,mercedes-benz,like new,gas,47123
+2501,7900,2010,hyundai,excellent,gas,89236
+2502,33000,2016,ram,good,gas,83000
+2503,2400,1997,ford,good,gas,176000
+2504,6800,2010,audi,good,gas,105700
+2505,12000,1998,ford,excellent,gas,131400
+2506,27999,2007,toyota,like new,gas,22500
+2507,25999,2014,chevrolet,like new,gas,89500
+2508,17999,2008,chevrolet,like new,gas,117000
+2509,24999,2012,chevrolet,like new,gas,113000
+2510,30600,2019,ford,excellent,gas,43500
+2511,30990,2019,honda,good,gas,13652
+2512,35590,2017,volkswagen,good,gas,14048
+2513,18990,2018,ford,good,gas,16976
+2514,4995,2010,chrysler,like new,gas,170000
+2515,5994,2004,hyundai,excellent,gas,180684
+2516,37986,2017,gmc,excellent,gas,124556
+2517,18986,2014,jeep,excellent,gas,112722
+2518,3993,2001,chrysler,excellent,gas,168123
+2519,27987,2017,honda,excellent,gas,93480
+2520,9800,2011,honda,like new,gas,131048
+2521,16800,2007,gmc,excellent,gas,98000
+2522,16900,2018,jeep,good,gas,49976
+2523,16900,2016,kia,good,gas,77242
+2524,15900,2017,ford,good,gas,104039
+2525,5995,2011,chevrolet,good,gas,153124
+2526,35900,2015,cadillac,good,gas,109369
+2527,16900,2015,acura,good,gas,102900
+2528,14900,2015,jeep,good,gas,135451
+2529,15900,2017,chevrolet,good,gas,98425
+2530,17900,2013,ford,good,gas,129285
+2531,18900,2016,audi,good,gas,98315
+2532,13900,2015,nissan,good,gas,52735
+2533,16900,2010,gmc,good,gas,125138
+2534,10900,2013,lincoln,good,gas,147796
+2535,16900,2010,cadillac,good,gas,127694
+2536,12900,2015,ford,good,gas,129628
+2537,21900,2002,chevrolet,good,gas,120200
+2538,22900,2014,mercedes-benz,good,gas,145178
+2539,12900,2013,honda,good,gas,163009
+2540,13900,2013,dodge,good,gas,94505
+2541,10900,2009,acura,good,gas,118950
+2542,5995,2008,chevrolet,good,gas,122603
+2543,6900,2010,chevrolet,good,gas,102219
+2544,20900,2019,honda,good,gas,41907
+2545,6500,2009,pontiac,good,gas,119269
+2546,9995,2000,jeep,good,gas,135753
+2547,7995,2008,honda,good,gas,120884
+2548,9995,1992,chevrolet,good,gas,181235
+2549,9750,2011,bmw,excellent,gas,117000
+2550,6500,2014,chevrolet,good,gas,150538
+2551,6000,2011,toyota,good,gas,156000
+2552,17500,2014,chevrolet,excellent,gas,102000
+2553,13500,2012,gmc,excellent,gas,54000
+2554,13495,2016,toyota,good,gas,109213
+2555,30800,2020,jeep,excellent,gas,24000
+2556,13495,2015,mazda,good,gas,140373
+2557,8495,2012,hyundai,good,gas,163535
+2558,64800,2018,ford,excellent,diesel,17900
+2559,15500,2007,jeep,excellent,gas,139000
+2560,11500,2010,ram,excellent,gas,126200
+2561,4995,2010,chevrolet,good,gas,161000
+2562,4995,2009,chevrolet,excellent,gas,148000
+2563,6995,2009,ram,good,gas,226900
+2564,8500,2011,chevrolet,excellent,gas,72000
+2565,2000,2009,chevrolet,good,gas,175000
+2566,7900,2014,chevrolet,good,gas,99000
+2567,27955,2014,cadillac,excellent,gas,105041
+2568,14895,2012,audi,excellent,gas,136381
+2569,33995,2018,toyota,excellent,gas,122390
+2570,11995,2017,chevrolet,excellent,gas,86583
+2571,15999,2015,jeep,excellent,gas,74010
+2572,10000,2009,ford,good,gas,172500
+2573,5500,2007,honda,good,gas,148000
+2574,4650,2011,chevrolet,excellent,gas,130000
+2575,6500,2010,chevrolet,excellent,gas,130000
+2576,6700,2010,buick,excellent,gas,113000
+2577,11500,1988,chevrolet,excellent,gas,95637
+2578,8950,2012,honda,excellent,gas,106010
+2579,6800,2011,toyota,excellent,hybrid,150000
+2580,8900,2013,chrysler,excellent,gas,77000
+2581,19775,2013,ford,excellent,gas,96722
+2582,8000,2014,chevrolet,good,gas,91000
+2583,6800,2009,chevrolet,good,gas,99500
+2584,17000,2009,ford,excellent,gas,105996
+2585,11961,2011,cadillac,like new,gas,100243
+2586,12900,2006,ford,excellent,gas,66400
+2587,32999,2017,gmc,like new,gas,160766
+2588,28675,2017,ford,like new,gas,122366
+2589,23995,2017,chevrolet,like new,gas,51259
+2590,27575,2016,ford,like new,gas,22601
+2591,15995,2016,chevrolet,like new,gas,111154
+2592,29995,2015,ram,excellent,gas,45077
+2593,10975,2014,ford,excellent,gas,106362
+2594,26895,2016,rover,excellent,gas,102137
+2595,36955,2015,dodge,excellent,gas,47681
+2596,30995,2016,ford,like new,gas,111967
+2597,17995,2015,subaru,like new,gas,91728
+2598,10895,2015,chevrolet,like new,gas,85202
+2599,22995,2012,jeep,like new,gas,95904
+2600,12999,2012,bmw,excellent,gas,124000
+2601,25000,2015,jeep,like new,gas,87000
+2602,19500,2012,bmw,excellent,gas,85000
+2603,17999,2007,jeep,good,gas,138000
+2604,48600,2014,ford,excellent,diesel,75600
+2605,6500,2010,mini,like new,gas,96500
+2606,28590,2018,jeep,good,gas,22898
+2607,10500,2014,buick,excellent,gas,109027
+2608,33990,2017,jeep,good,gas,36171
+2609,38990,2019,toyota,good,gas,20513
+2610,4995,2009,mini,good,gas,169150
+2611,6500,2007,honda,excellent,gas,118000
+2612,10500,2010,ford,excellent,gas,98000
+2613,18900,2008,toyota,excellent,gas,120000
+2614,19999,2015,ford,good,gas,93634
+2615,13999,2011,toyota,good,gas,160079
+2616,39999,2014,ram,good,gas,127327
+2617,12999,2016,ford,good,gas,128559
+2618,36999,2016,ford,good,gas,141732
+2619,37999,2013,gmc,good,gas,140685
+2620,25495,2015,ford,good,gas,121293
+2621,17999,2012,gmc,good,gas,141095
+2622,45999,2014,gmc,good,gas,163687
+2623,9500,2006,chevrolet,good,gas,220994
+2624,12000,2005,chevrolet,good,gas,191450
+2625,6600,2006,honda,good,gas,168000
+2626,10500,2012,jeep,excellent,gas,111500
+2627,20300,2015,lexus,excellent,gas,53000
+2628,12600,2012,ford,excellent,gas,148000
+2629,34990,2020,cadillac,good,gas,14867
+2630,19100,2013,gmc,good,gas,111000
+2631,29865,1986,chevrolet,excellent,gas,30885
+2632,31865,2017,gmc,excellent,gas,91829
+2633,20955,2010,jeep,excellent,gas,99289
+2634,9500,2006,ram,good,gas,95000
+2635,22950,2012,bmw,excellent,gas,92300
+2636,8500,2010,honda,excellent,gas,168900
+2637,11500,2005,lexus,good,gas,174000
+2638,7000,2011,subaru,good,gas,137158
+2639,7900,2010,subaru,excellent,gas,165948
+2640,6000,1987,ford,excellent,gas,10000
+2641,27493,2018,buick,excellent,gas,47510
+2642,5300,2002,bmw,good,gas,176000
+2643,13993,2013,chevrolet,excellent,gas,76471
+2644,20993,2019,buick,like new,gas,40550
+2645,10200,2013,buick,excellent,gas,112000
+2646,25990,2019,chevrolet,good,gas,30739
+2647,13900,2015,buick,excellent,gas,49000
+2648,10950,2011,gmc,excellent,gas,78000
+2649,19499,2017,honda,like new,gas,68663
+2650,16500,2012,ford,excellent,gas,151000
+2651,16995,2015,gmc,like new,gas,120548
+2652,34495,2017,chevrolet,like new,gas,79190
+2653,14997,2014,ford,excellent,gas,90638
+2654,13497,2014,dodge,excellent,gas,87580
+2655,7495,2012,chevrolet,good,gas,119120
+2656,28579,2018,ford,like new,gas,64830
+2657,12995,2016,ford,like new,gas,162252
+2658,16995,2016,subaru,like new,gas,118705
+2659,19995,2015,ford,like new,gas,94120
+2660,25995,2015,ram,like new,gas,106085
+2661,33995,2016,ram,like new,gas,140481
+2662,14120,2014,mini,like new,gas,84679
+2663,22675,2011,jeep,excellent,gas,90402
+2664,20875,2018,jeep,excellent,gas,29926
+2665,14875,2014,jeep,excellent,gas,74095
+2666,19875,2018,honda,excellent,gas,95383
+2667,24675,2014,gmc,excellent,gas,153934
+2668,49000,2017,porsche,like new,gas,36100
+2669,8000,1981,chevrolet,good,gas,1234
+2670,3995,2012,subaru,excellent,gas,230347
+2671,2500,2007,dodge,fair,gas,208000
+2672,6795,2010,chrysler,good,gas,124803
+2673,5495,2008,saturn,good,gas,54673
+2674,5795,2007,honda,good,gas,117230
+2675,14450,2018,chevrolet,like new,gas,25000
+2676,14875,2013,ford,excellent,gas,137383
+2677,9997,2004,chevrolet,excellent,gas,87048
+2678,3995,2003,toyota,good,gas,205924
+2679,24900,2019,subaru,like new,gas,22895
+2680,23455,2016,ford,excellent,gas,142015
+2681,9995,2009,subaru,excellent,gas,140613
+2682,22222,2016,volvo,excellent,gas,100000
+2683,7000,2007,mazda,good,gas,163000
+2684,13900,2014,gmc,good,gas,13900
+2685,7500,2003,lexus,excellent,gas,226000
+2686,11495,2011,ford,good,gas,155009
+2687,11495,2016,dodge,good,gas,130004
+2688,6495,2011,dodge,good,gas,170700
+2689,5995,2012,chrysler,excellent,gas,120600
+2690,4995,2010,ford,good,gas,154700
+2691,11995,2016,dodge,excellent,gas,98800
+2692,15495,2017,ford,good,gas,67561
+2693,10995,2016,ford,good,gas,119536
+2694,15995,2014,chevrolet,good,gas,78555
+2695,13995,2014,jeep,good,gas,113246
+2696,19995,2017,subaru,good,gas,81660
+2697,13995,2014,acura,good,gas,114669
+2698,36595,2020,ford,excellent,gas,37407
+2699,27865,2014,ram,excellent,gas,134154
+2700,9500,2004,jeep,excellent,gas,168250
+2701,6900,2012,ford,excellent,gas,139000
+2702,21457,2017,mini,excellent,gas,61227
+2703,14200,2012,ford,excellent,gas,174500
+2704,25100,2016,ram,excellent,gas,80500
+2705,4000,2008,volkswagen,excellent,gas,201000
+2706,7900,2013,chevrolet,good,gas,191352
+2707,14900,2015,subaru,excellent,gas,81275
+2708,9995,2013,cadillac,excellent,gas,141459
+2709,10298,2016,chevrolet,like new,gas,124177
+2710,9800,2009,toyota,like new,gas,171398
+2711,10000,1998,chevrolet,excellent,gas,170000
+2712,8997,1995,jeep,fair,gas,145329
+2713,4500,2009,toyota,excellent,gas,160000
+2714,12995,2012,audi,excellent,gas,102000
+2715,12500,2011,honda,excellent,gas,129000
+2716,10500,2011,bmw,excellent,gas,100736
+2717,24989,2014,ram,like new,gas,153000
+2718,9200,2003,bmw,excellent,gas,71589
+2719,12995,2016,ford,excellent,gas,162000
+2720,23995,2018,dodge,like new,gas,49000
+2721,18589,2017,chevrolet,like new,gas,86000
+2722,11599,2019,chevrolet,like new,gas,26000
+2723,20995,2012,toyota,excellent,gas,171000
+2724,3495,2009,subaru,good,gas,237000
+2725,11995,2014,subaru,good,gas,111000
+2726,11950,2012,ford,excellent,gas,116000
+2727,23995,2019,subaru,excellent,gas,69000
+2728,16995,2015,jeep,excellent,gas,101000
+2729,17995,2013,ford,excellent,gas,88000
+2730,15995,2018,subaru,excellent,gas,94000
+2731,6995,2011,toyota,excellent,hybrid,183000
+2732,32995,2018,cadillac,like new,gas,25000
+2733,56995,2020,ford,like new,gas,3000
+2734,18000,2012,audi,like new,diesel,97000
+2735,9950,2011,chevrolet,excellent,gas,127000
+2736,26900,2013,jeep,excellent,gas,81000
+2737,5950,2008,chevrolet,excellent,gas,120000
+2738,4500,2010,chrysler,good,gas,176555
+2739,2500,1987,chevrolet,good,gas,123456
+2740,3999,2002,chevrolet,good,gas,219874
+2741,13950,2016,buick,excellent,gas,42000
+2742,7995,2014,ford,good,gas,77800
+2743,11900,2015,chrysler,excellent,gas,11700
+2744,34990,2018,bmw,good,gas,39650
+2745,31590,2018,acura,good,gas,19567
+2746,24865,2019,ford,excellent,gas,17353
+2747,29755,2017,cadillac,excellent,gas,47366
+2748,34655,2017,bmw,excellent,gas,25044
+2749,20965,2013,lexus,excellent,gas,93083
+2750,9850,2016,nissan,excellent,gas,110000
+2751,18800,2015,honda,like new,gas,72600
+2752,22000,2018,jeep,like new,gas,129000
+2753,12997,2011,toyota,excellent,gas,110210
+2754,25000,2016,gmc,good,gas,60500
+2755,3800,2006,audi,salvage,gas,115000
+2756,20600,2015,audi,excellent,gas,38000
+2757,9000,2012,infiniti,excellent,gas,162000
+2758,9000,2015,chevrolet,excellent,gas,134000
+2759,3000,2002,chevrolet,fair,gas,244000
+2760,23500,2012,dodge,excellent,gas,61400
+2761,6000,2008,nissan,excellent,gas,149867
+2762,6900,2006,chevrolet,like new,gas,113000
+2763,5900,2009,saturn,excellent,gas,93000
+2764,27000,2017,gmc,excellent,gas,72000
+2765,11000,2014,bmw,good,gas,59000
+2766,14900,2016,hyundai,excellent,gas,77500
+2767,25300,2014,toyota,excellent,gas,111000
+2768,11499,2012,dodge,good,gas,141549
+2769,11495,2014,subaru,good,gas,140788
+2770,21995,2016,ram,excellent,gas,129800
+2771,6999,2010,buick,good,gas,81619
+2772,10995,2014,dodge,excellent,gas,97700
+2773,5700,2008,pontiac,excellent,gas,131699
+2774,12999,2016,buick,like new,gas,56000
+2775,4900,2009,dodge,good,gas,165000
+2776,16875,2015,ford,excellent,gas,132491
+2777,34955,2019,toyota,excellent,gas,64753
+2778,34995,2019,bmw,excellent,gas,36425
+2779,41995,2018,gmc,excellent,gas,118021
+2780,13455,2017,ford,excellent,gas,134160
+2781,59900,2019,ford,like new,diesel,38160
+2782,9400,2012,dodge,excellent,gas,127000
+2783,24375,2017,dodge,excellent,gas,69062
+2784,10900,2013,gmc,excellent,gas,101000
+2785,6850,2013,ford,excellent,hybrid,120150
+2786,12950,2013,honda,excellent,gas,120000
+2787,25375,2019,chrysler,excellent,gas,57967
+2788,31900,2018,ford,excellent,gas,69000
+2789,17500,2009,toyota,excellent,gas,144000
+2790,29600,2014,toyota,excellent,gas,116000
+2791,8950,2011,chevrolet,excellent,gas,107000
+2792,19675,2012,chevrolet,excellent,gas,143942
+2793,13300,2013,ford,excellent,gas,95000
+2794,24400,2014,ram,excellent,gas,105000
+2795,28675,2018,acura,excellent,gas,24056
+2796,6173,2014,chrysler,like new,gas,133791
+2797,8500,2006,toyota,good,gas,150000
+2798,12995,2014,subaru,excellent,gas,114000
+2799,14800,2015,ram,excellent,gas,146762
+2800,14400,2014,infiniti,excellent,gas,88000
+2801,7491,2012,chrysler,like new,gas,96031
+2802,8200,2007,ford,good,gas,227000
+2803,6497,2013,ford,like new,gas,145050
+2804,6500,2007,ford,excellent,gas,135446
+2805,22990,2013,bmw,good,gas,47398
+2806,23750,2018,jeep,excellent,gas,56000
+2807,12295,2015,ford,like new,gas,136919
+2808,8904,2014,jeep,like new,gas,129578
+2809,9673,2017,hyundai,like new,gas,114466
+2810,8696,2013,ford,like new,gas,152972
+2811,4191,2005,toyota,like new,gas,225332
+2812,8398,2012,jeep,like new,gas,158266
+2813,6298,2011,ford,like new,gas,183026
+2814,23395,2013,toyota,like new,gas,128606
+2815,19698,2013,chevrolet,like new,gas,172397
+2816,12998,2010,ford,like new,gas,222416
+2817,5998,2009,chevrolet,like new,gas,142777
+2818,16536,2013,ford,like new,gas,156917
+2819,4997,2011,chevrolet,like new,gas,168894
+2820,8795,2011,nissan,like new,gas,97821
+2821,9495,2010,mercedes-benz,like new,gas,110413
+2822,7316,2006,ford,like new,gas,238438
+2823,12800,2007,cadillac,good,gas,109000
+2824,50985,2018,lincoln,excellent,gas,100011
+2825,35995,2016,gmc,excellent,gas,112229
+2826,34965,2017,chevrolet,excellent,gas,112831
+2827,6300,1984,chevrolet,good,gas,142000
+2828,5450,1999,cadillac,excellent,gas,82000
+2829,3499,2008,volkswagen,good,gas,169340
+2830,5800,2006,mazda,good,gas,164900
+2831,3500,1999,chevrolet,good,gas,207000
+2832,35000,1991,chevrolet,like new,gas,40036
+2833,7725,2005,nissan,excellent,gas,160200
+2834,35995,2016,toyota,excellent,gas,58886
+2835,23765,2016,chrysler,excellent,gas,33000
+2836,8965,2005,chrysler,excellent,gas,103776
+2837,15000,2008,gmc,good,gas,175000
+2838,6500,2007,jeep,excellent,gas,137667
+2839,15800,2010,chevrolet,excellent,gas,141928
+2840,9000,2010,chevrolet,excellent,gas,85793
+2841,15900,2013,honda,good,gas,66940
+2842,4998,2002,jeep,like new,gas,123779
+2843,5793,2008,jeep,like new,gas,248851
+2844,23850,2017,bmw,excellent,gas,59800
+2845,43850,2016,mercedes-benz,excellent,gas,60700
+2846,27850,2017,bmw,excellent,gas,53450
+2847,34850,2018,bmw,excellent,gas,48000
+2848,26350,2017,bmw,excellent,gas,61250
+2849,23850,2016,audi,excellent,gas,29500
+2850,34850,2017,audi,excellent,gas,47950
+2851,26350,2017,ford,excellent,gas,54600
+2852,47850,2017,bmw,excellent,gas,26300
+2853,40850,2019,dodge,excellent,gas,31750
+2854,20850,2013,lexus,excellent,gas,85750
+2855,29850,2013,jeep,excellent,gas,39800
+2856,26850,2016,bmw,excellent,gas,61500
+2857,30850,2017,cadillac,excellent,gas,44550
+2858,28350,2014,jeep,excellent,gas,77650
+2859,35850,2017,ford,excellent,gas,36200
+2860,49850,2016,rover,excellent,gas,56650
+2861,5999,2010,ford,good,gas,109364
+2862,28865,2017,chevrolet,excellent,gas,125663
+2863,41995,2018,ram,excellent,gas,98584
+2864,42645,2017,chevrolet,excellent,gas,35235
+2865,4499,2005,honda,good,gas,204958
+2866,6497,2010,chevrolet,good,gas,112079
+2867,7500,2012,subaru,good,gas,163067
+2868,37990,2019,tesla,good,electric,22544
+2869,5900,2006,ford,good,diesel,219000
+2870,36990,2018,chevrolet,good,gas,17466
+2871,39590,2020,dodge,good,gas,16388
+2872,17990,2014,volkswagen,good,diesel,31374
+2873,32375,2017,jeep,like new,gas,40304
+2874,8049,2011,subaru,excellent,gas,125120
+2875,17495,2018,chevrolet,like new,gas,23690
+2876,16995,2015,chevrolet,like new,gas,81607
+2877,18899,2017,kia,like new,gas,39335
+2878,7500,2011,hyundai,good,gas,90000
+2879,10795,2013,nissan,like new,gas,121966
+2880,11995,2013,nissan,like new,gas,103208
+2881,18729,2010,jeep,like new,gas,124957
+2882,20995,2018,kia,like new,gas,40876
+2883,27443,2018,toyota,like new,gas,81989
+2884,25995,2017,ford,like new,gas,23086
+2885,5995,2013,chrysler,excellent,gas,132000
+2886,4395,2009,hyundai,good,gas,128200
+2887,14995,2014,chevrolet,excellent,gas,137379
+2888,44995,2018,dodge,excellent,gas,7101
+2889,46995,2017,gmc,excellent,gas,48118
+2890,19675,2016,jeep,excellent,gas,134896
+2891,66900,2018,gmc,excellent,diesel,48000
+2892,2000,1987,ford,fair,gas,161000
+2893,11000,2014,nissan,excellent,gas,182000
+2894,9300,2012,jeep,excellent,gas,100000
+2895,10500,2015,chevrolet,good,gas,50000
+2896,6999,2006,nissan,fair,gas,137213
+2897,3000,2006,pontiac,good,gas,191000
+2898,29900,2017,cadillac,good,gas,40000
+2899,35800,2016,bmw,excellent,gas,67000
+2900,10000,1997,jeep,good,gas,84000
+2901,32990,2015,ford,good,gas,65329
+2902,7900,2007,subaru,good,gas,128601
+2903,12500,2009,gmc,good,gas,179500
+2904,6495,2011,honda,excellent,gas,164000
+2905,4695,2009,chevrolet,good,gas,182700
+2906,5495,2011,chevrolet,good,gas,174400
+2907,4995,2012,chevrolet,good,gas,181000
+2908,6200,2015,mitsubishi,good,gas,85657
+2909,33990,2018,gmc,good,gas,24299
+2910,29990,2019,ford,good,gas,13628
+2911,8900,2011,subaru,good,gas,152840
+2912,8900,2010,subaru,good,gas,149883
+2913,17999,2011,chevrolet,excellent,gas,205758
+2914,8900,2009,subaru,good,gas,173755
+2915,9849,2011,lincoln,excellent,gas,153000
+2916,15000,2011,gmc,good,gas,88000
+2917,16995,2019,chevrolet,excellent,gas,105738
+2918,25000,2014,chevrolet,excellent,gas,78390
+2919,54000,2016,mercedes-benz,excellent,diesel,130000
+2920,8500,1979,ford,good,gas,98000
+2921,18500,2014,chevrolet,good,gas,172900
+2922,6495,2007,chrysler,good,gas,168256
+2923,13995,2015,ford,good,gas,133202
+2924,14300,2016,volkswagen,excellent,gas,40550
+2925,38795,2016,ford,excellent,gas,44624
+2926,37995,2017,rover,excellent,gas,60792
+2927,20965,2017,gmc,excellent,gas,93870
+2928,51965,2017,chevrolet,excellent,gas,106192
+2929,4295,2008,chevrolet,good,gas,135202
+2930,5995,2006,ford,good,gas,70620
+2931,3500,2000,jaguar,fair,gas,81567
+2932,12495,2013,ford,good,gas,114165
+2933,11895,2018,ford,excellent,gas,94197
+2934,7995,2013,subaru,good,gas,153288
+2935,12795,2016,ford,good,gas,106035
+2936,36990,2018,ram,good,gas,27716
+2937,38590,2011,chevrolet,good,gas,30237
+2938,32590,2009,chevrolet,good,gas,20420
+2939,3500,1998,chevrolet,good,gas,216100
+2940,2000,2007,chevrolet,fair,gas,170622
+2941,18500,2010,ford,good,gas,61000
+2942,19800,2014,jeep,excellent,gas,111000
+2943,9997,2011,buick,excellent,gas,81142
+2944,9700,2011,ford,excellent,gas,144000
+2945,13950,2013,ford,excellent,gas,92000
+2946,9495,2015,chevrolet,good,gas,108851
+2947,27495,2017,dodge,good,gas,59625
+2948,24495,2019,subaru,good,gas,72239
+2949,12495,2020,mitsubishi,like new,gas,1428
+2950,9750,2010,toyota,excellent,hybrid,169000
+2951,18750,2017,toyota,excellent,hybrid,18806
+2952,5650,2003,lexus,excellent,gas,156253
+2953,7950,2009,subaru,excellent,gas,134226
+2954,4950,2005,honda,excellent,gas,157176
+2955,7950,2008,honda,excellent,gas,143438
+2956,3800,2002,chevrolet,good,gas,173000
+2957,21950,2013,chevrolet,good,gas,97697
+2958,28950,2017,ford,good,gas,111142
+2959,24950,2015,chevrolet,good,gas,152373
+2960,21950,2017,chevrolet,good,gas,175124
+2961,37855,2019,ford,excellent,gas,90875
+2962,74995,2019,chevrolet,excellent,gas,2443
+2963,31945,2020,cadillac,excellent,gas,2098
+2964,20965,2017,fiat,excellent,gas,36624
+2965,39995,2016,chevrolet,good,diesel,161380
+2966,17995,2016,ford,good,gas,128480
+2967,4399,2007,chevrolet,excellent,gas,125000
+2968,15800,2012,ram,excellent,gas,35686
+2969,5500,2005,chevrolet,excellent,gas,90247
+2970,9100,2011,chevrolet,excellent,gas,93000
+2971,17200,2010,ram,excellent,gas,131000
+2972,18200,2015,gmc,excellent,gas,94000
+2973,4900,2003,gmc,good,gas,189625
+2974,4497,2009,pontiac,excellent,gas,172088
+2975,7500,2007,hyundai,good,gas,91000
+2976,9995,2011,subaru,excellent,gas,126000
+2977,23990,2018,volkswagen,good,gas,22539
+2978,5995,2012,chrysler,good,gas,132100
+2979,5995,2014,kia,good,gas,129100
+2980,11995,2017,dodge,excellent,gas,129700
+2981,49990,2015,ford,good,diesel,152701
+2982,29990,2015,ford,good,diesel,169564
+2983,26990,1998,mitsubishi,good,diesel,166302
+2984,21990,2005,ford,good,gas,45554
+2985,29990,2008,chevrolet,good,diesel,65073
+2986,3995,2008,saturn,good,gas,160200
+2987,20990,2008,ford,good,gas,97626
+2988,42990,2008,chevrolet,good,diesel,67159
+2989,35990,2016,ford,good,diesel,161669
+2990,33990,2012,ford,good,diesel,49678
+2991,44990,2015,ram,good,diesel,80733
+2992,44990,2012,ford,good,diesel,52307
+2993,46990,2016,ram,good,diesel,17619
+2994,34990,2015,ford,good,gas,100058
+2995,33990,2007,chevrolet,good,gas,77581
+2996,37990,2012,ford,good,diesel,108061
+2997,3995,2009,kia,good,gas,123300
+2998,26990,2008,chevrolet,good,gas,100921
+2999,22990,2004,gmc,good,diesel,119091
+3000,28490,2008,mitsubishi,good,diesel,70643
+3001,25900,2017,ram,good,gas,89400
+3002,21990,2008,ford,good,gas,72658
+3003,62990,2016,ford,good,diesel,40193
+3004,25990,2011,ford,good,gas,105371
+3005,16990,2008,ford,good,gas,147476
+3006,20990,2010,ram,good,gas,121850
+3007,52990,2014,ford,good,diesel,15886
+3008,35990,2014,ford,good,gas,42213
+3009,30990,2014,ford,good,gas,98123
+3010,16990,2004,ford,good,gas,213563
+3011,43990,2016,chevrolet,good,gas,45542
+3012,27990,2011,ford,good,diesel,123622
+3013,27990,2008,ford,good,gas,83459
+3014,13995,2014,ram,excellent,gas,132200
+3015,27490,2006,mitsubishi,good,diesel,96626
+3016,24990,2017,gmc,good,gas,136965
+3017,33990,2014,ford,good,diesel,136250
+3018,25990,2006,chevrolet,good,gas,73360
+3019,33990,2016,chevrolet,good,gas,12398
+3020,26990,2016,chevrolet,good,gas,75734
+3021,24990,2007,ford,good,gas,46463
+3022,20990,2006,chevrolet,good,diesel,134296
+3023,24990,2009,chevrolet,good,gas,72789
+3024,29990,2011,ford,good,diesel,137481
+3025,22990,2010,ford,good,gas,121911
+3026,14990,2012,ford,good,gas,67820
+3027,32990,2011,chevrolet,good,gas,22076
+3028,59990,2017,ford,good,diesel,31337
+3029,31990,2006,ford,good,diesel,59429
+3030,13000,1993,gmc,like new,diesel,173036
+3031,14500,2013,chevrolet,excellent,gas,60869
+3032,30990,2018,toyota,good,gas,22938
+3033,8990,2012,hyundai,good,gas,61828
+3034,11900,2016,chevrolet,good,gas,115000
+3035,15990,2015,audi,good,gas,128900
+3036,10990,2015,chevrolet,good,gas,115000
+3037,8900,2013,ford,good,gas,185000
+3038,26450,2015,ford,good,gas,117800
+3039,11900,2015,chevrolet,good,gas,121400
+3040,11875,2011,ford,good,gas,155800
+3041,15900,2016,gmc,good,gas,132500
+3042,9950,2013,nissan,good,gas,111000
+3043,10750,2014,ford,good,gas,134614
+3044,10750,2013,toyota,good,gas,52600
+3045,11990,2015,chrysler,good,gas,69900
+3046,11450,2016,chevrolet,good,gas,123500
+3047,11990,2016,gmc,good,gas,139059
+3048,17995,2015,toyota,excellent,gas,55894
+3049,36955,2016,ford,excellent,gas,8882
+3050,2500,2005,chevrolet,good,gas,200000
+3051,25990,2019,ford,good,gas,4532
+3052,20142,2017,honda,like new,gas,36969
+3053,12225,2017,ford,like new,gas,109869
+3054,31225,2016,ram,like new,gas,75663
+3055,2595,2003,ford,excellent,gas,149055
+3056,15999,2017,mazda,like new,gas,42072
+3057,4500,2008,buick,excellent,gas,158825
+3058,5995,1991,chrysler,good,gas,57781
+3059,28694,2014,ram,like new,diesel,119479
+3060,17190,2012,lexus,like new,gas,85858
+3061,15102,2014,honda,like new,gas,103066
+3062,30994,2017,ford,like new,gas,113900
+3063,37965,2018,rover,excellent,gas,18360
+3064,43995,2018,gmc,excellent,gas,69471
+3065,27945,2018,chevrolet,excellent,gas,109502
+3066,9995,1993,nissan,good,gas,115197
+3067,11900,2002,ram,excellent,diesel,237074
+3068,3900,2003,chevrolet,fair,gas,221542
+3069,8800,2012,chrysler,good,gas,126549
+3070,13800,2010,chevrolet,excellent,gas,148170
+3071,21990,2020,jeep,good,gas,20281
+3072,24990,2016,cadillac,good,gas,39553
+3073,9500,2006,mazda,like new,gas,70000
+3074,4500,2011,bmw,good,gas,125000
+3075,36590,2019,mercedes-benz,good,gas,22143
+3076,11800,2011,jeep,excellent,gas,148922
+3077,16590,2017,chevrolet,good,gas,30420
+3078,35590,2014,jaguar,good,gas,76372
+3079,33590,2018,cadillac,good,gas,19209
+3080,9800,2011,volvo,excellent,gas,132020
+3081,12995,2016,subaru,excellent,gas,146000
+3082,14995,2017,volkswagen,excellent,gas,41000
+3083,5800,2007,chevrolet,excellent,gas,142480
+3084,11400,2013,cadillac,good,gas,67700
+3085,4800,2003,bmw,excellent,gas,155471
+3086,13480,2015,toyota,good,gas,94561
+3087,7983,2013,fiat,good,gas,47580
+3088,30990,2012,bmw,good,gas,42836
+3089,29590,2017,rover,good,gas,58243
+3090,9500,2014,chrysler,excellent,gas,88000
+3091,3300,2006,bmw,excellent,gas,109000
+3092,50855,2020,chevrolet,excellent,gas,5011
+3093,15000,2013,infiniti,excellent,gas,152108
+3094,18200,2018,chevrolet,like new,gas,33717
+3095,21000,2014,ford,excellent,gas,141000
+3096,5995,2008,honda,good,gas,156268
+3097,3995,2006,gmc,good,gas,173796
+3098,10900,2015,kia,excellent,gas,146019
+3099,19900,1996,chevrolet,excellent,gas,121000
+3100,19995,2019,subaru,excellent,gas,92000
+3101,22995,2014,audi,excellent,gas,130971
+3102,49995,2015,ford,good,diesel,119732
+3103,13495,2015,buick,good,gas,61978
+3104,5000,2011,dodge,good,gas,105000
+3105,12225,2017,ford,like new,gas,109900
+3106,15900,2017,chevrolet,like new,gas,25000
+3107,29590,2018,kia,good,gas,29771
+3108,4500,2011,chevrolet,good,gas,180000
+3109,27986,2018,bmw,like new,gas,41000
+3110,37590,2017,porsche,good,gas,48049
+3111,39590,2018,audi,good,gas,45676
+3112,35590,2018,jaguar,good,gas,27907
+3113,7500,2011,chevrolet,excellent,gas,105000
+3114,15500,2012,lexus,excellent,gas,113000
+3115,9950,2011,ford,excellent,gas,136000
+3116,23500,2016,buick,excellent,gas,66000
+3117,19900,2016,jeep,excellent,gas,107000
+3118,11995,2013,ford,excellent,gas,87300
+3119,11995,2016,kia,excellent,gas,63000
+3120,32590,2017,audi,good,gas,54816
+3121,37990,2017,porsche,good,gas,49216
+3122,18497,2013,ford,excellent,gas,50257
+3123,10000,2011,gmc,excellent,gas,81500
+3124,6800,2011,gmc,good,gas,240000
+3125,13495,2010,ford,excellent,gas,163000
+3126,4995,2013,chevrolet,excellent,gas,123000
+3127,9995,2014,kia,excellent,gas,120000
+3128,8650,2011,mercedes-benz,excellent,gas,136200
+3129,7000,2007,gmc,excellent,gas,173000
+3130,7900,2008,jeep,excellent,gas,84897
+3131,10400,2011,dodge,excellent,gas,69000
+3132,18500,2014,cadillac,excellent,gas,81000
+3133,8900,2011,ford,excellent,gas,8900
+3134,84965,2002,ferrari,excellent,gas,12341
+3135,13400,2009,ford,excellent,gas,155000
+3136,18775,2004,ford,excellent,gas,8572
+3137,17975,2015,ford,excellent,gas,160876
+3138,8995,2014,chrysler,excellent,gas,113000
+3139,11995,2014,chevrolet,excellent,gas,131470
+3140,19500,2017,subaru,like new,gas,72000
+3141,12600,2013,ford,excellent,gas,123700
+3142,32990,2018,rover,good,gas,30678
+3143,27590,2018,alfa-romeo,good,gas,21947
+3144,16988,2015,chevrolet,like new,gas,81000
+3145,33866,2017,chevrolet,like new,gas,79000
+3146,12800,2015,gmc,like new,gas,106000
+3147,36990,2020,cadillac,good,gas,13829
+3148,38590,2020,alfa-romeo,good,gas,8674
+3149,38700,2015,ford,excellent,gas,61000
+3150,17800,2011,ram,excellent,gas,130000
+3151,4750,2006,honda,excellent,gas,151000
+3152,14900,2014,dodge,excellent,gas,44000
+3153,7999,2010,ford,good,gas,163137
+3154,9499,2011,chevrolet,good,gas,126946
+3155,15590,2012,acura,good,gas,101213
+3156,12999,2004,bmw,like new,gas,86000
+3157,14700,2014,toyota,like new,gas,74394
+3158,21000,2018,chevrolet,excellent,gas,45300
+3159,39988,2018,volkswagen,excellent,gas,33946
+3160,48572,2019,ram,excellent,gas,47841
+3161,46960,2020,jeep,excellent,gas,16975
+3162,9753,2010,hyundai,excellent,gas,121666
+3163,42823,2017,ram,excellent,gas,46152
+3164,35986,2019,volvo,excellent,gas,29401
+3165,39329,2020,volkswagen,excellent,gas,5271
+3166,34867,2017,bmw,excellent,gas,54919
+3167,39988,2018,audi,excellent,gas,38563
+3168,48207,2020,jeep,excellent,gas,25931
+3169,9988,1991,fiat,excellent,gas,16880
+3170,39988,2017,toyota,excellent,gas,21675
+3171,36223,2019,honda,excellent,gas,14402
+3172,29998,2017,lexus,excellent,gas,34807
+3173,39988,2018,bmw,excellent,gas,41152
+3174,34988,2017,ford,excellent,gas,64868
+3175,7000,2009,ford,good,gas,132000
+3176,7950,2007,lexus,good,gas,138000
+3177,13800,2016,honda,excellent,gas,84000
+3178,8700,2010,ford,excellent,gas,124000
+3179,4950,2007,ford,excellent,gas,113000
+3180,14495,2014,subaru,good,gas,117700
+3181,14000,2016,chrysler,like new,gas,63000
+3182,20590,2015,audi,good,gas,41710
+3183,41590,2018,audi,good,gas,25178
+3184,4495,2011,kia,excellent,gas,156712
+3185,7500,2009,honda,excellent,gas,96690
+3186,9800,2013,honda,excellent,gas,170000
+3187,47590,2019,infiniti,good,gas,19736
+3188,12800,2013,gmc,excellent,gas,113503
+3189,34590,2018,lexus,good,gas,36970
+3190,41000,2019,mini,excellent,gas,29288
+3191,45900,2020,ford,like new,gas,23000
+3192,7900,1994,chevrolet,excellent,gas,241878
+3193,4300,2007,mercedes-benz,excellent,gas,147000
+3194,3500,2005,chevrolet,excellent,gas,180000
+3195,23500,2011,gmc,good,diesel,170000
+3196,34590,2015,chevrolet,good,gas,36240
+3197,26590,2013,jeep,good,gas,79540
+3198,16000,2015,audi,like new,gas,99300
+3199,24000,1995,chevrolet,like new,gas,22212
+3200,4400,2007,volvo,excellent,gas,174000
+3201,3200,2008,dodge,fair,gas,160902
+3202,35590,2019,ford,good,gas,19305
+3203,5900,2007,honda,good,gas,169105
+3204,13800,2013,audi,good,gas,117582
+3205,8200,2008,bmw,good,gas,132337
+3206,17000,2016,ford,excellent,gas,82000
+3207,22955,2016,ford,excellent,gas,55401
+3208,4500,2006,subaru,good,gas,233500
+3209,27995,2015,gmc,excellent,gas,96435
+3210,11995,2013,lincoln,good,gas,129110
+3211,18990,2016,toyota,good,gas,29858
+3212,27590,2020,honda,good,gas,4121
+3213,10995,2009,nissan,excellent,gas,137000
+3214,24990,2020,honda,good,gas,6425
+3215,14990,2016,ford,good,electric,3712
+3216,8000,2006,toyota,good,gas,226600
+3217,6250,2005,subaru,good,gas,149000
+3218,13990,2011,volkswagen,good,diesel,93883
+3219,6100,2012,toyota,excellent,hybrid,212000
+3220,2500,2000,chevrolet,fair,gas,150000
+3221,19995,2018,subaru,excellent,gas,68000
+3222,14500,1999,pontiac,like new,gas,70000
+3223,24999,2010,gmc,like new,gas,58500
+3224,2200,2006,ford,good,gas,196733
+3225,9600,2015,chevrolet,like new,gas,83000
+3226,18500,2012,ford,excellent,gas,139700
+3227,26995,2015,chevrolet,good,gas,93970
+3228,39995,2015,gmc,good,diesel,162210
+3229,15975,2012,dodge,good,gas,109528
+3230,27975,2004,chevrolet,good,gas,7870
+3231,15975,2010,honda,good,gas,92970
+3232,29995,2017,nissan,good,gas,16835
+3233,36995,2018,ford,good,gas,34600
+3234,31500,2018,mazda,excellent,gas,34000
+3235,4800,1994,dodge,good,gas,163000
+3236,18500,2019,chevrolet,excellent,gas,31200
+3237,9000,2012,chevrolet,like new,gas,128655
+3238,7950,2010,jeep,excellent,gas,144236
+3239,25000,2015,chevrolet,excellent,gas,121600
+3240,6000,2009,honda,good,gas,140313
+3241,15997,2016,lincoln,good,gas,81546
+3242,19990,2017,nissan,good,gas,18876
+3243,8995,2010,jeep,good,gas,128843
+3244,38900,2020,ford,excellent,gas,49000
+3245,24800,2016,chevrolet,excellent,gas,105900
+3246,10650,2013,toyota,excellent,hybrid,157832
+3247,10900,2014,subaru,excellent,gas,155189
+3248,7000,1988,jaguar,excellent,gas,90521
+3249,13995,2013,ford,good,gas,131785
+3250,8450,2006,honda,excellent,gas,172489
+3251,4995,2000,ford,excellent,gas,142742
+3252,16997,2013,ford,excellent,gas,66594
+3253,14497,2013,ford,excellent,gas,85966
+3254,19590,2018,nissan,good,gas,20505
+3255,46990,2020,gmc,good,gas,28552
+3256,45990,2020,gmc,good,gas,30496
+3257,13999,2018,toyota,excellent,hybrid,48500
+3258,12800,2014,subaru,like new,gas,146000
+3259,11900,2012,volvo,excellent,gas,123000
+3260,13800,2013,audi,excellent,gas,117250
+3261,40995,2017,ford,good,diesel,150203
+3262,34995,2014,ram,good,diesel,197754
+3263,49990,2015,ford,good,gas,41631
+3264,24990,2014,mitsubishi,good,diesel,117851
+3265,38990,2016,mitsubishi,good,diesel,33474
+3266,24990,2008,ford,good,gas,139567
+3267,26990,2016,ford,good,gas,105070
+3268,47990,2014,ford,good,diesel,39253
+3269,34990,2011,ford,good,diesel,118787
+3270,10990,2009,lexus,good,gas,102078
+3271,21990,2018,nissan,good,gas,25500
+3272,29990,2003,ford,good,diesel,54703
+3273,26990,2012,chevrolet,good,gas,108439
+3274,22990,2012,ford,good,gas,114733
+3275,49990,2013,ford,good,diesel,98689
+3276,34990,2017,ram,good,gas,135740
+3277,28990,2008,ford,good,gas,118078
+3278,39990,2016,gmc,good,gas,75649
+3279,22990,2016,ford,good,gas,181410
+3280,33990,2016,ford,good,gas,117800
+3281,39990,2017,ford,good,gas,68655
+3282,36490,2018,ford,good,gas,16535
+3283,35990,2017,mitsubishi,good,diesel,45925
+3284,9990,1991,honda,good,gas,38700
+3285,38990,2013,chevrolet,good,gas,134000
+3286,8990,2013,chevrolet,good,gas,127100
+3287,39990,2013,chevrolet,good,gas,119000
+3288,29990,2007,ford,good,diesel,124669
+3289,23990,2007,chevrolet,good,gas,32853
+3290,34990,2001,ford,good,diesel,70200
+3291,31990,2013,ford,good,gas,101335
+3292,28990,2010,ford,good,gas,130441
+3293,19990,2008,ford,good,gas,107040
+3294,18990,2010,ford,good,gas,32988
+3295,26990,2016,ford,good,diesel,201035
+3296,51990,2013,ram,good,diesel,129633
+3297,47990,2014,ram,good,diesel,66212
+3298,7949,2011,ford,excellent,gas,93050
+3299,6900,1997,ford,excellent,gas,159200
+3300,10800,2013,ford,like new,gas,151000
+3301,6000,2005,audi,good,gas,139000
+3302,6250,2011,gmc,good,gas,239000
+3303,5995,2011,chevrolet,good,gas,146666
+3304,12995,2017,ford,like new,hybrid,109000
+3305,25989,2020,dodge,like new,gas,25000
+3306,44990,2018,jaguar,good,gas,3551
+3307,25495,2013,jeep,like new,gas,97600
+3308,31990,2017,ram,like new,gas,26127
+3309,24490,2017,jeep,like new,gas,86279
+3310,29990,2017,mercedes-benz,good,gas,30145
+3311,19990,2017,jeep,good,gas,23248
+3312,32495,2017,jeep,like new,gas,40000
+3313,26990,2017,gmc,like new,gas,41807
+3314,7455,2012,ford,excellent,gas,125000
+3315,13800,2015,subaru,excellent,gas,138000
+3316,8990,2011,nissan,like new,gas,97000
+3317,18900,2018,subaru,like new,gas,63394
+3318,37990,2019,cadillac,good,gas,9232
+3319,24990,2013,rover,good,gas,39663
+3320,20995,2018,toyota,like new,gas,57000
+3321,10900,2000,ford,good,gas,164376
+3322,3500,2001,ford,fair,gas,173000
+3323,10900,2010,bmw,like new,gas,111000
+3324,2000,2006,honda,salvage,gas,180000
+3325,9800,2010,mercedes-benz,good,gas,148000
+3326,8900,2010,toyota,like new,gas,93000
+3327,49990,2017,bmw,good,gas,28752
+3328,36000,2020,jeep,excellent,gas,20500
+3329,9100,2009,ford,good,gas,147000
+3330,4795,2001,chevrolet,excellent,gas,141005
+3331,3500,2005,honda,good,gas,207000
+3332,6000,2011,volkswagen,like new,gas,142000
+3333,16495,2010,jeep,excellent,gas,125000
+3334,12997,2013,ford,excellent,gas,97912
+3335,3000,2012,chevrolet,good,gas,124000
+3336,35999,2015,chevrolet,like new,gas,96500
+3337,32999,2008,gmc,like new,diesel,64000
+3338,49995,2017,ram,good,diesel,156100
+3339,41995,2016,ram,good,diesel,161735
+3340,65995,2016,ram,good,diesel,47233
+3341,28995,2013,chevrolet,good,diesel,220620
+3342,37995,2015,gmc,good,diesel,180600
+3343,43995,2014,ram,good,diesel,145875
+3344,36999,2015,chevrolet,like new,gas,40000
+3345,44999,2016,ram,like new,diesel,62000
+3346,14000,2006,jeep,like new,gas,24000
+3347,50990,2019,jaguar,good,hybrid,17386
+3348,18995,2015,ford,like new,gas,69913
+3349,17500,2009,ford,excellent,gas,83000
+3350,12500,2012,gmc,good,gas,195000
+3351,49590,2018,porsche,good,gas,10100
+3352,19990,2019,kia,good,gas,19956
+3353,37990,2017,audi,good,gas,28034
+3354,34590,2018,jaguar,good,gas,42327
+3355,12000,2007,rover,excellent,gas,101500
+3356,4350,2003,honda,excellent,gas,142000
+3357,40590,2018,audi,good,gas,33533
+3358,18990,2017,kia,good,gas,41634
+3359,15499,2014,chevrolet,excellent,gas,109600
+3360,34900,2018,jeep,like new,gas,26700
+3361,16990,2013,infiniti,good,gas,73053
+3362,29990,2017,rover,good,gas,34907
+3363,37990,2020,cadillac,good,gas,9284
+3364,27590,2018,alfa-romeo,good,gas,11007
+3365,4900,2011,subaru,good,gas,209200
+3366,4995,2011,subaru,excellent,gas,207000
+3367,10995,2010,volvo,excellent,gas,103000
+3368,5900,2006,cadillac,good,gas,200000
+3369,2850,2003,bmw,fair,gas,176725
+3370,20500,2014,bmw,good,gas,50238
+3371,17995,2017,ford,good,gas,96673
+3372,13495,2016,nissan,good,gas,86515
+3373,12495,2016,dodge,good,gas,113458
+3374,16990,2013,acura,good,gas,62330
+3375,17900,1979,chevrolet,good,gas,22000
+3376,14900,2012,chevrolet,excellent,gas,94000
+3377,10500,2013,bmw,excellent,gas,107763
+3378,11000,2003,jeep,good,gas,152637
+3379,16000,2013,toyota,excellent,gas,91534
+3380,2000,1984,ford,good,gas,100000
+3381,28590,2017,jaguar,good,gas,9962
+3382,41990,2020,lexus,good,gas,8104
+3383,18990,2018,hyundai,good,gas,16789
+3384,8500,2012,fiat,excellent,gas,46700
+3385,44590,2017,infiniti,good,gas,26477
+3386,35000,2014,rover,like new,gas,131000
+3387,4650,2005,subaru,good,gas,163603
+3388,26500,2012,chevrolet,excellent,gas,138855
+3389,7995,2012,subaru,good,gas,157000
+3390,20590,2013,lexus,good,gas,40705
+3391,23590,2018,nissan,good,gas,21128
+3392,6649,2012,ford,good,gas,134803
+3393,29990,2018,audi,good,gas,43511
+3394,41590,2020,ford,good,gas,4424
+3395,39990,2020,infiniti,good,gas,6500
+3396,10495,2010,bmw,like new,gas,106050
+3397,9995,2011,bmw,excellent,gas,169000
+3398,16990,2017,volkswagen,like new,gas,47550
+3399,11900,1980,jeep,good,gas,100000
+3400,26500,2015,gmc,good,gas,169000
+3401,2500,2003,mitsubishi,good,gas,140800
+3402,34995,2014,gmc,good,diesel,178800
+3403,3499,2006,chevrolet,good,gas,105950
+3404,34800,2019,ford,excellent,gas,31800
+3405,15990,2015,toyota,good,gas,71261
+3406,33000,2018,jeep,like new,gas,34560
+3407,14995,2013,ford,excellent,gas,197550
+3408,45000,2018,ford,like new,gas,23965
+3409,43490,2017,chevrolet,like new,gas,53812
+3410,32490,2017,chevrolet,like new,gas,25594
+3411,46990,2019,chevrolet,like new,gas,21508
+3412,24590,2020,honda,good,gas,17902
+3413,50590,2015,chevrolet,good,gas,9988
+3414,13990,2011,honda,good,gas,92258
+3415,16590,2018,ford,good,gas,50459
+3416,4950,2002,jeep,excellent,gas,162389
+3417,11950,2012,honda,excellent,gas,158883
+3418,9450,2009,ford,excellent,gas,121011
+3419,12950,2009,chevrolet,excellent,gas,167084
+3420,4950,2008,buick,excellent,gas,162263
+3421,8950,2013,subaru,excellent,gas,148824
+3422,49900,2020,ford,like new,gas,7193
+3423,13590,2015,volkswagen,good,gas,90671
+3424,39995,2018,gmc,good,diesel,178400
+3425,44995,2016,ram,good,diesel,118600
+3426,4450,2006,ford,good,gas,199000
+3427,8950,2014,ford,excellent,gas,158000
+3428,33995,2015,ford,good,gas,42155
+3429,13590,2012,volvo,good,gas,72489
+3430,21000,2002,ford,excellent,diesel,180000
+3431,41990,2019,lincoln,good,gas,9345
+3432,37590,2019,bmw,good,gas,25656
+3433,10495,2012,jeep,good,gas,155568
+3434,11495,2016,chevrolet,good,gas,66531
+3435,10995,2015,dodge,good,gas,101806
+3436,6000,2010,dodge,excellent,gas,97600
+3437,39900,2015,audi,excellent,gas,63000
+3438,41990,2018,bmw,good,gas,42896
+3439,38590,2019,lincoln,good,gas,31447
+3440,26590,2018,bmw,good,gas,19980
+3441,34990,2020,cadillac,good,gas,7974
+3442,38590,2019,acura,good,hybrid,28005
+3443,9300,2014,chrysler,excellent,gas,51867
+3444,59500,2021,chevrolet,like new,diesel,7000
+3445,55900,2011,porsche,excellent,gas,16200
+3446,8500,2010,chevrolet,good,gas,173500
+3447,10500,2005,porsche,excellent,gas,115000
+3448,6300,2007,lexus,excellent,gas,210000
+3449,13500,2016,volkswagen,excellent,gas,48512
+3450,32990,2018,ford,good,gas,20558
+3451,20590,2018,nissan,good,gas,27226
+3452,10900,2007,toyota,good,gas,186800
+3453,8000,2011,hyundai,good,gas,117500
+3454,8975,2010,chevrolet,excellent,gas,121000
+3455,4998,2006,buick,excellent,gas,164000
+3456,4495,2006,chevrolet,excellent,gas,175000
+3457,22500,2006,mercedes-benz,excellent,gas,62500
+3458,18000,2005,ford,good,diesel,75681
+3459,4500,1997,ford,good,gas,115812
+3460,2800,1994,ford,good,gas,190000
+3461,20995,2014,audi,excellent,diesel,63110
+3462,8495,2007,chrysler,good,gas,52105
+3463,4999,2006,lincoln,good,gas,131022
+3464,4300,2008,audi,fair,gas,157000
+3465,8400,2005,toyota,excellent,gas,180030
+3466,19370,2016,gmc,good,gas,116186
+3467,15990,2017,nissan,good,gas,173979
+3468,7495,2012,ford,good,gas,117066
+3469,22460,2018,ford,good,gas,110017
+3470,21900,2017,ford,good,gas,102314
+3471,4500,2006,chevrolet,excellent,gas,195000
+3472,17995,2013,gmc,excellent,gas,107000
+3473,16950,2016,honda,excellent,gas,110000
+3474,6499,2011,buick,good,gas,184119
+3475,23500,2012,ram,excellent,gas,92000
+3476,6900,2009,ford,like new,gas,126300
+3477,7900,2007,jeep,excellent,gas,132400
+3478,10900,2010,chevrolet,excellent,gas,181200
+3479,10500,2011,jeep,like new,gas,140200
+3480,7200,2012,ford,excellent,gas,126400
+3481,6500,2007,dodge,excellent,gas,146800
+3482,5400,2011,mazda,excellent,gas,104500
+3483,6950,2010,mazda,good,gas,115397
+3484,5900,2005,chevrolet,good,gas,173563
+3485,5980,2006,lexus,good,gas,187167
+3486,5800,2001,ford,good,gas,138390
+3487,4900,2002,jeep,good,gas,186981
+3488,9300,2006,ford,good,gas,219579
+3489,23800,2014,ford,good,gas,129897
+3490,21200,2011,chevrolet,good,gas,114857
+3491,6900,1995,buick,good,gas,118863
+3492,17800,2013,gmc,good,gas,151128
+3493,10200,2011,toyota,good,gas,154473
+3494,2100,1998,audi,fair,gas,220000
+3495,7000,2007,honda,like new,gas,106000
+3496,4750,2002,jeep,good,gas,136463
+3497,10000,1996,gmc,good,gas,170280
+3498,8500,1995,mitsubishi,good,gas,195000
+3499,4000,2001,ford,excellent,gas,177000
+3500,4200,2005,bmw,good,gas,187000
+3501,32500,1972,chevrolet,excellent,gas,28325
+3502,14800,2015,toyota,excellent,gas,79000
+3503,4000,1995,jaguar,excellent,gas,160000
+3504,2000,2002,hyundai,excellent,gas,152000
+3505,6000,2007,bmw,fair,gas,157000
+3506,27700,2016,chevrolet,good,gas,113000
+3507,13900,2013,cadillac,good,gas,172000
+3508,6998,2010,chevrolet,like new,gas,159000
+3509,37995,2019,toyota,like new,gas,36000
+3510,4995,2006,acura,excellent,gas,207000
+3511,12400,2009,lexus,excellent,gas,156000
+3512,31400,2014,ford,excellent,gas,62500
+3513,7000,2010,cadillac,good,gas,148500
+3514,5950,2011,volkswagen,like new,gas,129000
+3515,18900,2012,ford,excellent,gas,71446
+3516,17950,2014,ram,excellent,diesel,171000
+3517,4500,2011,mazda,fair,gas,213000
+3518,26500,2010,honda,excellent,gas,140000
+3519,6750,2008,chrysler,good,gas,123630
+3520,2400,1999,ford,fair,gas,101000
+3521,3800,2013,ford,fair,gas,116401
+3522,3500,2004,hyundai,good,gas,86173
+3523,16000,1998,ram,fair,diesel,63485
+3524,9560,2014,chevrolet,excellent,gas,130971
+3525,5500,1999,ram,fair,diesel,184557
+3526,4000,2005,bmw,good,gas,90800
+3527,9950,2015,volkswagen,good,gas,95662
+3528,9100,2002,ford,excellent,gas,93000
+3529,3900,2006,jeep,excellent,gas,170000
+3530,3900,2008,ford,good,gas,179840
+3531,3000,2000,honda,good,gas,178000
+3532,22000,2013,jeep,excellent,gas,120000
+3533,12500,1978,ford,excellent,gas,11903
+3534,9600,2013,ford,excellent,gas,151000
+3535,9735,2012,chevrolet,excellent,gas,221278
+3536,11500,2014,nissan,excellent,gas,48000
+3537,14900,2009,chevrolet,good,gas,160328
+3538,57900,2019,ram,excellent,diesel,31681
+3539,24900,2015,chevrolet,excellent,gas,148500
+3540,5000,2007,honda,good,gas,151000
+3541,4300,1986,chevrolet,fair,gas,62000
+3542,34990,2018,lincoln,good,gas,35000
+3543,29590,2017,lincoln,good,gas,34116
+3544,7500,2007,chevrolet,good,gas,107621
+3545,38590,2020,lincoln,good,gas,1772
+3546,4000,2011,chevrolet,excellent,gas,154000
+3547,34990,2020,lexus,good,gas,1722
+3548,37900,2017,chevrolet,excellent,diesel,150172
+3549,20590,2013,acura,good,gas,77087
+3550,34000,2014,gmc,excellent,gas,86835
+3551,22590,2017,lincoln,good,gas,22214
+3552,8312,2011,jeep,excellent,gas,66150
+3553,27990,2016,bmw,good,gas,46057
+3554,26990,2018,bmw,good,gas,13088
+3555,4900,1998,honda,good,gas,87000
+3556,7800,1997,chevrolet,excellent,gas,83656
+3557,9995,2013,ford,excellent,gas,111124
+3558,10700,2008,toyota,excellent,gas,183100
+3559,8999,2005,subaru,excellent,gas,75000
+3560,10900,2014,ford,good,gas,158223
+3561,14821,2013,jeep,excellent,diesel,94105
+3562,29990,2016,toyota,good,gas,84822
+3563,38990,2019,toyota,good,gas,23916
+3564,44900,2018,ford,excellent,diesel,128829
+3565,28990,2019,lincoln,good,gas,33076
+3566,2500,2003,ford,good,gas,226700
+3567,10000,2017,ford,excellent,gas,101000
+3568,31990,2020,buick,good,gas,20337
+3569,37590,2018,acura,good,hybrid,38840
+3570,7500,2012,ford,good,hybrid,117418
+3571,14821,2013,jeep,excellent,diesel,93972
+3572,12795,2014,mini,excellent,gas,81302
+3573,24990,2018,bmw,good,gas,28946
+3574,5954,2003,audi,excellent,gas,87222
+3575,37990,2019,toyota,good,gas,37501
+3576,41500,2019,chevrolet,excellent,gas,38378
+3577,7500,2007,gmc,good,gas,196000
+3578,33590,2020,lexus,good,gas,12550
+3579,27000,2013,nissan,excellent,gas,18000
+3580,40990,2019,acura,good,gas,12046
+3581,59900,2020,tesla,like new,electric,23700
+3582,2300,2007,ford,good,gas,182500
+3583,4000,1997,jeep,good,gas,161000
+3584,6750,2003,gmc,good,gas,168000
+3585,9999,2012,cadillac,excellent,gas,93000
+3586,7250,2010,gmc,good,gas,143633
+3587,43000,1995,toyota,excellent,gas,103257
+3588,29950,2019,toyota,excellent,gas,42800
+3589,2200,2004,pontiac,fair,gas,215527
+3590,9500,2011,honda,excellent,gas,213000
+3591,21000,2018,hyundai,like new,gas,20500
+3592,2800,2004,acura,good,gas,216500
+3593,3000,2006,jeep,good,gas,162000
+3594,36590,2019,chevrolet,good,gas,7619
+3595,3500,1989,jeep,good,gas,175000
+3596,9000,1977,chevrolet,excellent,gas,208000
+3597,8200,2009,honda,excellent,gas,91000
+3598,26000,2015,jeep,like new,gas,108500
+3599,52850,2019,chevrolet,excellent,diesel,49380
+3600,5990,2010,dodge,good,gas,99650
+3601,8500,2011,ford,good,gas,133789
+3602,7550,2015,chrysler,excellent,gas,65575
+3603,6500,2009,acura,good,gas,142321
+3604,10500,2001,toyota,excellent,gas,109600
+3605,11000,1997,ram,good,diesel,220000
+3606,5500,2006,ford,good,gas,196721
+3607,6000,2009,chevrolet,excellent,gas,164000
+3608,42000,2019,ford,like new,gas,8980
+3609,8700,2016,nissan,excellent,gas,96000
+3610,20500,2015,chevrolet,excellent,gas,209950
+3611,10900,2001,jeep,good,gas,132056
+3612,4900,2014,kia,good,gas,124667
+3613,14900,2013,cadillac,excellent,gas,84500
+3614,37590,2012,chevrolet,good,gas,41066
+3615,74000,2019,ford,excellent,diesel,20000
+3616,4800,2007,honda,good,gas,152036
+3617,14950,2009,ram,good,gas,105856
+3618,16500,2003,jeep,excellent,gas,125356
+3619,8000,2006,lincoln,excellent,gas,148000
+3620,12000,2012,ford,good,gas,130000
+3621,9950,2009,lexus,good,gas,182536
+3622,6900,2006,acura,good,gas,191713
+3623,6900,2014,chrysler,good,gas,148726
+3624,4988,2004,jeep,good,gas,171733
+3625,5450,2003,toyota,good,gas,143597
+3626,5950,2007,bmw,good,gas,176903
+3627,25600,2019,ford,excellent,gas,4885
+3628,14920,2013,ford,good,gas,108727
+3629,39500,2018,mercedes-benz,like new,gas,18500
+3630,31590,2018,audi,good,gas,62604
+3631,14999,2009,gmc,good,gas,130247
+3632,9250,2008,infiniti,excellent,gas,137023
+3633,7350,2008,honda,excellent,gas,115406
+3634,11450,2008,chevrolet,good,gas,192885
+3635,7985,2008,toyota,good,gas,131322
+3636,3500,2004,nissan,good,gas,200000
+3637,36990,2018,bmw,good,gas,42913
+3638,28590,2020,acura,good,gas,2255
+3639,6245,2013,nissan,good,electric,89119
+3640,6790,2008,mercury,good,hybrid,133746
+3641,26990,2018,audi,good,gas,17667
+3642,11000,2006,dodge,like new,gas,137516
+3643,11350,2012,nissan,good,gas,189995
+3644,7450,2008,honda,good,gas,115220
+3645,8450,2014,ford,excellent,hybrid,108194
+3646,9950,2008,chevrolet,good,gas,193841
+3647,12000,1991,chevrolet,excellent,gas,35000
+3648,14900,2011,rover,excellent,gas,137000
+3649,3200,2008,mazda,good,gas,170000
+3650,42590,2013,chevrolet,good,diesel,82777
+3651,11000,2003,jeep,excellent,gas,153641
+3652,31990,2017,bmw,good,gas,20241
+3653,4100,2010,ford,excellent,gas,120000
+3654,5500,2011,buick,excellent,gas,149868
+3655,2250,2005,ford,salvage,gas,119000
+3656,40990,2017,infiniti,good,gas,47418
+3657,6998,2010,chevrolet,excellent,gas,159000
+3658,27200,2012,mercedes-benz,excellent,gas,109000
+3659,2800,2005,dodge,fair,gas,129853
+3660,3500,2008,kia,good,gas,108000
+3661,12900,1989,ford,good,gas,72000
+3662,26895,2011,ford,excellent,diesel,200968
+3663,25590,2017,rover,good,gas,36666
+3664,6400,2008,honda,good,gas,192569
+3665,19590,2019,ford,good,hybrid,18772
+3666,16990,2018,ford,good,gas,27769
+3667,7900,2011,chrysler,excellent,gas,96000
+3668,17590,2019,chevrolet,good,gas,23700
+3669,47590,2020,chevrolet,good,gas,5591
+3670,21590,2016,hyundai,good,gas,60935
+3671,22590,2020,buick,good,gas,3722
+3672,41590,2019,audi,good,gas,21493
+3673,15990,2013,honda,good,gas,78496
+3674,10495,2012,chrysler,good,gas,78501
+3675,5995,2009,ford,good,gas,105653
+3676,7995,2011,lincoln,good,gas,147677
+3677,4495,1992,jeep,good,gas,160882
+3678,8995,2013,dodge,good,gas,131495
+3679,8995,2006,ford,good,gas,119745
+3680,5995,2012,ford,good,gas,160781
+3681,9495,2010,ford,good,gas,200202
+3682,5495,2006,ford,good,gas,113862
+3683,3995,2010,ford,good,gas,161400
+3684,16495,2016,ford,good,gas,77656
+3685,6495,2008,honda,good,gas,140930
+3686,6995,2007,ford,good,gas,120828
+3687,5495,2010,mazda,good,gas,93203
+3688,5495,2009,ford,good,gas,137837
+3689,5995,2009,pontiac,good,gas,87729
+3690,5995,2011,dodge,good,gas,60652
+3691,6995,2013,dodge,good,gas,81755
+3692,3995,2006,chevrolet,good,gas,166075
+3693,4495,2014,ford,good,gas,140124
+3694,6495,2013,chrysler,good,gas,128689
+3695,5995,2014,chevrolet,good,gas,116796
+3696,9500,2013,dodge,good,gas,103445
+3697,3000,2002,chevrolet,excellent,gas,200000
+3698,13500,2014,toyota,excellent,gas,84500
+3699,28590,2018,jaguar,good,gas,11500
+3700,28990,2017,jaguar,good,diesel,71386
+3701,3000,1997,ram,fair,gas,243162
+3702,30990,2019,lexus,good,gas,11325
+3703,30990,2017,lexus,good,gas,37437
+3704,27990,2011,mercedes-benz,good,gas,66944
+3705,46990,2019,infiniti,good,gas,19690
+3706,13995,2012,acura,excellent,gas,134118
+3707,7995,2011,buick,excellent,gas,152705
+3708,12995,2015,buick,excellent,gas,108710
+3709,8995,2007,bmw,excellent,gas,105071
+3710,9995,2010,toyota,excellent,gas,126770
+3711,8995,2009,subaru,excellent,gas,162879
+3712,6895,2006,cadillac,excellent,gas,103191
+3713,7995,2007,volvo,excellent,gas,111234
+3714,5495,2002,pontiac,excellent,gas,93633
+3715,7495,2009,toyota,excellent,gas,141426
+3716,6995,2008,jeep,excellent,gas,120404
+3717,6995,2006,subaru,excellent,gas,158945
+3718,5995,2009,chevrolet,excellent,gas,151145
+3719,4995,2009,pontiac,excellent,gas,132359
+3720,5995,2006,cadillac,excellent,gas,91781
+3721,6995,2006,lexus,excellent,gas,155994
+3722,8495,2011,gmc,excellent,gas,115612
+3723,4495,2009,chevrolet,excellent,gas,93800
+3724,8495,2012,cadillac,excellent,gas,111322
+3725,6995,2007,volvo,excellent,gas,147598
+3726,14900,2014,cadillac,good,gas,115000
+3727,2990,2007,ford,good,gas,116000
+3728,5990,2004,jeep,good,gas,162000
+3729,4990,2004,jeep,good,gas,128000
+3730,20000,2018,volkswagen,excellent,gas,20100
+3731,24575,2017,ford,excellent,gas,88000
+3732,28000,2013,mercedes-benz,excellent,gas,103000
+3733,12500,2011,bmw,excellent,gas,143131
+3734,24500,2004,chevrolet,like new,gas,16258
+3735,4800,2014,volkswagen,excellent,gas,123000
+3736,4800,2009,chevrolet,good,gas,127968
+3737,4800,2004,ford,good,diesel,160000
+3738,17900,2007,gmc,excellent,gas,47000
+3739,11900,2009,chevrolet,excellent,gas,220000
+3740,5990,2010,subaru,good,gas,191000
+3741,8699,2013,chevrolet,like new,gas,103900
+3742,19800,2020,kia,like new,gas,38718
+3743,18500,1979,chevrolet,excellent,gas,45000
+3744,12000,2011,gmc,good,gas,206000
+3745,8900,2013,ford,good,gas,116000
+3746,35000,2017,jeep,like new,gas,36000
+3747,23900,2014,ford,excellent,gas,127000
+3748,14900,2009,ford,good,gas,180508
+3749,7740,2010,toyota,excellent,hybrid,122000
+3750,3500,2002,buick,excellent,gas,81000
+3751,8900,2010,chevrolet,good,gas,95964
+3752,12500,2015,jeep,good,gas,69186
+3753,25000,2018,kia,good,gas,51000
+3754,32900,2014,ram,good,gas,58500
+3755,6900,2013,ford,good,gas,152123
+3756,3500,2005,gmc,good,gas,226000
+3757,15000,1986,dodge,excellent,gas,99000
+3758,7200,2012,chrysler,good,gas,63800
+3759,5300,1991,mazda,good,gas,163000
+3760,12500,2009,ford,good,gas,120000
+3761,10900,2017,chevrolet,excellent,gas,92314
+3762,8500,2018,hyundai,good,gas,116009
+3763,7900,2011,cadillac,excellent,gas,160247
+3764,14500,2019,ford,excellent,gas,62400
+3765,6900,2015,chevrolet,good,gas,83541
+3766,4900,2005,buick,good,gas,81594
+3767,5950,2008,honda,excellent,gas,125000
+3768,5250,2011,kia,excellent,gas,104523
+3769,7000,1978,lincoln,good,gas,42900
+3770,9900,2005,toyota,excellent,gas,96134
+3771,6900,2013,toyota,good,hybrid,137000
+3772,5990,2003,jaguar,good,gas,121000
+3773,29900,2018,jeep,excellent,gas,36000
+3774,8500,1998,ram,good,gas,128493
+3775,6990,2010,volkswagen,good,gas,162000
+3776,7500,1999,pontiac,excellent,gas,59620
+3777,5990,2007,mercury,good,gas,133000
+3778,5990,2006,jeep,good,gas,128000
+3779,4990,2009,dodge,good,gas,142000
+3780,6495,1999,mazda,excellent,gas,79000
+3781,29900,2018,ford,excellent,gas,119000
+3782,12500,2013,buick,excellent,gas,85000
+3783,13000,2017,mitsubishi,like new,gas,95594
+3784,11500,2013,chevrolet,good,electric,90000
+3785,12000,2016,chevrolet,excellent,gas,57000
+3786,2900,2004,mercury,good,gas,7600
+3787,8499,2014,ford,excellent,gas,42000
+3788,9990,2016,audi,excellent,gas,171525
+3789,17700,2015,chevrolet,excellent,gas,48893
+3790,10000,1996,ford,excellent,diesel,161000
+3791,4097,2014,chrysler,good,gas,134000
+3792,27800,2018,gmc,excellent,gas,34300
+3793,5000,2008,chrysler,excellent,gas,147770
+3794,22000,2018,jeep,like new,gas,128000
+3795,8500,2009,jaguar,excellent,gas,133000
+3796,10700,2013,bmw,excellent,gas,123000
+3797,9990,2011,mazda,good,gas,142000
+3798,5600,2009,chevrolet,good,gas,172000
+3799,3995,2004,chrysler,good,gas,149100
+3800,7500,2012,volkswagen,good,gas,102000
+3801,6500,2004,pontiac,good,gas,24000
+3802,5990,2009,chrysler,good,gas,162000
+3803,7990,2011,lincoln,good,gas,106000
+3804,3990,2002,buick,good,gas,102000
+3805,3200,2008,pontiac,good,gas,157000
+3806,2990,1998,jeep,good,gas,165000
+3807,9800,2004,chevrolet,good,gas,200000
+3808,39651,2016,ford,excellent,diesel,146885
+3809,16900,2014,honda,excellent,gas,89000
+3810,9900,2012,honda,excellent,gas,114300
+3811,22950,2011,ford,excellent,gas,64351
+3812,38900,2018,toyota,excellent,gas,41098
+3813,5000,2007,ford,good,gas,85000
+3814,8500,2012,chevrolet,good,gas,123981
+3815,24950,2008,ram,excellent,diesel,94509
+3816,8700,2011,dodge,good,gas,197000
+3817,21000,2009,dodge,excellent,gas,26400
+3818,3995,2009,honda,fair,gas,201000
+3819,24900,2015,ford,excellent,gas,126000
+3820,6900,2009,jeep,good,gas,166834
+3821,7200,2011,honda,good,gas,160000
+3822,10000,2012,toyota,excellent,gas,135000
+3823,19900,2014,chevrolet,excellent,gas,124000
+3824,15900,2017,toyota,excellent,gas,122000
+3825,22900,2016,ford,excellent,gas,112000
+3826,15800,2016,chevrolet,excellent,gas,60000
+3827,4990,2008,mercury,good,gas,138000
+3828,26990,2018,acura,good,gas,30386
+3829,3990,2005,pontiac,good,gas,131000
+3830,5990,2008,buick,good,gas,123000
+3831,15990,2011,audi,good,gas,81605
+3832,13800,2000,porsche,excellent,gas,124984
+3833,17600,2015,ford,excellent,gas,123000
+3834,6000,1993,buick,good,gas,173000
+3835,10700,2011,jeep,good,gas,138000
+3836,38900,2012,ford,excellent,gas,42400
+3837,2500,2001,saturn,good,gas,175000
+3838,3500,2005,jeep,fair,diesel,218000
+3839,35990,2018,rover,good,gas,22536
+3840,19990,2017,buick,good,gas,22428
+3841,18900,2015,chevrolet,excellent,gas,63035
+3842,6200,2005,ford,like new,gas,158090
+3843,4500,2011,volkswagen,like new,gas,170000
+3844,3000,2007,chrysler,good,gas,170000
+3845,7750,2011,buick,good,gas,100500
+3846,18200,2018,chevrolet,like new,gas,76714
+3847,4449,2006,toyota,good,gas,181500
+3848,24900,2018,chevrolet,like new,gas,53000
+3849,9700,2016,chevrolet,excellent,gas,21200
+3850,6900,2015,dodge,good,gas,194000
+3851,9225,2010,toyota,excellent,hybrid,110591
+3852,2500,2001,kia,fair,gas,160000
+3853,7750,2012,volkswagen,excellent,gas,140000
+3854,5500,2006,gmc,fair,gas,117928
+3855,36000,2014,chevrolet,excellent,gas,125000
+3856,14500,2005,gmc,excellent,gas,97803
+3857,7450,2008,toyota,excellent,gas,150000
+3858,10725,2014,subaru,excellent,gas,70000
+3859,4900,2007,toyota,good,gas,186000
+3860,8200,2015,volkswagen,excellent,gas,135500
+3861,11000,2002,chevrolet,good,diesel,190000
+3862,5900,2013,dodge,excellent,gas,105224
+3863,10500,2013,nissan,good,gas,103000
+3864,8300,2007,honda,excellent,gas,103000
+3865,2500,2004,chevrolet,good,gas,124000
+3866,9500,2013,nissan,excellent,gas,95000
+3867,12000,2013,honda,excellent,gas,96000
+3868,44500,2020,chevrolet,like new,gas,8843
+3869,38500,2015,chevrolet,excellent,gas,122000
+3870,12000,2015,jeep,like new,gas,104000
+3871,16000,1996,ford,excellent,diesel,224000
+3872,5000,1992,ford,fair,diesel,41145
+3873,34590,2019,acura,good,gas,64264
+3874,26590,2020,hyundai,good,gas,649
+3875,24990,2017,audi,good,gas,24077
+3876,16500,2019,chevrolet,like new,gas,15000
+3877,16900,2019,chevrolet,like new,gas,16600
+3878,9838,2015,ford,excellent,gas,104319
+3879,5990,2004,jaguar,good,gas,109000
+3880,3990,2007,chrysler,good,gas,143000
+3881,4990,2005,subaru,good,gas,165000
+3882,7955,2008,ford,excellent,gas,248568
+3883,5990,2008,saturn,good,gas,157000
+3884,3990,2005,ford,good,gas,108000
+3885,7990,2007,jaguar,good,gas,129000
+3886,3990,2007,chevrolet,good,gas,171000
+3887,3000,1995,ford,good,gas,160000
+3888,2500,2002,honda,good,gas,193164
+3889,3800,2008,ford,good,gas,237826
+3890,16900,1979,mercedes-benz,excellent,gas,49856
+3891,7500,2004,mercedes-benz,excellent,gas,102713
+3892,17900,2017,ford,excellent,hybrid,15500
+3893,19990,2018,buick,good,gas,24785
+3894,11850,2011,chevrolet,excellent,gas,126483
+3895,11450,2017,ford,excellent,gas,118873
+3896,12900,2013,toyota,like new,gas,94795
+3897,15900,2010,bmw,excellent,gas,90800
+3898,9500,2015,jeep,good,gas,147000
+3899,6900,2010,honda,good,gas,246220
+3900,8500,2013,chrysler,good,gas,34700
+3901,5200,2010,ford,good,gas,104500
+3902,7500,2006,ford,good,gas,209000
+3903,14000,2011,chevrolet,excellent,gas,156000
+3904,12000,2014,chevrolet,excellent,gas,119000
+3905,7900,2013,chevrolet,like new,gas,37000
+3906,19800,2016,chevrolet,excellent,gas,98000
+3907,22995,2016,ram,excellent,diesel,120359
+3908,32900,2017,chevrolet,like new,gas,94000
+3909,36900,2015,chevrolet,good,diesel,160000
+3910,6500,2013,chevrolet,excellent,gas,81000
+3911,9300,2013,toyota,like new,hybrid,108000
+3912,11000,2014,ford,like new,gas,64000
+3913,6931,2010,chrysler,excellent,gas,111866
+3914,13000,2003,ram,good,diesel,211194
+3915,4900,2012,ford,good,gas,152000
+3916,2850,2015,mitsubishi,fair,gas,116000
+3917,3300,2012,ford,good,gas,177001
+3918,17990,2018,hyundai,good,gas,24163
+3919,26990,2018,audi,good,gas,15221
+3920,23990,2018,acura,good,gas,49760
+3921,22900,2019,ford,excellent,gas,22000
+3922,36590,2020,cadillac,good,gas,11930
+3923,8100,2013,ford,excellent,gas,228000
+3924,10999,2007,lincoln,excellent,gas,120000
+3925,8300,2011,ford,good,gas,152000
+3926,18500,2013,ford,good,gas,105000
+3927,25990,2017,kia,good,gas,32536
+3928,42590,2018,audi,good,gas,42688
+3929,10500,2017,chevrolet,excellent,gas,70000
+3930,4500,2009,pontiac,good,gas,133700
+3931,23990,2014,audi,good,gas,84674
+3932,29900,2017,ford,excellent,gas,123000
+3933,20900,2016,ford,excellent,gas,104000
+3934,28990,2017,rover,good,gas,32396
+3935,7500,2004,toyota,excellent,gas,211000
+3936,18990,2018,buick,good,gas,23835
+3937,23000,2014,jeep,good,gas,149000
+3938,14000,2016,chevrolet,excellent,gas,59800
+3939,42590,2020,buick,good,gas,1134
+3940,18000,2012,ford,good,diesel,229000
+3941,8400,2018,ford,good,gas,28600
+3942,29999,1989,ford,like new,gas,38000
+3943,4999,2007,ford,good,gas,150000
+3944,2000,2006,ford,fair,gas,180000
+3945,6700,2011,dodge,excellent,gas,142280
+3946,4500,1974,pontiac,good,gas,111111
+3947,3200,1998,ford,good,gas,120000
+3948,5495,2008,ford,good,gas,118360
+3949,3995,2008,ford,good,gas,171900
+3950,8495,2008,honda,good,diesel,110662
+3951,5995,2011,ford,good,gas,133890
+3952,5495,2008,saturn,good,gas,116730
+3953,3995,2004,jeep,good,gas,175036
+3954,7495,2012,chrysler,good,gas,42034
+3955,2495,2009,mitsubishi,good,gas,156031
+3956,2995,2004,ford,good,gas,152974
+3957,4495,2008,toyota,good,gas,187371
+3958,3995,2006,saturn,good,gas,169814
+3959,3495,2003,ford,good,gas,87127
+3960,5495,2003,dodge,good,gas,126235
+3961,11495,2012,dodge,good,gas,122635
+3962,5495,2009,ford,good,gas,203212
+3963,4495,2010,ford,good,gas,114575
+3964,7495,2013,chrysler,good,gas,97655
+3965,3995,2006,pontiac,good,gas,133076
+3966,13995,2015,ford,good,gas,103907
+3967,6995,2007,volvo,good,gas,119138
+3968,6995,2002,ford,good,gas,158830
+3969,4495,2008,ford,good,gas,173883
+3970,8995,2012,chevrolet,good,gas,126832
+3971,3995,2010,ford,good,gas,113960
+3972,6995,2012,chevrolet,good,gas,67720
+3973,2495,2005,chrysler,good,gas,201041
+3974,2995,2006,chrysler,good,gas,157390
+3975,22990,2016,audi,good,gas,40720
+3976,19600,2017,chevrolet,excellent,gas,88700
+3977,28590,2020,buick,good,gas,3077
+3978,8800,2012,chevrolet,excellent,gas,165000
+3979,19990,2018,kia,good,gas,15435
+3980,30990,2019,lincoln,good,gas,7256
+3981,2300,2008,bmw,fair,gas,115000
+3982,6000,2006,ford,good,gas,128000
+3983,38990,2018,chevrolet,good,gas,5157
+3984,38990,2017,chevrolet,good,gas,16962
+3985,36590,2019,chevrolet,good,gas,36134
+3986,5500,2001,ram,good,gas,47894
+3987,4200,2009,nissan,good,gas,98003
+3988,27990,2018,alfa-romeo,good,gas,16493
+3989,14990,2019,kia,good,gas,7007
+3990,32000,2018,chevrolet,excellent,gas,57000
+3991,20990,2014,chevrolet,good,gas,25635
+3992,23590,2011,chevrolet,good,gas,38905
+3993,26990,2020,chevrolet,good,gas,18634
+3994,25990,2020,chevrolet,good,gas,21938
+3995,25590,2020,buick,good,gas,1113
+3996,6995,2015,hyundai,good,gas,123320
+3997,7850,2005,buick,like new,gas,51000
+3998,9000,2013,ford,excellent,gas,169000
+3999,17500,2014,ford,excellent,gas,163500
+4000,8995,2015,hyundai,excellent,gas,104000
+4001,15350,2015,chrysler,excellent,gas,84305
+4002,2400,1999,gmc,fair,gas,240000
+4003,4950,2006,chevrolet,excellent,gas,122000
+4004,11950,2014,chevrolet,excellent,gas,127000
+4005,3200,2005,ram,fair,gas,186890
+4006,7950,2014,chevrolet,excellent,gas,117000
+4007,6500,2008,gmc,good,gas,159000
+4008,3995,2010,chevrolet,good,gas,221254
+4009,5500,2005,bmw,excellent,gas,123233
+4010,4000,2009,chevrolet,good,gas,160000
+4011,4000,2008,ford,good,gas,180000
+4012,8500,2005,jeep,fair,gas,115000
+4013,12900,1994,ford,like new,gas,36000
+4014,8995,1998,jeep,excellent,gas,132649
+4015,9885,2006,jeep,excellent,gas,140555
+4016,3700,2006,dodge,excellent,gas,200000
+4017,8750,2015,volkswagen,excellent,gas,78000
+4018,3000,2000,ford,good,gas,206000
+4019,25995,2014,toyota,excellent,gas,168797
+4020,6000,2005,volkswagen,good,gas,112000
+4021,4500,2010,jeep,good,gas,175000
+4022,16750,2014,ford,excellent,gas,45860
+4023,5500,1987,ram,excellent,gas,68415
+4024,6495,2011,kia,good,gas,171264
+4025,12995,2015,chevrolet,excellent,gas,67000
+4026,34995,2014,gmc,excellent,gas,93000
+4027,3750,2000,dodge,good,gas,153254
+4028,14995,2015,dodge,excellent,gas,85000
+4029,2800,2002,acura,good,gas,215000
+4030,7500,2012,toyota,good,gas,131000
+4031,12450,2015,chevrolet,excellent,gas,78000
+4032,22500,2017,audi,excellent,gas,48000
+4033,22000,2010,lexus,like new,gas,45700
+4034,6000,2008,chrysler,good,gas,130000
+4035,2900,2004,pontiac,excellent,gas,215872
+4036,24000,2014,ram,excellent,gas,124000
+4037,37995,2016,dodge,like new,gas,54000
+4038,3500,1996,chrysler,good,gas,67000
+4039,3500,2004,jeep,good,gas,190543
+4040,26000,2020,nissan,like new,gas,5000
+4041,9795,2013,chevrolet,good,gas,108307
+4042,5479,2008,ford,good,gas,172824
+4043,23995,2018,ford,excellent,gas,83000
+4044,8990,2010,buick,good,gas,148000
+4045,6595,2013,nissan,good,gas,158369
+4046,5500,2006,mitsubishi,excellent,gas,186000
+4047,16000,2007,ford,good,diesel,246846
+4048,5850,2005,chevrolet,excellent,gas,114000
+4049,8900,2013,dodge,good,gas,65000
+4050,5495,2008,ford,good,gas,95590
+4051,19900,1983,chevrolet,good,gas,85000
+4052,3850,2005,chevrolet,fair,gas,247220
+4053,9000,2010,dodge,good,gas,70000
+4054,2995,1998,toyota,good,gas,186783
+4055,5725,2005,jeep,good,gas,141000
+4056,8995,2010,cadillac,good,gas,125599
+4057,6500,2006,chevrolet,excellent,gas,189000
+4058,8795,2010,gmc,good,gas,129654
+4059,5850,2009,pontiac,excellent,gas,82000
+4060,7650,2010,chevrolet,excellent,gas,53000
+4061,12250,2015,chevrolet,excellent,gas,100000
+4062,21000,2019,toyota,new,hybrid,14013
+4063,5500,2006,chevrolet,good,diesel,200000
+4064,19995,2016,honda,like new,gas,77000
+4065,28750,2020,ford,excellent,gas,4500
+4066,7000,2008,ford,excellent,gas,125000
+4067,6995,2007,honda,excellent,gas,72000
+4068,8395,2010,gmc,good,gas,162771
+4069,7595,2011,dodge,excellent,gas,136385
+4070,8295,2013,chrysler,excellent,gas,108485
+4071,29800,2018,gmc,like new,gas,8100
+4072,13500,2015,chrysler,like new,gas,45472
+4073,3000,1998,ram,fair,gas,114878
+4074,11500,2004,ford,good,diesel,230497
+4075,2800,2004,mercury,good,gas,163800
+4076,2200,2008,honda,good,gas,209392
+4077,10495,2015,gmc,excellent,gas,166500
+4078,8995,2007,gmc,good,gas,204000
+4079,9995,2010,ford,good,gas,191000
+4080,32000,2013,jeep,like new,gas,39000
+4081,7400,2014,ford,excellent,gas,89100
+4082,17000,2010,chevrolet,like new,gas,90000
+4083,31000,2014,jeep,excellent,gas,30450
+4084,25000,2013,ford,excellent,gas,82280
+4085,4850,2010,dodge,excellent,gas,170000
+4086,28500,2015,lincoln,like new,gas,117000
+4087,6000,1995,ford,excellent,gas,103000
+4088,31995,2016,ford,excellent,gas,43969
+4089,34500,2017,gmc,like new,gas,27000
+4090,2500,2003,dodge,good,gas,200000
+4091,8500,2010,honda,excellent,gas,216000
+4092,6000,2001,volkswagen,excellent,gas,66988
+4093,9000,2004,chevrolet,good,gas,114900
+4094,15000,1974,buick,excellent,gas,12300
+4095,6200,2007,toyota,fair,gas,115000
+4096,18500,2013,ford,excellent,gas,47362
+4097,65000,2019,ford,like new,gas,7400
+4098,6200,2008,chevrolet,good,gas,89000
+4099,3940,2009,chevrolet,excellent,gas,179750
+4100,8900,2013,chrysler,excellent,gas,134500
+4101,11500,2012,volvo,good,gas,119000
+4102,2000,2008,saturn,good,gas,146000
+4103,3000,2003,ram,good,gas,196000
+4104,9900,1999,ram,good,diesel,55166
+4105,8500,2008,buick,excellent,gas,108068
+4106,11900,2003,gmc,good,gas,166000
+4107,9000,2007,chevrolet,good,gas,150000
+4108,6900,2009,hyundai,excellent,gas,152000
+4109,10500,2013,ford,excellent,gas,105000
+4110,12900,2014,volkswagen,excellent,gas,110000
+4111,6000,1973,dodge,fair,gas,85276
+4112,4500,2009,chevrolet,good,gas,137000
+4113,3000,1999,volkswagen,good,gas,95000
+4114,19500,2014,audi,excellent,gas,72000
+4115,24500,2001,ford,excellent,diesel,92000
+4116,33999,2016,toyota,excellent,gas,68000
+4117,19000,2018,toyota,good,gas,52253
+4118,2995,2008,dodge,good,gas,189316
+4119,10200,2013,chrysler,excellent,gas,149000
+4120,12500,2008,lexus,excellent,gas,84900
+4121,8500,2014,gmc,good,gas,163800
+4122,12000,2015,buick,excellent,gas,79000
+4123,14500,2008,ford,excellent,gas,100000
+4124,13500,2004,ford,excellent,gas,98000
+4125,15500,2015,dodge,excellent,gas,125000
+4126,12900,2014,chevrolet,excellent,gas,115000
+4127,9900,2007,toyota,excellent,gas,56490
+4128,5000,2003,ram,good,gas,148536
+4129,21500,2013,jeep,excellent,gas,173939
+4130,28500,2018,jeep,excellent,gas,25000
+4131,2000,2003,honda,fair,gas,193417
+4132,9500,1989,chevrolet,excellent,gas,72500
+4133,48750,2016,toyota,like new,gas,33625
+4134,13500,2014,lincoln,excellent,gas,84400
+4135,12500,1993,chevrolet,excellent,gas,74000
+4136,5250,2009,dodge,excellent,gas,138000
+4137,2000,1999,jeep,fair,gas,187000
+4138,10500,2001,gmc,good,gas,140000
+4139,69500,2019,ford,like new,gas,7300
+4140,15600,2013,ford,excellent,gas,10800
+4141,7000,2013,subaru,excellent,gas,157000
+4142,13800,2008,ford,excellent,gas,115000
+4143,6500,2009,gmc,excellent,gas,147031
+4144,5800,1991,ford,excellent,gas,180000
+4145,11900,2011,honda,excellent,gas,173774
+4146,6950,2004,ford,excellent,gas,164300
+4147,3500,2007,toyota,fair,hybrid,245684
+4148,4950,2005,honda,excellent,gas,106000
+4149,16000,2007,ram,good,diesel,235000
+4150,14900,2014,ford,like new,gas,99000
+4151,4600,2009,volkswagen,good,gas,168354
+4152,30000,2009,ram,good,diesel,57000
+4153,36500,2013,ford,like new,gas,13900
+4154,25000,2013,rover,excellent,gas,82575
+4155,10000,2007,toyota,excellent,gas,175289
+4156,24000,2018,kia,excellent,electric,25136
+4157,10000,2013,audi,good,gas,144000
+4158,22000,2012,ford,good,diesel,184249
+4159,8900,2014,chevrolet,good,gas,75300
+4160,11900,2010,mercedes-benz,excellent,diesel,64000
+4161,9300,1972,volkswagen,good,gas,65000
+4162,14995,2016,honda,good,gas,89155
+4163,6500,1994,chevrolet,good,diesel,132000
+4164,11800,2007,gmc,good,gas,185527
+4165,16900,2014,buick,excellent,gas,57000
+4166,4000,2008,chevrolet,good,gas,239964
+4167,13500,2008,ford,good,gas,145000
+4168,31995,2016,chevrolet,excellent,gas,90000
+4169,36000,2018,jeep,like new,gas,39498
+4170,7000,2003,ford,good,gas,110000
+4171,5900,2011,honda,good,gas,80700
+4172,22500,1985,chevrolet,good,diesel,75000
+4173,29995,2017,chevrolet,excellent,gas,69900
+4174,18500,2013,toyota,excellent,gas,172500
+4175,19500,2005,jeep,excellent,gas,106000
+4176,13500,2015,volkswagen,excellent,diesel,64847
+4177,12900,1987,chevrolet,excellent,gas,44356
+4178,8500,2000,mercedes-benz,excellent,gas,59800
+4179,8700,2013,gmc,good,gas,132248
+4180,5995,2008,chrysler,good,gas,166200
+4181,16995,1986,chevrolet,like new,gas,42000
+4182,7500,2003,lincoln,good,gas,144000
+4183,13000,2015,chrysler,excellent,gas,66000
+4184,6800,2014,subaru,good,gas,183000
+4185,6500,2004,toyota,excellent,gas,209135
+4186,3800,2004,chevrolet,excellent,gas,147000
+4187,13500,2007,ford,excellent,gas,31000
+4188,12999,2015,subaru,excellent,gas,50409
+4189,6500,1984,volkswagen,fair,gas,90000
+4190,56000,2020,chevrolet,like new,diesel,31195
+4191,10990,2012,chrysler,excellent,gas,97500
+4192,18000,2015,ford,excellent,gas,158600
+4193,30900,2019,chevrolet,like new,gas,9140
+4194,4000,1996,ford,good,gas,97000
+4195,13900,2014,ford,excellent,gas,85000
+4196,2900,2002,mercury,excellent,gas,123000
+4197,34500,2020,jeep,like new,gas,3528
+4198,31000,2018,gmc,like new,gas,17318
+4199,7000,2014,ford,excellent,gas,124000
+4200,35000,2018,gmc,like new,gas,31012
+4201,13200,2013,infiniti,good,gas,87407
+4202,10800,2012,honda,excellent,gas,96573
+4203,3900,1998,jeep,good,gas,177000
+4204,28999,2017,chevrolet,like new,gas,31890
+4205,38495,2019,toyota,excellent,gas,28000
+4206,10500,1991,chevrolet,excellent,gas,72000
+4207,18000,2007,ram,good,diesel,66000
+4208,12999,2012,chevrolet,good,gas,184374
+4209,3999,2007,dodge,good,gas,149621
+4210,5999,2004,ram,good,gas,172421
+4211,3999,2008,dodge,good,gas,150011
+4212,3999,2009,jeep,good,gas,176745
+4213,13999,2016,chevrolet,good,gas,93672
+4214,11200,2011,ford,good,gas,159000
+4215,54950,2019,chevrolet,like new,gas,28207
+4216,3700,2002,gmc,good,gas,166000
+4217,3000,2003,mercury,good,gas,150000
+4218,5500,2008,lexus,good,gas,240000
+4219,5900,2008,ford,good,gas,234000
+4220,7500,2005,nissan,fair,gas,94000
+4221,36500,2017,chevrolet,excellent,gas,31000
+4222,5000,2008,dodge,fair,gas,148000
+4223,32500,2008,mercury,excellent,gas,40000
+4224,14900,1980,chevrolet,excellent,gas,85000
+4225,8500,2012,ford,good,gas,190750
+4226,33500,2015,ford,like new,gas,44332
+4227,26000,2014,chevrolet,excellent,gas,77025
+4228,5200,2008,buick,good,gas,164322
+4229,5500,2009,chevrolet,good,gas,144000
+4230,9000,2013,ford,excellent,gas,120931
+4231,14995,2017,ford,like new,gas,44849
+4232,12999,2004,chevrolet,excellent,gas,173000
+4233,4800,2008,chevrolet,excellent,gas,61000
+4234,8500,2008,ford,good,gas,168000
+4235,4000,2005,subaru,good,gas,214000
+4236,21500,2018,honda,like new,gas,13800
+4237,19500,2015,chevrolet,like new,gas,32297
+4238,19000,2016,ford,excellent,gas,69000
+4239,7850,2015,ford,good,gas,43150
+4240,14500,2013,cadillac,excellent,gas,111786
+4241,9200,2016,ford,excellent,gas,84500
+4242,22500,2011,chevrolet,good,gas,95838
+4243,4200,2009,gmc,good,gas,177000
+4244,7500,2012,gmc,good,gas,169000
+4245,6500,2005,dodge,good,gas,80000
+4246,6700,2008,ford,good,gas,210000
+4247,2500,2008,chevrolet,good,gas,238710
+4248,7100,2005,subaru,excellent,gas,138000
+4249,8500,2010,ford,good,gas,192000
+4250,12990,2015,jeep,excellent,gas,94190
+4251,4500,1999,ford,good,gas,197000
+4252,10500,1994,chevrolet,excellent,gas,196500
+4253,29000,1982,volkswagen,excellent,gas,179000
+4254,8900,2013,audi,excellent,gas,172000
+4255,17000,1973,volkswagen,excellent,gas,28545
+4256,3000,1997,ford,good,gas,111000
+4257,9000,1984,mercedes-benz,good,gas,109000
+4258,2500,1995,ford,fair,gas,207000
+4259,36800,2020,chevrolet,excellent,gas,20500
+4260,15500,2013,honda,excellent,gas,86287
+4261,15999,2018,jeep,like new,gas,17555
+4262,5400,2006,subaru,excellent,gas,210515
+4263,11000,2006,toyota,good,gas,140500
+4264,17000,2013,ford,good,gas,98000
+4265,4500,2006,buick,good,gas,93800
+4266,9995,2008,pontiac,excellent,gas,87200
+4267,24999,2016,ford,like new,gas,92400
+4268,12500,2008,toyota,like new,gas,180000
+4269,12200,2017,gmc,excellent,gas,42764
+4270,7500,2012,toyota,good,gas,140000
+4271,23990,2013,chevrolet,good,gas,89484
+4272,9600,2017,nissan,like new,gas,75000
+4273,11000,2013,subaru,excellent,gas,122100
+4274,10000,2015,volkswagen,excellent,gas,120700
+4275,40600,2020,ford,like new,gas,17000
+4276,8350,2004,chevrolet,excellent,gas,126000
+4277,3499,2008,ford,good,gas,165000
+4278,47500,2019,ram,excellent,gas,30000
+4279,39800,2019,ram,excellent,gas,84702
+4280,8000,2008,mini,like new,gas,92000
+4281,7000,2012,buick,excellent,gas,142000
+4282,14988,2012,chevrolet,good,gas,174354
+4283,8200,2001,toyota,excellent,gas,224000
+4284,15500,2013,nissan,like new,gas,87000
+4285,12000,2008,ford,good,gas,117890
+4286,8600,2011,ford,good,gas,129400
+4287,4200,1984,lincoln,good,gas,107004
+4288,12000,2006,ram,good,gas,124860
+4289,14999,2013,toyota,excellent,gas,95000
+4290,17990,2005,chevrolet,excellent,gas,118376
+4291,6800,2012,mini,good,gas,110000
+4292,33900,2015,toyota,good,gas,73000
+4293,14950,2016,ford,excellent,gas,34000
+4294,20000,2015,ford,like new,gas,105000
+4295,2100,2003,mazda,fair,gas,180000
+4296,15999,2016,gmc,excellent,gas,66000
+4297,9950,2009,ford,fair,gas,194000
+4298,8000,2012,volkswagen,good,gas,67000
+4299,2500,2013,chrysler,good,gas,179000
+4300,16999,2015,jeep,like new,gas,41285
+4301,5500,2007,gmc,good,gas,184000
+4302,14950,2011,dodge,excellent,gas,96000
+4303,31590,2017,ford,good,gas,18056
+4304,37590,2020,buick,good,gas,14745
+4305,4995,2009,chevrolet,excellent,gas,126000
+4306,6995,2010,buick,excellent,gas,138000
+4307,5995,2009,dodge,good,gas,123000
+4308,6995,2011,ford,excellent,gas,165000
+4309,9495,2011,lincoln,good,gas,123000
+4310,4995,2008,jeep,good,gas,123000
+4311,8995,2008,gmc,good,gas,160000
+4312,2995,2008,pontiac,fair,gas,195000
+4313,6495,2010,buick,excellent,gas,140000
+4314,6995,2014,dodge,excellent,gas,103000
+4315,30990,2017,toyota,good,gas,41124
+4316,12995,2011,toyota,excellent,gas,106000
+4317,11000,2011,toyota,excellent,gas,171000
+4318,12995,2016,dodge,excellent,gas,127000
+4319,8500,2014,dodge,excellent,gas,139000
+4320,17995,2018,chevrolet,like new,gas,37000
+4321,20995,2017,nissan,excellent,gas,59000
+4322,16495,2018,ford,like new,gas,78000
+4323,6599,2002,bmw,excellent,gas,90000
+4324,27887,2012,ford,excellent,diesel,132000
+4325,22590,2018,buick,good,gas,4604
+4326,39990,2020,tesla,good,electric,10309
+4327,32990,2020,lexus,good,gas,5424
+4328,33590,2017,lexus,good,gas,14556
+4329,7000,2008,buick,good,gas,206241
+4330,3000,2002,ford,good,gas,128000
+4331,13500,2013,chevrolet,excellent,gas,152000
+4332,35590,2018,acura,good,gas,35799
+4333,13985,2009,jeep,excellent,gas,161000
+4334,6000,2015,dodge,excellent,gas,142500
+4335,39990,2020,buick,good,gas,15490
+4336,31990,2017,jaguar,good,gas,23694
+4337,19990,2019,mitsubishi,good,gas,22243
+4338,31990,2018,alfa-romeo,good,gas,21657
+4339,4995,2005,mercedes-benz,good,gas,170000
+4340,3500,1995,gmc,good,gas,135000
+4341,3000,2001,lincoln,good,gas,128785
+4342,40990,2020,honda,good,gas,5833
+4343,8495,2015,ford,excellent,gas,172000
+4344,11995,2008,ford,excellent,gas,130000
+4345,13495,2015,ford,excellent,gas,71000
+4346,39990,2011,chevrolet,good,gas,10862
+4347,21590,2017,volvo,good,gas,37202
+4348,28590,2019,volvo,good,gas,18531
+4349,39590,2019,lincoln,good,gas,35126
+4350,43990,2020,acura,good,gas,1835
+4351,45990,2019,acura,good,gas,14691
+4352,4495,2012,ford,good,gas,147905
+4353,6995,2009,chrysler,good,gas,147965
+4354,7995,2014,kia,good,gas,126454
+4355,7495,2011,ford,good,gas,72550
+4356,4995,2009,ford,good,gas,93550
+4357,8495,2010,honda,good,gas,98195
+4358,34990,2018,jeep,good,gas,19816
+4359,39590,2012,chevrolet,good,gas,28319
+4360,35590,2020,lexus,good,gas,6185
+4361,28990,2018,infiniti,good,gas,32458
+4362,6000,2014,chevrolet,like new,gas,139000
+4363,41590,2019,volvo,good,gas,22067
+4364,33590,2019,volvo,good,gas,10742
+4365,29990,2020,volvo,good,gas,10227
+4366,5999,2004,ford,good,gas,227000
+4367,18250,2002,lincoln,excellent,gas,40000
+4368,14000,2011,ford,excellent,gas,145000
+4369,7500,2012,chevrolet,excellent,gas,71000
+4370,8500,1993,volkswagen,excellent,gas,114000
+4371,5500,2008,dodge,good,gas,77170
+4372,2490,2002,gmc,good,gas,161580
+4373,8500,2011,ford,good,gas,173000
+4374,2995,2006,ford,excellent,gas,154400
+4375,7490,2007,honda,excellent,gas,107877
+4376,7000,2011,chevrolet,good,gas,84758
+4377,7500,2005,chevrolet,good,diesel,178000
+4378,4900,2012,ford,good,gas,121340
+4379,11500,2005,chevrolet,good,gas,82000
+4380,3495,2010,ford,good,gas,175523
+4381,37000,2015,ford,like new,gas,54000
+4382,12000,2016,lincoln,good,gas,67000
+4383,8250,2013,ford,excellent,gas,90000
+4384,25990,2019,honda,good,gas,25067
+4385,14500,2013,ford,excellent,gas,96000
+4386,15000,2013,gmc,good,gas,164000
+4387,6350,2009,saturn,excellent,gas,81000
+4388,7600,2014,chevrolet,like new,gas,65000
+4389,5400,2003,jaguar,excellent,gas,100242
+4390,11000,2003,gmc,good,gas,90006
+4391,7995,2015,nissan,like new,gas,94237
+4392,7995,2011,chevrolet,good,gas,127327
+4393,3795,2007,ford,good,gas,134020
+4394,4995,2011,chevrolet,good,gas,160363
+4395,6495,2008,chrysler,good,gas,140188
+4396,5995,2006,jeep,good,gas,155303
+4397,4995,2012,nissan,good,gas,138203
+4398,2395,2001,chevrolet,good,gas,149513
+4399,6995,2014,dodge,excellent,gas,124797
+4400,4495,2008,buick,good,gas,132309
+4401,4295,2007,saturn,good,gas,160000
+4402,3495,2006,mazda,good,gas,136294
+4403,24990,2013,mini,good,gas,39516
+4404,15000,2001,chevrolet,like new,gas,144000
+4405,6000,2012,chevrolet,excellent,gas,176000
+4406,7500,2010,cadillac,excellent,gas,144000
+4407,10500,2010,chevrolet,good,gas,106000
+4408,6900,2009,rover,good,gas,17900
+4409,72500,2018,ram,like new,diesel,36000
+4410,8250,2012,chevrolet,excellent,gas,196000
+4411,8500,2011,chevrolet,excellent,gas,84771
+4412,3800,2010,cadillac,good,gas,218614
+4413,67900,2019,chevrolet,like new,diesel,17034
+4414,6500,2005,subaru,good,gas,99000
+4415,18500,2015,buick,excellent,gas,36497
+4416,13800,2011,gmc,excellent,gas,143000
+4417,7500,1976,lincoln,good,gas,53900
+4418,4500,2001,buick,excellent,gas,82350
+4419,2950,1994,chevrolet,good,gas,121000
+4420,3950,2005,mazda,good,gas,196400
+4421,21500,2016,lincoln,like new,gas,78000
+4422,18500,2002,ford,like new,gas,31000
+4423,38590,2018,toyota,good,gas,37252
+4424,15500,2015,volkswagen,excellent,gas,51235
+4425,5100,2007,cadillac,good,gas,113000
+4426,15500,2016,ford,good,gas,41320
+4427,25990,2014,dodge,good,gas,37374
+4428,56000,2019,chevrolet,like new,diesel,31195
+4429,16900,2013,lincoln,excellent,gas,121000
+4430,7200,2005,ford,excellent,gas,126388
+4431,46000,2018,chevrolet,like new,gas,35200
+4432,5200,1994,chevrolet,good,gas,126500
+4433,9000,2015,jeep,good,gas,71000
+4434,7000,2009,ford,good,gas,228000
+4435,16990,2011,gmc,good,gas,39219
+4436,10900,2012,buick,excellent,gas,148860
+4437,5500,2004,ford,good,gas,117000
+4438,12900,1996,ford,excellent,gas,102000
+4439,7000,2009,nissan,good,gas,110511
+4440,4800,2009,chevrolet,good,gas,144500
+4441,22990,2017,infiniti,good,gas,22917
+4442,2995,2009,chevrolet,fair,gas,147000
+4443,36590,2019,bmw,good,gas,17647
+4444,12450,2016,dodge,like new,gas,64000
+4445,14500,2007,pontiac,like new,gas,29090
+4446,37590,2017,mercedes-benz,good,gas,61018
+4447,37590,2017,mercedes-benz,good,gas,59599
+4448,10000,2014,rover,excellent,gas,139000
+4449,8200,2011,jeep,excellent,gas,123500
+4450,34590,2020,lexus,good,gas,7678
+4451,2450,2003,ford,fair,gas,163600
+4452,6500,2012,jeep,good,gas,199000
+4453,7500,2011,volvo,good,gas,165000
+4454,19997,2012,chevrolet,good,gas,148000
+4455,49990,2020,tesla,good,electric,3996
+4456,7200,2016,chevrolet,excellent,gas,86000
+4457,7850,2013,chevrolet,like new,gas,74000
+4458,9800,1990,chevrolet,excellent,diesel,190010
+4459,24900,2017,gmc,excellent,gas,97000
+4460,39900,2016,jeep,like new,gas,33000
+4461,43990,2019,jeep,good,gas,4362
+4462,3700,2013,ford,good,gas,120000
+4463,30000,2016,chevrolet,like new,gas,93634
+4464,35990,2018,ram,good,gas,21885
+4465,10000,1978,chevrolet,good,gas,1234
+4466,12000,1978,cadillac,good,gas,123456
+4467,7450,2002,chevrolet,excellent,gas,212000
+4468,31500,1977,toyota,excellent,gas,73000
+4469,36590,2018,bmw,good,gas,29158
+4470,25990,2017,jaguar,good,diesel,15718
+4471,21500,1997,toyota,good,gas,170299
+4472,59990,2019,mercedes-benz,good,gas,12765
+4473,7950,2016,chevrolet,excellent,gas,61000
+4474,11500,2014,chrysler,excellent,gas,65000
+4475,47990,2019,chevrolet,good,gas,34216
+4476,18590,2017,toyota,good,gas,30223
+4477,8500,2006,ram,good,gas,180969
+4478,5599,2006,toyota,excellent,gas,200200
+4479,3000,1977,buick,fair,gas,88000
+4480,26990,2020,toyota,good,gas,8625
+4481,11500,2015,ford,good,hybrid,88800
+4482,36900,2015,chevrolet,good,diesel,167000
+4483,2000,2009,chevrolet,like new,gas,151243
+4484,18500,2019,chevrolet,excellent,gas,29900
+4485,30800,2019,gmc,excellent,gas,14000
+4486,6000,1996,lincoln,excellent,gas,136000
+4487,4500,2011,kia,excellent,gas,134000
+4488,30900,2016,ram,good,diesel,155000
+4489,20590,2015,bmw,good,gas,65290
+4490,5500,2009,saturn,excellent,gas,146382
+4491,45590,2018,mercedes-benz,good,gas,53375
+4492,38990,2020,audi,good,gas,19067
+4493,32990,2015,chevrolet,good,gas,84498
+4494,32000,2015,chevrolet,good,gas,62750
+4495,10900,2013,audi,excellent,gas,182590
+4496,9990,2007,ford,good,gas,122900
+4497,4800,2008,ford,good,gas,203000
+4498,6000,2009,ford,good,gas,197000
+4499,5500,2011,jeep,excellent,gas,200000
+4500,6500,2005,jeep,good,gas,100885
+4501,2800,2001,ford,good,gas,139000
+4502,10500,2007,dodge,excellent,gas,71500
+4503,26500,1998,ford,excellent,diesel,139440
+4504,15000,2016,chevrolet,like new,gas,8469
+4505,6900,2000,chevrolet,good,gas,183500
+4506,8490,2011,hyundai,good,gas,105598
+4507,7990,2010,gmc,good,gas,163208
+4508,11000,2011,toyota,good,gas,170020
+4509,9990,2011,toyota,good,gas,88172
+4510,11500,2012,toyota,good,gas,125999
+4511,7500,2004,jeep,excellent,gas,100000
+4512,4900,2008,ford,good,gas,124000
+4513,17990,2012,chevrolet,good,gas,128863
+4514,10500,2007,toyota,good,gas,202455
+4515,15895,2016,hyundai,excellent,gas,48483
+4516,4200,2012,nissan,excellent,gas,134000
+4517,7500,2004,gmc,good,gas,216000
+4518,14490,2009,chevrolet,good,gas,173850
+4519,17500,2009,jeep,good,gas,170453
+4520,5900,2014,dodge,good,gas,101700
+4521,7500,1992,ram,good,diesel,213976
+4522,8899,2017,nissan,excellent,gas,65511
+4523,7900,2005,toyota,excellent,gas,118000
+4524,10500,1994,chevrolet,excellent,gas,210193
+4525,25900,2013,honda,excellent,gas,110542
+4526,6900,2004,chrysler,excellent,gas,91500
+4527,33900,2018,ford,like new,gas,70100
+4528,2800,2009,ford,excellent,gas,197000
+4529,16785,2016,dodge,excellent,gas,18758
+4530,11500,1984,harley-davidson,like new,gas,5000
+4531,9000,2006,pontiac,like new,gas,84000
+4532,14895,2012,audi,excellent,gas,92899
+4533,14990,2012,chevrolet,good,gas,187043
+4534,19990,2015,chevrolet,good,gas,205779
+4535,4500,2002,ford,fair,gas,138000
+4536,16490,1992,gmc,good,gas,100400
+4537,8500,1997,jeep,good,gas,189065
+4538,19500,2010,jeep,good,gas,164953
+4539,18250,2014,gmc,good,gas,121000
+4540,3500,2004,toyota,good,gas,217738
+4541,2000,1994,chevrolet,fair,gas,110000
+4542,14000,1992,pontiac,excellent,gas,104661
+4543,6990,2006,honda,good,gas,188134
+4544,11990,2008,chevrolet,good,gas,146515
+4545,2800,2010,ford,good,gas,186200
+4546,2000,2002,chevrolet,good,gas,197000
+4547,3999,2003,mercury,excellent,gas,119000
+4548,5599,2004,pontiac,excellent,gas,79700
+4549,6599,2004,toyota,excellent,gas,103900
+4550,13900,2004,ford,like new,gas,63000
+4551,15895,2019,hyundai,excellent,gas,35599
+4552,4500,1972,chevrolet,good,gas,40000
+4553,6990,1995,chevrolet,good,gas,225268
+4554,36500,2016,gmc,like new,gas,50000
+4555,19995,2014,chevrolet,excellent,gas,90005
+4556,5490,2007,jeep,good,gas,174763
+4557,14800,2016,chrysler,excellent,gas,108795
+4558,14500,2008,jeep,good,gas,115274
+4559,13400,2012,subaru,excellent,gas,95114
+4560,11400,2016,ford,excellent,gas,95280
+4561,15400,2015,subaru,excellent,gas,104345
+4562,16600,2017,audi,excellent,gas,108822
+4563,18600,2012,rover,excellent,gas,107489
+4564,9800,2013,honda,excellent,gas,115639
+4565,12400,2018,chevrolet,excellent,gas,70988
+4566,14400,2015,nissan,excellent,gas,98232
+4567,16500,2011,jeep,good,gas,132486
+4568,5700,2010,chrysler,good,gas,185000
+4569,10990,2012,chevrolet,good,gas,164037
+4570,3600,2012,volkswagen,good,gas,138850
+4571,9990,2003,chevrolet,good,gas,224362
+4572,9700,2013,ford,good,gas,151456
+4573,10800,2015,kia,excellent,gas,105746
+4574,18895,2016,ford,good,gas,98136
+4575,7499,2011,ford,excellent,gas,87500
+4576,35990,2018,ford,good,gas,22812
+4577,33990,2019,jeep,good,gas,7359
+4578,26990,2017,mazda,good,gas,4114
+4579,9000,2013,chevrolet,good,gas,124000
+4580,16000,2018,subaru,excellent,gas,105000
+4581,30590,2020,ford,good,gas,30588
+4582,15590,2016,chevrolet,good,gas,7076
+4583,25990,2013,mercedes-benz,good,gas,42045
+4584,17990,2015,volkswagen,good,diesel,51482
+4585,4850,2008,ford,excellent,gas,152000
+4586,15500,2009,chevrolet,excellent,hybrid,89000
+4587,34990,2020,jeep,good,gas,3181
+4588,32990,2018,ford,good,gas,27726
+4589,17990,2012,volkswagen,good,gas,93185
+4590,29990,2019,mazda,good,gas,5247
+4591,39590,2017,chevrolet,good,gas,10496
+4592,15990,2010,ford,good,gas,48055
+4593,9500,2010,ram,good,gas,158675
+4594,9000,2015,jeep,good,gas,71100
+4595,38990,2013,chevrolet,good,gas,51525
+4596,33990,2012,mercedes-benz,good,gas,88107
+4597,29590,2017,infiniti,good,gas,31153
+4598,23990,2015,infiniti,good,gas,42327
+4599,33590,2019,lincoln,good,gas,7670
+4600,33990,2019,acura,good,gas,11902
+4601,17990,2015,mitsubishi,good,gas,59014
+4602,31990,2020,mazda,good,gas,2408
+4603,25590,2017,ford,good,gas,11325
+4604,15900,2008,ford,excellent,gas,90200
+4605,33990,2018,bmw,good,gas,30570
+4606,17590,2011,bmw,good,gas,69457
+4607,30590,2016,jeep,good,gas,59322
+4608,19000,2011,chevrolet,excellent,gas,70000
+4609,41590,2017,mercedes-benz,good,gas,18987
+4610,38590,2016,mercedes-benz,good,gas,26862
+4611,17990,2018,hyundai,good,gas,17897
+4612,22990,2017,lincoln,good,gas,13210
+4613,8900,2013,dodge,like new,gas,82536
+4614,24590,2017,acura,good,gas,36731
+4615,34990,2018,ford,good,gas,18650
+4616,38590,2020,bmw,good,gas,5580
+4617,21590,2013,bmw,good,gas,62993
+4618,36590,2018,audi,good,gas,49963
+4619,2000,2006,chevrolet,good,gas,150000
+4620,28990,2016,jeep,good,gas,69856
+4621,8600,2003,ford,like new,diesel,177000
+4622,7000,2013,ford,like new,gas,90000
+4623,45590,2018,mercedes-benz,good,gas,5277
+4624,30990,2018,infiniti,good,gas,22821
+4625,24590,2018,lincoln,good,gas,16081
+4626,22990,2020,hyundai,good,gas,3066
+4627,6900,2004,chevrolet,good,gas,179000
+4628,38500,2017,chevrolet,excellent,gas,3211
+4629,13895,2011,gmc,excellent,gas,180500
+4630,6500,1999,jeep,good,gas,130000
+4631,7500,2008,buick,excellent,gas,155000
+4632,33480,2017,chevrolet,excellent,gas,103026
+4633,18495,2014,toyota,like new,gas,37582
+4634,5000,2005,ford,good,gas,135500
+4635,20000,2014,chrysler,like new,gas,2800
+4636,7500,2006,honda,good,gas,225073
+4637,2400,1996,ford,fair,gas,184000
+4638,20900,2015,chevrolet,excellent,gas,134800
+4639,34900,2020,ford,like new,gas,13207
+4640,21900,2017,chevrolet,excellent,gas,88650
+4641,19900,2014,ford,good,gas,138458
+4642,26900,2016,ford,excellent,gas,96697
+4643,26500,2014,chevrolet,like new,gas,99000
+4644,23500,2017,hyundai,excellent,gas,60000
+4645,11495,2009,ford,excellent,gas,145321
+4646,4995,2008,lexus,excellent,gas,225465
+4647,4200,2008,chevrolet,good,gas,184000
+4648,6500,2002,toyota,good,gas,185500
+4649,3500,2002,ram,fair,gas,51000
+4650,6900,1997,chevrolet,excellent,gas,60385
+4651,3900,2007,jeep,good,gas,122474
+4652,7500,2010,volkswagen,excellent,gas,108000
+4653,7995,2011,ford,excellent,gas,145500
+4654,15000,2015,ram,good,gas,145000
+4655,15995,2016,chevrolet,excellent,gas,127000
+4656,16995,2015,gmc,excellent,gas,105000
+4657,18995,2010,ford,excellent,diesel,223500
+4658,8395,2015,chevrolet,excellent,gas,78500
+4659,10495,2015,ford,excellent,gas,142000
+4660,8495,2014,ford,excellent,gas,142000
+4661,18995,2017,chevrolet,excellent,gas,112000
+4662,13495,2014,gmc,excellent,gas,105500
+4663,12995,2009,chevrolet,excellent,gas,165500
+4664,23995,2013,ford,excellent,gas,132000
+4665,11995,2008,chevrolet,excellent,gas,171500
+4666,7395,2011,ford,excellent,gas,105000
+4667,16995,2008,ford,excellent,diesel,155000
+4668,6795,2006,ford,good,gas,124500
+4669,6995,2010,ford,good,gas,194000
+4670,7795,2012,chevrolet,excellent,gas,150500
+4671,8695,2011,chevrolet,excellent,gas,142000
+4672,15995,2011,chevrolet,excellent,gas,141500
+4673,19995,2015,hyundai,excellent,gas,60000
+4674,14495,2009,gmc,excellent,gas,179500
+4675,18995,2013,chevrolet,excellent,gas,231000
+4676,14995,2016,ford,excellent,gas,113500
+4677,21495,2013,gmc,excellent,gas,124000
+4678,15295,2011,ram,excellent,gas,162000
+4679,15695,2011,ford,excellent,gas,150500
+4680,14995,2010,gmc,excellent,gas,148500
+4681,14895,2010,chevrolet,excellent,gas,102000
+4682,12495,2015,ford,excellent,gas,96500
+4683,19995,2011,chevrolet,excellent,gas,101000
+4684,16995,2010,chevrolet,excellent,gas,139000
+4685,6995,2002,ford,fair,gas,139000
+4686,15295,2014,jeep,excellent,gas,94500
+4687,16395,2010,chevrolet,excellent,gas,128500
+4688,11795,2009,ford,excellent,gas,204000
+4689,7995,2005,ford,good,gas,144000
+4690,12995,2008,gmc,excellent,gas,155500
+4691,5695,2009,mercury,fair,gas,158500
+4692,7995,2012,ford,good,gas,141000
+4693,9495,2013,ford,excellent,gas,145000
+4694,18995,2014,gmc,excellent,gas,157500
+4695,33000,2017,jeep,excellent,gas,59500
+4696,26750,2017,ram,excellent,gas,154000
+4697,8000,2014,hyundai,like new,gas,113000
+4698,26000,2009,ram,excellent,diesel,165818
+4699,6995,2008,gmc,excellent,gas,194274
+4700,8900,2008,cadillac,excellent,gas,220000
+4701,8500,2013,chevrolet,good,gas,108900
+4702,16000,2004,ford,like new,gas,70000
+4703,11000,2014,dodge,excellent,gas,98000
+4704,7900,2005,gmc,excellent,gas,191000
+4705,2995,2005,chevrolet,good,gas,134000
+4706,4995,2005,chevrolet,good,gas,118000
+4707,3295,2004,chevrolet,good,gas,189000
+4708,3495,2008,cadillac,excellent,gas,172245
+4709,6295,2011,chevrolet,excellent,gas,124765
+4710,4295,2006,ford,excellent,gas,159987
+4711,4500,2005,ford,fair,gas,160000
+4712,7000,2001,chevrolet,excellent,gas,160000
+4713,9500,2013,chevrolet,good,gas,100700
+4714,10995,2010,chevrolet,excellent,gas,207138
+4715,14374,2014,chevrolet,excellent,gas,90000
+4716,9500,1973,dodge,fair,gas,89000
+4717,7000,2007,chevrolet,excellent,gas,85000
+4718,10900,2003,subaru,excellent,gas,70300
+4719,26100,2013,jeep,excellent,gas,33500
+4720,16000,1999,chevrolet,excellent,gas,86000
+4721,14995,2017,volkswagen,excellent,gas,80500
+4722,10900,2011,subaru,good,gas,88960
+4723,3300,1995,mercury,good,gas,138371
+4724,10500,2006,dodge,excellent,gas,186000
+4725,4000,2004,nissan,good,gas,220000
+4726,3500,2002,dodge,good,gas,133000
+4727,4950,1998,jeep,salvage,gas,124000
+4728,3000,2001,jaguar,excellent,gas,67000
+4729,7500,2006,gmc,good,gas,120000
+4730,8495,2011,ford,excellent,gas,129000
+4731,4995,1999,ram,fair,gas,102000
+4732,16995,2009,ford,excellent,diesel,139000
+4733,16495,2015,chevrolet,excellent,gas,158000
+4734,10000,2008,mazda,excellent,gas,53147
+4735,7400,2005,ford,good,gas,132000
+4736,2400,1997,subaru,fair,gas,191300
+4737,5500,2007,gmc,excellent,gas,248000
+4738,18995,2015,dodge,excellent,gas,58347
+4739,8295,2009,ford,excellent,gas,211911
+4740,16200,2004,chevrolet,good,diesel,178000
+4741,14500,2014,ford,like new,gas,69170
+4742,15200,2016,chevrolet,excellent,gas,75000
+4743,14467,2017,chevrolet,excellent,gas,38000
+4744,12395,2010,nissan,excellent,gas,184000
+4745,25995,2015,chevrolet,excellent,gas,167117
+4746,19995,2013,ram,excellent,gas,130500
+4747,7495,2006,mitsubishi,excellent,gas,156500
+4748,5000,2000,jeep,good,gas,150000
+4749,15877,2015,chevrolet,excellent,gas,41000
+4750,20000,1973,buick,like new,gas,82000
+4751,32500,2017,ram,excellent,gas,32000
+4752,7500,2010,gmc,good,gas,189285
+4753,6475,1985,chevrolet,good,gas,73000
+4754,14000,2015,ford,excellent,gas,117000
+4755,21750,2014,gmc,excellent,gas,103000
+4756,11800,1997,chevrolet,good,gas,150000
+4757,6950,2007,toyota,excellent,gas,185958
+4758,11750,2015,chevrolet,excellent,gas,45014
+4759,13000,2015,honda,good,gas,92000
+4760,5000,2012,mazda,excellent,gas,64000
+4761,2650,2005,honda,fair,gas,41000
+4762,13500,2015,subaru,good,gas,109878
+4763,6500,2010,honda,good,gas,163790
+4764,9400,2014,chevrolet,good,gas,87000
+4765,12100,2013,honda,good,gas,104753
+4766,2500,2009,chevrolet,fair,gas,218000
+4767,6995,2007,honda,excellent,gas,184000
+4768,19500,2015,toyota,like new,gas,60000
+4769,5000,1996,cadillac,excellent,gas,77300
+4770,5000,1996,cadillac,excellent,gas,77500
+4771,39250,2018,ford,like new,gas,30000
+4772,12000,2011,toyota,like new,gas,67000
+4773,3500,1998,dodge,good,gas,130000
+4774,14500,2015,gmc,excellent,gas,88000
+4775,5500,2009,ford,good,gas,160000
+4776,10100,2011,subaru,good,gas,119866
+4777,26500,2015,nissan,excellent,gas,121000
+4778,18000,2011,ford,excellent,gas,187342
+4779,36000,2017,chevrolet,good,gas,86500
+4780,13500,2015,lincoln,excellent,gas,60000
+4781,9995,2006,gmc,excellent,gas,171500
+4782,42995,2018,ram,excellent,diesel,74726
+4783,7500,2006,ford,excellent,gas,138456
+4784,3200,2004,jeep,good,gas,126000
+4785,36972,2017,jeep,like new,gas,12620
+4786,12500,2011,jeep,good,gas,136000
+4787,20000,2018,jeep,like new,gas,68500
+4788,27857,2015,chevrolet,excellent,gas,88000
+4789,9500,2011,ford,good,gas,146000
+4790,30000,2015,gmc,excellent,gas,96000
+4791,53000,2016,ford,excellent,diesel,66461
+4792,23800,2017,cadillac,excellent,gas,67700
+4793,33900,2019,toyota,like new,gas,22000
+4794,8500,1985,chevrolet,excellent,gas,100000
+4795,4000,2007,chevrolet,good,gas,81000
+4796,8995,2011,chevrolet,excellent,gas,100317
+4797,9728,2011,ram,excellent,gas,140016
+4798,5000,2004,chevrolet,good,gas,91000
+4799,29495,2016,chevrolet,excellent,gas,118898
+4800,3000,2012,gmc,fair,gas,117000
